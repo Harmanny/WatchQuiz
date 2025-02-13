@@ -1,0 +1,2503 @@
+[
+    {
+        "question": "What is the unit of electric resistance?",
+        "options": [
+            "Volt",
+            "Watt",
+            "Ohm"
+        ],
+        "answer": "Ohm",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the speed of light in a vacuum?",
+        "options": [
+            "3,000,000 m/s",
+            "150,000,000 m/s",
+            "299,792,458 m/s"
+        ],
+        "answer": "299,792,458 m/s",
+        "category": "Physics"
+    },
+    {
+        "question": "Which fundamental force is responsible for keeping planets in orbit?",
+        "options": [
+            "Strong nuclear force",
+            "Gravity",
+            "Electromagnetism"
+        ],
+        "answer": "Gravity",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the name of the law stating that for every action, there is an equal and opposite reaction?",
+        "options": [
+            "Newton's Second Law",
+            "Newton's Third Law",
+            "Newton's First Law"
+        ],
+        "answer": "Newton's Third Law",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of wave is sound?",
+        "options": [
+            "Electromagnetic",
+            "Longitudinal",
+            "Transverse"
+        ],
+        "answer": "Longitudinal",
+        "category": "Physics"
+    },
+    {
+        "question": "Which subatomic particle has a negative charge?",
+        "options": [
+            "Electron",
+            "Neutron",
+            "Proton"
+        ],
+        "answer": "Electron",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the term for the resistance of an object to changes in motion?",
+        "options": [
+            "Momentum",
+            "Inertia",
+            "Velocity"
+        ],
+        "answer": "Inertia",
+        "category": "Physics"
+    },
+    {
+        "question": "Which of these materials is the best conductor of electricity?",
+        "options": [
+            "Copper",
+            "Silver",
+            "Gold"
+        ],
+        "answer": "Silver",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the primary source of the Sun's energy?",
+        "options": [
+            "Chemical combustion",
+            "Nuclear fusion",
+            "Nuclear fission"
+        ],
+        "answer": "Nuclear fusion",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the term for the bending of light as it passes from one medium to another?",
+        "options": [
+            "Diffraction",
+            "Refraction",
+            "Reflection"
+        ],
+        "answer": "Refraction",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Pascal",
+            "Newton",
+            "Joule"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Galileo Galilei",
+            "Albert Einstein",
+            "Isaac Newton"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-100\u00b0C",
+            "-273.15\u00b0C",
+            "0\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Higgs boson",
+            "Neutrino",
+            "Photon"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Elastic potential energy",
+            "Kinetic energy",
+            "Thermal energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Pascal",
+            "Newton",
+            "Joule"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Galileo Galilei",
+            "Isaac Newton",
+            "Albert Einstein"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-273.15\u00b0C",
+            "-100\u00b0C",
+            "0\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Neutrino",
+            "Photon",
+            "Higgs boson"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Kinetic energy",
+            "Thermal energy",
+            "Elastic potential energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Newton",
+            "Joule",
+            "Pascal"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-273.15\u00b0C",
+            "0\u00b0C",
+            "-100\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Neutrino",
+            "Photon",
+            "Higgs boson"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Elastic potential energy",
+            "Kinetic energy",
+            "Thermal energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Newton",
+            "Joule",
+            "Pascal"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Albert Einstein"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "0\u00b0C",
+            "-100\u00b0C",
+            "-273.15\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Higgs boson",
+            "Photon",
+            "Neutrino"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Thermal energy",
+            "Kinetic energy",
+            "Elastic potential energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Newton",
+            "Pascal",
+            "Joule"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Galileo Galilei"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-100\u00b0C",
+            "0\u00b0C",
+            "-273.15\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Photon",
+            "Higgs boson",
+            "Neutrino"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Thermal energy",
+            "Kinetic energy",
+            "Elastic potential energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Newton",
+            "Pascal",
+            "Joule"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Albert Einstein",
+            "Galileo Galilei",
+            "Isaac Newton"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-100\u00b0C",
+            "-273.15\u00b0C",
+            "0\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Photon",
+            "Neutrino",
+            "Higgs boson"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Kinetic energy",
+            "Thermal energy",
+            "Elastic potential energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Pascal",
+            "Joule",
+            "Newton"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Galileo Galilei",
+            "Isaac Newton",
+            "Albert Einstein"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-273.15\u00b0C",
+            "-100\u00b0C",
+            "0\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Higgs boson",
+            "Neutrino",
+            "Photon"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Thermal energy",
+            "Elastic potential energy",
+            "Kinetic energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Joule",
+            "Newton",
+            "Pascal"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Albert Einstein",
+            "Galileo Galilei",
+            "Isaac Newton"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "0\u00b0C",
+            "-100\u00b0C",
+            "-273.15\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Neutrino",
+            "Photon",
+            "Higgs boson"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Elastic potential energy",
+            "Kinetic energy",
+            "Thermal energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Newton",
+            "Pascal",
+            "Joule"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Albert Einstein"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-273.15\u00b0C",
+            "0\u00b0C",
+            "-100\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Neutrino",
+            "Photon",
+            "Higgs boson"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Thermal energy",
+            "Kinetic energy",
+            "Elastic potential energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Joule",
+            "Pascal",
+            "Newton"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Galileo Galilei"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "0\u00b0C",
+            "-273.15\u00b0C",
+            "-100\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Higgs boson",
+            "Neutrino",
+            "Photon"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Elastic potential energy",
+            "Thermal energy",
+            "Kinetic energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Pascal",
+            "Joule",
+            "Newton"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-273.15\u00b0C",
+            "-100\u00b0C",
+            "0\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Neutrino",
+            "Higgs boson",
+            "Photon"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Elastic potential energy",
+            "Kinetic energy",
+            "Thermal energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Pascal",
+            "Joule",
+            "Newton"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Albert Einstein"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "0\u00b0C",
+            "-100\u00b0C",
+            "-273.15\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Higgs boson",
+            "Photon",
+            "Neutrino"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Thermal energy",
+            "Kinetic energy",
+            "Elastic potential energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Joule",
+            "Pascal",
+            "Newton"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Albert Einstein",
+            "Galileo Galilei",
+            "Isaac Newton"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-100\u00b0C",
+            "-273.15\u00b0C",
+            "0\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Higgs boson",
+            "Neutrino",
+            "Photon"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Thermal energy",
+            "Kinetic energy",
+            "Elastic potential energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Pascal",
+            "Newton",
+            "Joule"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Galileo Galilei",
+            "Albert Einstein",
+            "Isaac Newton"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "0\u00b0C",
+            "-100\u00b0C",
+            "-273.15\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Neutrino",
+            "Higgs boson",
+            "Photon"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Elastic potential energy",
+            "Kinetic energy",
+            "Thermal energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Joule",
+            "Newton",
+            "Pascal"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Albert Einstein",
+            "Galileo Galilei",
+            "Isaac Newton"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-100\u00b0C",
+            "-273.15\u00b0C",
+            "0\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Higgs boson",
+            "Photon",
+            "Neutrino"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Kinetic energy",
+            "Thermal energy",
+            "Elastic potential energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Joule",
+            "Newton",
+            "Pascal"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Galileo Galilei",
+            "Isaac Newton",
+            "Albert Einstein"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-100\u00b0C",
+            "-273.15\u00b0C",
+            "0\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Photon",
+            "Neutrino",
+            "Higgs boson"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Thermal energy",
+            "Kinetic energy",
+            "Elastic potential energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Pascal",
+            "Newton",
+            "Joule"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Albert Einstein"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-100\u00b0C",
+            "-273.15\u00b0C",
+            "0\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Photon",
+            "Neutrino",
+            "Higgs boson"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Thermal energy",
+            "Kinetic energy",
+            "Elastic potential energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Newton",
+            "Pascal",
+            "Joule"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Galileo Galilei",
+            "Albert Einstein",
+            "Isaac Newton"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-273.15\u00b0C",
+            "0\u00b0C",
+            "-100\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Photon",
+            "Higgs boson",
+            "Neutrino"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Thermal energy",
+            "Elastic potential energy",
+            "Kinetic energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Joule",
+            "Pascal",
+            "Newton"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-100\u00b0C",
+            "-273.15\u00b0C",
+            "0\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Photon",
+            "Higgs boson",
+            "Neutrino"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Elastic potential energy",
+            "Kinetic energy",
+            "Thermal energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Joule",
+            "Pascal",
+            "Newton"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Galileo Galilei",
+            "Albert Einstein",
+            "Isaac Newton"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "0\u00b0C",
+            "-100\u00b0C",
+            "-273.15\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Photon",
+            "Higgs boson",
+            "Neutrino"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Elastic potential energy",
+            "Thermal energy",
+            "Kinetic energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Newton",
+            "Joule",
+            "Pascal"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Galileo Galilei"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-100\u00b0C",
+            "0\u00b0C",
+            "-273.15\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Photon",
+            "Neutrino",
+            "Higgs boson"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Elastic potential energy",
+            "Kinetic energy",
+            "Thermal energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Pascal",
+            "Newton",
+            "Joule"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Albert Einstein"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "0\u00b0C",
+            "-100\u00b0C",
+            "-273.15\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Photon",
+            "Higgs boson",
+            "Neutrino"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Thermal energy",
+            "Kinetic energy",
+            "Elastic potential energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Joule",
+            "Newton",
+            "Pascal"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Galileo Galilei"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "0\u00b0C",
+            "-100\u00b0C",
+            "-273.15\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Photon",
+            "Higgs boson",
+            "Neutrino"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Kinetic energy",
+            "Elastic potential energy",
+            "Thermal energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Pascal",
+            "Joule",
+            "Newton"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Galileo Galilei"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-100\u00b0C",
+            "0\u00b0C",
+            "-273.15\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Neutrino",
+            "Photon",
+            "Higgs boson"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Thermal energy",
+            "Kinetic energy",
+            "Elastic potential energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Newton",
+            "Pascal",
+            "Joule"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Galileo Galilei",
+            "Albert Einstein",
+            "Isaac Newton"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-273.15\u00b0C",
+            "0\u00b0C",
+            "-100\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Higgs boson",
+            "Photon",
+            "Neutrino"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Kinetic energy",
+            "Elastic potential energy",
+            "Thermal energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Pascal",
+            "Newton",
+            "Joule"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-273.15\u00b0C",
+            "0\u00b0C",
+            "-100\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Neutrino",
+            "Higgs boson",
+            "Photon"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Thermal energy",
+            "Elastic potential energy",
+            "Kinetic energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Joule",
+            "Newton",
+            "Pascal"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-100\u00b0C",
+            "0\u00b0C",
+            "-273.15\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Neutrino",
+            "Photon",
+            "Higgs boson"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Elastic potential energy",
+            "Kinetic energy",
+            "Thermal energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Newton",
+            "Joule",
+            "Pascal"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "0\u00b0C",
+            "-100\u00b0C",
+            "-273.15\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Photon",
+            "Higgs boson",
+            "Neutrino"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Kinetic energy",
+            "Thermal energy",
+            "Elastic potential energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Newton",
+            "Pascal",
+            "Joule"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "0\u00b0C",
+            "-100\u00b0C",
+            "-273.15\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Neutrino",
+            "Photon",
+            "Higgs boson"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Kinetic energy",
+            "Thermal energy",
+            "Elastic potential energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Pascal",
+            "Newton",
+            "Joule"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Albert Einstein"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-273.15\u00b0C",
+            "-100\u00b0C",
+            "0\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Photon",
+            "Higgs boson",
+            "Neutrino"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Thermal energy",
+            "Elastic potential energy",
+            "Kinetic energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Joule",
+            "Pascal",
+            "Newton"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-273.15\u00b0C",
+            "-100\u00b0C",
+            "0\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Higgs boson",
+            "Neutrino",
+            "Photon"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Elastic potential energy",
+            "Thermal energy",
+            "Kinetic energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Joule",
+            "Newton",
+            "Pascal"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Galileo Galilei",
+            "Albert Einstein",
+            "Isaac Newton"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-273.15\u00b0C",
+            "0\u00b0C",
+            "-100\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Higgs boson",
+            "Neutrino",
+            "Photon"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Elastic potential energy",
+            "Kinetic energy",
+            "Thermal energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Joule",
+            "Pascal",
+            "Newton"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Galileo Galilei",
+            "Isaac Newton",
+            "Albert Einstein"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-100\u00b0C",
+            "-273.15\u00b0C",
+            "0\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Neutrino",
+            "Photon",
+            "Higgs boson"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Kinetic energy",
+            "Thermal energy",
+            "Elastic potential energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Newton",
+            "Pascal",
+            "Joule"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Albert Einstein"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-273.15\u00b0C",
+            "-100\u00b0C",
+            "0\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Photon",
+            "Higgs boson",
+            "Neutrino"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Thermal energy",
+            "Elastic potential energy",
+            "Kinetic energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Joule",
+            "Pascal",
+            "Newton"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Albert Einstein",
+            "Galileo Galilei",
+            "Isaac Newton"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "0\u00b0C",
+            "-100\u00b0C",
+            "-273.15\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Neutrino",
+            "Higgs boson",
+            "Photon"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Elastic potential energy",
+            "Kinetic energy",
+            "Thermal energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Pascal",
+            "Newton",
+            "Joule"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Albert Einstein"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-273.15\u00b0C",
+            "-100\u00b0C",
+            "0\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Neutrino",
+            "Higgs boson",
+            "Photon"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Elastic potential energy",
+            "Thermal energy",
+            "Kinetic energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Newton",
+            "Pascal",
+            "Joule"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-100\u00b0C",
+            "0\u00b0C",
+            "-273.15\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Higgs boson",
+            "Photon",
+            "Neutrino"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Elastic potential energy",
+            "Thermal energy",
+            "Kinetic energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Newton",
+            "Joule",
+            "Pascal"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Galileo Galilei"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-100\u00b0C",
+            "0\u00b0C",
+            "-273.15\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Higgs boson",
+            "Neutrino",
+            "Photon"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Kinetic energy",
+            "Thermal energy",
+            "Elastic potential energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Joule",
+            "Newton",
+            "Pascal"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Isaac Newton",
+            "Albert Einstein",
+            "Galileo Galilei"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-100\u00b0C",
+            "0\u00b0C",
+            "-273.15\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Higgs boson",
+            "Photon",
+            "Neutrino"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Thermal energy",
+            "Elastic potential energy",
+            "Kinetic energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Pascal",
+            "Joule",
+            "Newton"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Albert Einstein",
+            "Galileo Galilei",
+            "Isaac Newton"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-273.15\u00b0C",
+            "0\u00b0C",
+            "-100\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Neutrino",
+            "Higgs boson",
+            "Photon"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Elastic potential energy",
+            "Thermal energy",
+            "Kinetic energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Newton",
+            "Pascal",
+            "Joule"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Isaac Newton",
+            "Galileo Galilei",
+            "Albert Einstein"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-100\u00b0C",
+            "-273.15\u00b0C",
+            "0\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Higgs boson",
+            "Photon",
+            "Neutrino"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Elastic potential energy",
+            "Thermal energy",
+            "Kinetic energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Pascal",
+            "Joule",
+            "Newton"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Galileo Galilei",
+            "Albert Einstein",
+            "Isaac Newton"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-273.15\u00b0C",
+            "0\u00b0C",
+            "-100\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Photon",
+            "Neutrino",
+            "Higgs boson"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Thermal energy",
+            "Elastic potential energy",
+            "Kinetic energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Joule",
+            "Pascal",
+            "Newton"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Albert Einstein",
+            "Galileo Galilei",
+            "Isaac Newton"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-273.15\u00b0C",
+            "-100\u00b0C",
+            "0\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Higgs boson",
+            "Photon",
+            "Neutrino"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Elastic potential energy",
+            "Thermal energy",
+            "Kinetic energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Joule",
+            "Pascal",
+            "Newton"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "0\u00b0C",
+            "-273.15\u00b0C",
+            "-100\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Higgs boson",
+            "Photon",
+            "Neutrino"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Kinetic energy",
+            "Thermal energy",
+            "Elastic potential energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Joule",
+            "Newton",
+            "Pascal"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Galileo Galilei",
+            "Isaac Newton",
+            "Albert Einstein"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "0\u00b0C",
+            "-100\u00b0C",
+            "-273.15\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Neutrino",
+            "Higgs boson",
+            "Photon"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Thermal energy",
+            "Elastic potential energy",
+            "Kinetic energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Newton",
+            "Joule",
+            "Pascal"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-100\u00b0C",
+            "-273.15\u00b0C",
+            "0\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Photon",
+            "Neutrino",
+            "Higgs boson"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Thermal energy",
+            "Elastic potential energy",
+            "Kinetic energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Newton",
+            "Joule",
+            "Pascal"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "-273.15\u00b0C",
+            "0\u00b0C",
+            "-100\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Neutrino",
+            "Photon",
+            "Higgs boson"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Kinetic energy",
+            "Elastic potential energy",
+            "Thermal energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    },
+    {
+        "question": "What is the SI unit of force?",
+        "options": [
+            "Joule",
+            "Newton",
+            "Pascal"
+        ],
+        "answer": "Newton",
+        "category": "Physics"
+    },
+    {
+        "question": "Which scientist developed the theory of general relativity?",
+        "options": [
+            "Albert Einstein",
+            "Isaac Newton",
+            "Galileo Galilei"
+        ],
+        "answer": "Albert Einstein",
+        "category": "Physics"
+    },
+    {
+        "question": "What is absolute zero in Celsius?",
+        "options": [
+            "0\u00b0C",
+            "-100\u00b0C",
+            "-273.15\u00b0C"
+        ],
+        "answer": "-273.15\u00b0C",
+        "category": "Physics"
+    },
+    {
+        "question": "Which particle is responsible for giving mass to other particles?",
+        "options": [
+            "Higgs boson",
+            "Neutrino",
+            "Photon"
+        ],
+        "answer": "Higgs boson",
+        "category": "Physics"
+    },
+    {
+        "question": "What type of energy is stored in a stretched rubber band?",
+        "options": [
+            "Elastic potential energy",
+            "Thermal energy",
+            "Kinetic energy"
+        ],
+        "answer": "Elastic potential energy",
+        "category": "Physics"
+    }
+]
+
