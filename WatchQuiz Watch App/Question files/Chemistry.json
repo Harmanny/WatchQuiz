@@ -1,0 +1,1502 @@
+[
+  {
+    "question": "What is the chemical symbol for water?",
+    "options": ["HO2", "H2O", "OH2"],
+    "answer": "H2O",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What element has the chemical symbol 'Au'?",
+    "options": ["Gold", "Silver", "Copper"],
+    "answer": "Gold",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the pH value of pure water?",
+    "options": ["1", "7", "14"],
+    "answer": "7",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What element is represented by the symbol 'O'?",
+    "options": ["Gold", "Hydrogen", "Oxygen"],
+    "answer": "Oxygen",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for table salt?",
+    "options": ["KCl", "NaCl", "CaCl2"],
+    "answer": "NaCl",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which gas is most abundant in the Earth's atmosphere?",
+    "options": ["Carbon dioxide", "Nitrogen", "Oxygen"],
+    "answer": "Nitrogen",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the process of converting a solid directly into a gas called?",
+    "options": ["Deposition", "Sublimation", "Condensation"],
+    "answer": "Sublimation",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which acid is found in vinegar?",
+    "options": ["Acetic acid", "Hydrochloric acid", "Sulfuric acid"],
+    "answer": "Acetic acid",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the main component of natural gas?",
+    "options": ["Propane", "Methane", "Ethane"],
+    "answer": "Methane",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is known as quicksilver?",
+    "options": ["Lead", "Mercury", "Silver"],
+    "answer": "Mercury",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical symbol for iron?",
+    "options": ["Ir", "Fe", "In"],
+    "answer": "Fe",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What type of bond involves the sharing of electron pairs between atoms?",
+    "options": ["Metallic bond", "Covalent bond", "Ionic bond"],
+    "answer": "Covalent bond",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element has the atomic number 6?",
+    "options": ["Nitrogen", "Carbon", "Oxygen"],
+    "answer": "Carbon",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for carbon dioxide?",
+    "options": ["C2O", "CO2", "O2"],
+    "answer": "CO2",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is liquid at room temperature?",
+    "options": ["Chlorine", "Mercury", "Bromine"],
+    "answer": "Mercury",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Who is known as the father of modern chemistry?",
+    "options": ["John Dalton", "Antoine Lavoisier", "Dmitri Mendeleev"],
+    "answer": "Antoine Lavoisier",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What does the periodic table arrange elements by?",
+    "options": ["Density", "Atomic number", "Atomic weight"],
+    "answer": "Atomic number",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is a noble gas?",
+    "options": ["Nitrogen", "Sodium", "Neon"],
+    "answer": "Neon",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What type of reaction absorbs heat from its surroundings?",
+    "options": ["Exothermic reaction", "Neutral reaction", "Endothermic reaction"],
+    "answer": "Endothermic reaction",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which compound is commonly known as laughing gas?",
+    "options": ["Carbon monoxide", "Nitrous oxide", "Sulfur dioxide"],
+    "answer": "Nitrous oxide",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for ammonia?",
+    "options": ["NO3", "NH3", "N2H4"],
+    "answer": "NH3",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is essential for the production of hemoglobin?",
+    "options": ["Calcium", "Iron", "Sodium"],
+    "answer": "Iron",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the common name for sodium bicarbonate?",
+    "options": ["Baking soda", "Sugar", "Table salt"],
+    "answer": "Baking soda",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for methane?",
+    "options": ["C3H8", "CH4", "C2H6"],
+    "answer": "CH4",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which acid is used to clean rust off metals?",
+    "options": ["Hydrochloric acid", "Phosphoric acid", "Acetic acid"],
+    "answer": "Phosphoric acid",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What element has the chemical symbol 'Pb'?",
+    "options": ["Mercury", "Lead", "Tin"],
+    "answer": "Lead",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the process of a liquid changing into a gas?",
+    "options": ["Sublimation", "Evaporation", "Condensation"],
+    "answer": "Evaporation",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is represented by the symbol 'Na'?",
+    "options": ["Sodium", "Nickel", "Nitrogen"],
+    "answer": "Sodium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which gas is used in neon signs?",
+    "options": ["Helium", "Argon", "Neon"],
+    "answer": "Neon",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for sulfuric acid?",
+    "options": ["HNO3", "H2SO4", "HCl"],
+    "answer": "H2SO4",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element has the highest electronegativity?",
+    "options": ["Chlorine", "Fluorine", "Oxygen"],
+    "answer": "Fluorine",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the main gas found in Earth's ozone layer?",
+    "options": ["Oxygen (O2)", "Ozone (O3)", "Nitrogen (N2)"],
+    "answer": "Ozone (O3)",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in the production of semiconductors?",
+    "options": ["Copper", "Silicon", "Aluminum"],
+    "answer": "Silicon",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What does a catalyst do in a chemical reaction?",
+    "options": ["Speeds up the reaction", "Has no effect", "Slows down the reaction"],
+    "answer": "Speeds up the reaction",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which type of reaction involves the exchange of ions between compounds?",
+    "options": ["Synthesis reaction", "Double displacement reaction", "Combustion reaction"],
+    "answer": "Double displacement reaction",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for ethanol?",
+    "options": ["CH3OH", "C2H5OH", "C3H7OH"],
+    "answer": "C2H5OH",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is known for its use in balloons due to its low density?",
+    "options": ["Hydrogen", "Helium", "Nitrogen"],
+    "answer": "Helium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for a substance that speeds up a reaction without being consumed?",
+    "options": ["Solvent", "Catalyst", "Reagent"],
+    "answer": "Catalyst",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which metal can melt in your hand due to its low melting point?",
+    "options": ["Aluminum", "Titanium", "Gallium"],
+    "answer": "Gallium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical symbol for potassium?",
+    "options": ["Pt", "K", "P"],
+    "answer": "K",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element has the highest atomic number naturally occurring?",
+    "options": ["Plutonium", "Uranium", "Neptunium"],
+    "answer": "Uranium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for a substance made of only one type of element?",
+    "options": ["Mixture", "Compound", "Element"],
+    "answer": "Element",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which process involves the splitting of a nucleus?",
+    "options": ["Nuclear fusion", "Nuclear fission", "Radioactive decay"],
+    "answer": "Nuclear fission",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which process powers the sun?",
+    "options": ["Nuclear fission", "Combustion", "Nuclear fusion"],
+    "answer": "Nuclear fusion",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for glucose?",
+    "options": ["C6H10O5", "C6H12O6", "C12H22O11"],
+    "answer": "C6H12O6",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is represented by the symbol 'Ag'?",
+    "options": ["Gold", "Silver", "Argon"],
+    "answer": "Silver",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for ozone?",
+    "options": ["O2", "O3", "O4"],
+    "answer": "O3",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used as a disinfectant in water treatment?",
+    "options": ["Bromine", "Chlorine", "Fluorine"],
+    "answer": "Chlorine",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for rust?",
+    "options": ["Fe3O4", "Fe2O3", "FeO"],
+    "answer": "Fe2O3",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is known as a 'noble metal'?",
+    "options": ["Copper", "Gold", "Iron"],
+    "answer": "Gold",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical symbol for silver?",
+    "options": ["Au", "Ag", "Si"],
+    "answer": "Ag",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for a solution that resists changes in pH?",
+    "options": ["Acid", "Buffer", "Base"],
+    "answer": "Buffer",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element has the chemical symbol 'C'?",
+    "options": ["Calcium", "Carbon", "Copper"],
+    "answer": "Carbon",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the process of a gas turning into a liquid called?",
+    "options": ["Deposition", "Condensation", "Sublimation"],
+    "answer": "Condensation",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in the manufacture of glass?",
+    "options": ["Sodium", "Calcium", "Silicon"],
+    "answer": "Silicon",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the common name for dihydrogen monoxide?",
+    "options": ["Hydrogen peroxide", "Water", "Ammonia"],
+    "answer": "Water",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is necessary for the formation of strong bones?",
+    "options": ["Potassium", "Calcium", "Iron"],
+    "answer": "Calcium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is the primary component of fertilizers?",
+    "options": ["Argon", "Nitrogen", "Oxygen"],
+    "answer": "Nitrogen",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for baking soda?",
+    "options": ["NaCl", "NaHCO3", "KCl"],
+    "answer": "NaHCO3",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is known as the 'building block of life'?",
+    "options": ["Hydrogen", "Carbon", "Oxygen"],
+    "answer": "Carbon",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for the minimum energy required to remove an electron from an atom?",
+    "options": ["Electron affinity", "Ionization energy", "Electronegativity"],
+    "answer": "Ionization energy",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is the lightest in the periodic table?",
+    "options": ["Helium", "Lithium", "Hydrogen"],
+    "answer": "Hydrogen",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for ethanol (alcohol)?",
+    "options": ["C2H6O", "CH3OH", "C2H5OH"],
+    "answer": "C2H5OH",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which gas is responsible for the greenhouse effect?",
+    "options": ["Oxygen", "Carbon dioxide", "Argon"],
+    "answer": "Carbon dioxide",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is represented by the symbol 'Mg'?",
+    "options": ["Mercury", "Magnesium", "Manganese"],
+    "answer": "Magnesium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the process by which plants convert carbon dioxide into organic compounds?",
+    "options": ["Transpiration", "Photosynthesis", "Respiration"],
+    "answer": "Photosynthesis",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the common name for sodium chloride?",
+    "options": ["Baking soda", "Table salt", "Sugar"],
+    "answer": "Table salt",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in the production of lightweight alloys?",
+    "options": ["Lead", "Aluminum", "Iron"],
+    "answer": "Aluminum",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which type of bond is formed by the transfer of electrons?",
+    "options": ["Hydrogen bond", "Ionic bond", "Covalent bond"],
+    "answer": "Ionic bond",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for hydrochloric acid?",
+    "options": ["H2SO4", "HCl", "HNO3"],
+    "answer": "HCl",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is represented by the symbol 'Zn'?",
+    "options": ["Zirconium", "Zinc", "Zincum"],
+    "answer": "Zinc",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for nitric acid?",
+    "options": ["HCl", "HNO3", "H2SO4"],
+    "answer": "HNO3",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in fireworks for red color?",
+    "options": ["Copper", "Strontium", "Barium"],
+    "answer": "Strontium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is essential for the formation of proteins?",
+    "options": ["Carbon", "Nitrogen", "Oxygen"],
+    "answer": "Nitrogen",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for sulfur dioxide?",
+    "options": ["SO3", "S2O", "SO2"],
+    "answer": "SO2",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is represented by the symbol 'Sn'?",
+    "options": ["Antimony", "Tin", "Lead"],
+    "answer": "Tin",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for acetic acid?",
+    "options": ["C2H5OH", "CH3COOH", "H2CO3"],
+    "answer": "CH3COOH",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is a key component in the alloy steel?",
+    "options": ["Magnesium", "Carbon", "Sodium"],
+    "answer": "Carbon",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the process of a gas turning directly into a solid called?",
+    "options": ["Sublimation", "Deposition", "Condensation"],
+    "answer": "Deposition",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is primarily used in computer chips?",
+    "options": ["Germanium", "Gallium", "Silicon"],
+    "answer": "Silicon",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical symbol for tungsten?",
+    "options": ["Tn", "W", "Tu"],
+    "answer": "W",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is known as the most reactive alkali metal?",
+    "options": ["Lithium", "Cesium", "Sodium"],
+    "answer": "Cesium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for hydrogen peroxide?",
+    "options": ["H2O", "HO2", "H2O2"],
+    "answer": "H2O2",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element has the highest melting point?",
+    "options": ["Iron", "Copper", "Tungsten"],
+    "answer": "Tungsten",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the common name for CaCO3?",
+    "options": ["Chalk", "Marble", "Limestone"],
+    "answer": "Limestone",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in batteries and has the symbol 'Li'?",
+    "options": ["Lawrencium", "Lithium", "Lutetium"],
+    "answer": "Lithium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for potassium permanganate?",
+    "options": ["K2MnO4", "KMnO4", "KClO4"],
+    "answer": "KMnO4",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in dental amalgam?",
+    "options": ["Gold", "Mercury", "Silver"],
+    "answer": "Mercury",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the process by which a substance dissolves in a solvent?",
+    "options": ["Precipitation", "Dissolution", "Sublimation"],
+    "answer": "Dissolution",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is essential in the production of strong steel?",
+    "options": ["Neon", "Carbon", "Hydrogen"],
+    "answer": "Carbon",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for sodium hydroxide?",
+    "options": ["KOH", "NaCl", "NaOH"],
+    "answer": "NaOH",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which gas is produced when an acid reacts with a metal?",
+    "options": ["Oxygen", "Hydrogen", "Carbon dioxide"],
+    "answer": "Hydrogen",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for potassium nitrate?",
+    "options": ["KNO2", "KNO3", "K2NO3"],
+    "answer": "KNO3",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in the dyeing process and has the symbol 'Cr'?",
+    "options": ["Copper", "Chromium", "Cobalt"],
+    "answer": "Chromium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for the energy released during a chemical reaction?",
+    "options": ["Activation energy", "Enthalpy", "Entropy"],
+    "answer": "Enthalpy",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is necessary for making hemoglobin besides iron?",
+    "options": ["Zinc", "Copper", "Magnesium"],
+    "answer": "Copper",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for nitric oxide?",
+    "options": ["NO2", "NO", "N2O"],
+    "answer": "NO",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is known for its use in making strong magnets?",
+    "options": ["Cobalt", "Neodymium", "Nickel"],
+    "answer": "Neodymium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for calcium hydroxide?",
+    "options": ["CaO", "CaCO3", "Ca(OH)2"],
+    "answer": "Ca(OH)2",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element has the atomic number 79?",
+    "options": ["Mercury", "Gold", "Silver"],
+    "answer": "Gold",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which substance lowers the activation energy in a reaction?",
+    "options": ["Inhibitor", "Solvent", "Catalyst"],
+    "answer": "Catalyst",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for acetic anhydride?",
+    "options": ["C2H4O2", "C4H6O3", "C4H8O3"],
+    "answer": "C4H6O3",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used to prevent tooth decay in drinking water?",
+    "options": ["Chlorine", "Fluorine", "Bromine"],
+    "answer": "Fluorine",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for dimethyl ether?",
+    "options": ["C2H5OH", "CH3OCH3", "C2H6O"],
+    "answer": "CH3OCH3",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is represented by the symbol 'P'?",
+    "options": ["Plutonium", "Phosphorus", "Potassium"],
+    "answer": "Phosphorus",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for the measure of a solution's acidity?",
+    "options": ["pKa", "pH", "pOH"],
+    "answer": "pH",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is a halogen and is used in disinfection?",
+    "options": ["Neon", "Chlorine", "Helium"],
+    "answer": "Chlorine",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for propene?",
+    "options": ["C3H8", "C2H4", "C3H6"],
+    "answer": "C3H6",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is known for its use in fireworks to produce a blue color?",
+    "options": ["Strontium", "Copper", "Sodium"],
+    "answer": "Copper",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for acetonitrile?",
+    "options": ["CH3COCH3", "CH3CN", "C2H5CN"],
+    "answer": "CH3CN",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element has the chemical symbol 'Ne'?",
+    "options": ["Nickel", "Neon", "Nitrogen"],
+    "answer": "Neon",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the process of a liquid changing into a solid called?",
+    "options": ["Sublimation", "Freezing", "Melting"],
+    "answer": "Freezing",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is a component of chlorophyll?",
+    "options": ["Calcium", "Magnesium", "Iron"],
+    "answer": "Magnesium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for hydrogen sulfide?",
+    "options": ["S2H", "HS", "H2S"],
+    "answer": "H2S",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in the production of brass?",
+    "options": ["Zinc", "Tin", "Copper"],
+    "answer": "Copper",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for the concentration of a solution expressed in moles per liter?",
+    "options": ["Normality", "Molarity", "Molality"],
+    "answer": "Molarity",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used as a protective coating to prevent rust?",
+    "options": ["Iron", "Zinc", "Aluminum"],
+    "answer": "Zinc",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for ethane?",
+    "options": ["C2H4", "C3H8", "C2H6"],
+    "answer": "C2H6",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in nuclear reactors as fuel?",
+    "options": ["Thorium", "Uranium", "Plutonium"],
+    "answer": "Uranium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for butane?",
+    "options": ["C2H6", "C4H10", "C3H8"],
+    "answer": "C4H10",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is represented by the symbol 'N'?",
+    "options": ["Nickel", "Sodium", "Nitrogen"],
+    "answer": "Nitrogen",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for a solution that contains more solute than can normally dissolve?",
+    "options": ["Dilute", "Supersaturated", "Saturated"],
+    "answer": "Supersaturated",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is a metalloid known for its semiconducting properties?",
+    "options": ["Phosphorus", "Magnesium", "Silicon"],
+    "answer": "Silicon",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for sodium carbonate?",
+    "options": ["NaCl", "Na2CO3", "NaHCO3"],
+    "answer": "Na2CO3",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in the process of electroplating?",
+    "options": ["Argon", "Copper", "Neon"],
+    "answer": "Copper",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for hydrogen chloride gas?",
+    "options": ["Cl2H", "HCl", "H2Cl"],
+    "answer": "HCl",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is known for its malleability and ductility?",
+    "options": ["Bismuth", "Gold", "Lead"],
+    "answer": "Gold",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for the measure of disorder in a system?",
+    "options": ["Gibbs free energy", "Entropy", "Enthalpy"],
+    "answer": "Entropy",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in making lightweight, strong alloys in aerospace?",
+    "options": ["Iron", "Titanium", "Copper"],
+    "answer": "Titanium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for ethylene?",
+    "options": ["C2H6", "C3H6", "C2H4"],
+    "answer": "C2H4",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is essential for thyroid hormone production?",
+    "options": ["Magnesium", "Iodine", "Calcium"],
+    "answer": "Iodine",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for carbon monoxide?",
+    "options": ["CO2", "CO", "C2O"],
+    "answer": "CO",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in fireworks to produce a green color?",
+    "options": ["Strontium", "Lithium", "Barium"],
+    "answer": "Barium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for the energy required to start a chemical reaction?",
+    "options": ["Bond energy", "Activation energy", "Heat of formation"],
+    "answer": "Activation energy",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element has the chemical symbol 'Al'?",
+    "options": ["Arsenic", "Aluminum", "Argon"],
+    "answer": "Aluminum",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for benzene?",
+    "options": ["C7H8", "C6H6", "C5H6"],
+    "answer": "C6H6",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in the process of vulcanization of rubber?",
+    "options": ["Chlorine", "Sulfur", "Phosphorus"],
+    "answer": "Sulfur",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for sodium sulfate?",
+    "options": ["NaSO4", "Na2S", "Na2SO4"],
+    "answer": "Na2SO4",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in photographic film as silver halide?",
+    "options": ["Gold", "Silver", "Copper"],
+    "answer": "Silver",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the process of combining two or more substances to form a compound?",
+    "options": ["Decomposition", "Synthesis", "Combination"],
+    "answer": "Synthesis",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is represented by the symbol 'Se'?",
+    "options": ["Silicon", "Selenium", "Sodium"],
+    "answer": "Selenium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for hydrogen bromide?",
+    "options": ["H2Br", "HBr", "BrH"],
+    "answer": "HBr",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is a key component in the alloy bronze?",
+    "options": ["Tin", "Copper", "Zinc"],
+    "answer": "Copper",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for propanol?",
+    "options": ["C2H5OH", "C4H9OH", "C3H7OH"],
+    "answer": "C3H7OH",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in making LED lights?",
+    "options": ["Aluminum", "Gallium", "Iron"],
+    "answer": "Gallium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the process by which a solid dissolves into a liquid?",
+    "options": ["Crystallization", "Precipitation", "Dissolution"],
+    "answer": "Dissolution",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in water softeners?",
+    "options": ["Calcium", "Sodium", "Magnesium"],
+    "answer": "Sodium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for dimethyl sulfoxide?",
+    "options": ["CH3SOCH3", "C2H6O", "C2H6OS"],
+    "answer": "C2H6OS",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is known for its use in catalytic converters?",
+    "options": ["Lead", "Platinum", "Iron"],
+    "answer": "Platinum",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for the amount of solute dissolved in a solvent?",
+    "options": ["Viscosity", "Concentration", "Purity"],
+    "answer": "Concentration",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element has the chemical symbol 'Si'?",
+    "options": ["Sulfur", "Silicon", "Silver"],
+    "answer": "Silicon",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for hydrazine?",
+    "options": ["NH3", "N2H2", "N2H4"],
+    "answer": "N2H4",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in rechargeable batteries for its high energy density?",
+    "options": ["Sodium", "Lithium", "Potassium"],
+    "answer": "Lithium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for disodium hydrogen phosphate?",
+    "options": ["NaH2PO4", "Na3PO4", "Na2HPO4"],
+    "answer": "Na2HPO4",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in the process of nuclear fusion in the sun?",
+    "options": ["Lithium", "Helium", "Hydrogen"],
+    "answer": "Hydrogen",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for dichloromethane?",
+    "options": ["CHCl3", "CCl4", "CH2Cl2"],
+    "answer": "CH2Cl2",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in fertilizers to promote plant growth?",
+    "options": ["Neon", "Phosphorus", "Argon"],
+    "answer": "Phosphorus",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for a reaction where no new substance is formed?",
+    "options": ["Physical change", "Chemical change", "Nuclear change"],
+    "answer": "Physical change",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is a noble gas used in lighting?",
+    "options": ["Oxygen", "Nitrogen", "Argon"],
+    "answer": "Argon",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for propylene glycol?",
+    "options": ["C3H6O2", "C3H8O2", "C3H8O"],
+    "answer": "C3H8O2",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in the production of strong magnets and has a high magnetic moment?",
+    "options": ["Aluminum", "Cobalt", "Neon"],
+    "answer": "Cobalt",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which term describes the energy barrier of a reaction?",
+    "options": ["Bond energy", "Activation energy", "Heat energy"],
+    "answer": "Activation energy",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is represented by the symbol 'B'?",
+    "options": ["Barium", "Boron", "Berkelium"],
+    "answer": "Boron",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for ethyne (acetylene)?",
+    "options": ["C2H4", "C2H2", "C2H6"],
+    "answer": "C2H2",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in the production of glass due to its abundance in sand?",
+    "options": ["Potassium", "Silicon", "Sodium"],
+    "answer": "Silicon",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for lithium carbonate?",
+    "options": ["LiCO3", "Li2O3", "Li2CO3"],
+    "answer": "Li2CO3",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which halogen is commonly used in disinfectants?",
+    "options": ["Neon", "Iodine", "Argon"],
+    "answer": "Iodine",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for a mixture of two or more metals?",
+    "options": ["Compound", "Alloy", "Solution"],
+    "answer": "Alloy",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is represented by the symbol 'Kr'?",
+    "options": ["Xenon", "Radon", "Krypton"],
+    "answer": "Krypton",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for methanol?",
+    "options": ["C2H5OH", "CH3OH", "CH4O"],
+    "answer": "CH3OH",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in making fluorescent lights?",
+    "options": ["Neon", "Mercury", "Argon"],
+    "answer": "Mercury",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for carbonic acid?",
+    "options": ["CO2", "HCO3", "H2CO3"],
+    "answer": "H2CO3",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is known for its role in nuclear fission reactions?",
+    "options": ["Neon", "Helium", "Uranium"],
+    "answer": "Uranium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the process of water splitting into hydrogen and oxygen called?",
+    "options": ["Combustion", "Electrolysis", "Distillation"],
+    "answer": "Electrolysis",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is represented by the symbol 'F'?",
+    "options": ["Phosphorus", "Francium", "Fluorine"],
+    "answer": "Fluorine",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for potassium dichromate?",
+    "options": ["KCr2O7", "K2CrO4", "K2Cr2O7"],
+    "answer": "K2Cr2O7",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in welding electrodes?",
+    "options": ["Copper", "Tungsten", "Iron"],
+    "answer": "Tungsten",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the process of a solid forming crystals from a solution called?",
+    "options": ["Precipitation", "Sublimation", "Crystallization"],
+    "answer": "Crystallization",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in pigments to produce a bright yellow color?",
+    "options": ["Chromium", "Cadmium", "Cobalt"],
+    "answer": "Cadmium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for isopropanol?",
+    "options": ["C3H6O", "C3H8O", "C3H7OH"],
+    "answer": "C3H7OH",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is commonly used in light bulb filaments?",
+    "options": ["Aluminum", "Copper", "Tungsten"],
+    "answer": "Tungsten",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for sodium phosphates used in detergents?",
+    "options": ["Na2HPO4", "NaH2PO4", "Na3PO4"],
+    "answer": "Na3PO4",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is represented by the symbol 'He'?",
+    "options": ["Hydrogen", "Helium", "Hafnium"],
+    "answer": "Helium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for formic acid?",
+    "options": ["CH3COOH", "HCOO", "HCOOH"],
+    "answer": "HCOOH",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used as a dopant in semiconductors to create n-type material?",
+    "options": ["Boron", "Phosphorus", "Arsenic"],
+    "answer": "Phosphorus",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for the formation of a precipitate from a solution?",
+    "options": ["Sublimation", "Precipitation", "Dissolution"],
+    "answer": "Precipitation",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is represented by the symbol 'Li'?",
+    "options": ["Lithium", "Lanthanum", "Lutetium"],
+    "answer": "Lithium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for calcium oxide?",
+    "options": ["CaCO3", "Ca(OH)2", "CaO"],
+    "answer": "CaO",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is a liquid at room temperature and is used in thermometers?",
+    "options": ["Gallium", "Mercury", "Bromine"],
+    "answer": "Mercury",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for ammonium nitrate?",
+    "options": ["NH3NO3", "NH4NO3", "N2O"],
+    "answer": "NH4NO3",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in making strong ceramics and glass?",
+    "options": ["Iron", "Copper", "Silicon"],
+    "answer": "Silicon",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for the study of substances and their reactions?",
+    "options": ["Biology", "Chemistry", "Physics"],
+    "answer": "Chemistry",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in the manufacture of batteries and has the symbol 'Pb'?",
+    "options": ["Tin", "Lead", "Mercury"],
+    "answer": "Lead",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for hydrogen cyanide?",
+    "options": ["CHN", "HCN", "CNH"],
+    "answer": "HCN",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used as a catalyst in the production of sulfuric acid?",
+    "options": ["Platinum", "Mercury", "Vanadium"],
+    "answer": "Vanadium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for methyl alcohol?",
+    "options": ["C2H5OH", "CH3OH", "CH4O"],
+    "answer": "CH3OH",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is known for its use in fluorescent lamps and has the symbol 'Hg'?",
+    "options": ["Neon", "Mercury", "Helium"],
+    "answer": "Mercury",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for the force holding atoms together in a molecule?",
+    "options": ["Magnetic force", "Chemical bond", "Gravitational force"],
+    "answer": "Chemical bond",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is represented by the symbol 'S'?",
+    "options": ["Silicon", "Selenium", "Sulfur"],
+    "answer": "Sulfur",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for dichlorine monoxide?",
+    "options": ["ClO2", "Cl2O", "Cl2O2"],
+    "answer": "Cl2O",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in the semiconductor industry to create p-type material?",
+    "options": ["Arsenic", "Boron", "Phosphorus"],
+    "answer": "Boron",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for isobutane?",
+    "options": ["C5H12", "C4H10", "C3H8"],
+    "answer": "C4H10",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is known for its rust formation?",
+    "options": ["Copper", "Aluminum", "Iron"],
+    "answer": "Iron",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the process of a liquid forming small solid particles within it called?",
+    "options": ["Crystallization", "Precipitation", "Dissolution"],
+    "answer": "Precipitation",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in mirrors for its reflective properties?",
+    "options": ["Gold", "Copper", "Silver"],
+    "answer": "Silver",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for ammonium sulfate?",
+    "options": ["NH4SO4", "(NH4)2SO4", "N2H8SO4"],
+    "answer": "(NH4)2SO4",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in the production of fertilizer and is a component of the air?",
+    "options": ["Oxygen", "Carbon", "Nitrogen"],
+    "answer": "Nitrogen",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for a reaction in which two elements combine to form a compound?",
+    "options": ["Displacement reaction", "Combination reaction", "Decomposition reaction"],
+    "answer": "Combination reaction",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is represented by the symbol 'Ar'?",
+    "options": ["Gold", "Argon", "Silver"],
+    "answer": "Argon",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for ethylene glycol?",
+    "options": ["C3H8O2", "C2H4O2", "C2H6O2"],
+    "answer": "C2H6O2",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used to strengthen concrete?",
+    "options": ["Silicon", "Calcium", "Iron"],
+    "answer": "Calcium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for potassium carbonate?",
+    "options": ["KCO3", "K2C", "K2CO3"],
+    "answer": "K2CO3",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in the production of alloys and is known for its hardness?",
+    "options": ["Magnesium", "Sodium", "Chromium"],
+    "answer": "Chromium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for a solution's ability to conduct electricity?",
+    "options": ["Viscosity", "Conductivity", "Reactivity"],
+    "answer": "Conductivity",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element has the chemical symbol 'Co'?",
+    "options": ["Copper", "Cobalt", "Calcium"],
+    "answer": "Cobalt",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for hydrogen iodide?",
+    "options": ["IH", "HI", "H2I"],
+    "answer": "HI",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in nuclear power and has a high atomic weight?",
+    "options": ["Plutonium", "Thorium", "Uranium"],
+    "answer": "Uranium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for lithium hydroxide?",
+    "options": ["LiO", "LiOH", "LiH"],
+    "answer": "LiOH",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in the production of glass and ceramics due to its oxide's high melting point?",
+    "options": ["Sodium", "Silicon", "Aluminum"],
+    "answer": "Silicon",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for a homogeneous mixture of two or more substances?",
+    "options": ["Suspension", "Solution", "Colloid"],
+    "answer": "Solution",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is represented by the symbol 'Xe'?",
+    "options": ["Radon", "Xenon", "Neon"],
+    "answer": "Xenon",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for methyl ethyl ketone?",
+    "options": ["C3H6O", "C4H8O", "C5H10O"],
+    "answer": "C4H8O",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used as a reducing agent in chemical reactions?",
+    "options": ["Sodium", "Zinc", "Calcium"],
+    "answer": "Zinc",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for the amount of heat required to raise the temperature of one gram of a substance by one degree Celsius?",
+    "options": ["Latent heat", "Specific heat capacity", "Thermal conductivity"],
+    "answer": "Specific heat capacity",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is known for forming colorful compounds and has the symbol 'Cu'?",
+    "options": ["Carbon", "Cobalt", "Copper"],
+    "answer": "Copper",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for dinitrogen tetroxide?",
+    "options": ["NO2", "N2O3", "N2O4"],
+    "answer": "N2O4",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in creating strong permanent magnets?",
+    "options": ["Aluminum", "Neodymium", "Sodium"],
+    "answer": "Neodymium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for sodium hypochlorite?",
+    "options": ["NaCl2O", "NaOCl", "NaClO"],
+    "answer": "NaOCl",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is represented by the symbol 'V'?",
+    "options": ["Valium", "Vanadium", "Vandium"],
+    "answer": "Vanadium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for a measure of a solution's ability to resist changes in pH?",
+    "options": ["Acidity", "Buffer capacity", "Basicity"],
+    "answer": "Buffer capacity",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in the aerospace industry for its high strength-to-weight ratio?",
+    "options": ["Copper", "Titanium", "Lead"],
+    "answer": "Titanium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for anhydrous copper(II) sulfate?",
+    "options": ["CuSO4·5H2O", "CuO", "CuSO4"],
+    "answer": "CuSO4",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is represented by the symbol 'Ge'?",
+    "options": ["Gallium", "Gadolinium", "Germanium"],
+    "answer": "Germanium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for hydrobromic acid?",
+    "options": ["H2Br", "BrH", "HBr"],
+    "answer": "HBr",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is known for its green patina on copper roofs?",
+    "options": ["Tin", "Zinc", "Copper"],
+    "answer": "Copper",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for the study of the rates of chemical reactions?",
+    "options": ["Electrochemistry", "Thermodynamics", "Chemical kinetics"],
+    "answer": "Chemical kinetics",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in firework displays to produce purple color?",
+    "options": ["Indium", "Potassium", "Iodine"],
+    "answer": "Potassium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for zinc oxide?",
+    "options": ["Zn2O", "ZnO2", "ZnO"],
+    "answer": "ZnO",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in the production of superalloys for jet engines?",
+    "options": ["Aluminum", "Magnesium", "Nickel"],
+    "answer": "Nickel",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for the ratio of the mass of solute to the mass of solvent in a solution?",
+    "options": ["Molality", "Molarity", "Mass percent"],
+    "answer": "Mass percent",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is known for its catalytic properties in organic reactions?",
+    "options": ["Iron", "Palladium", "Sodium"],
+    "answer": "Palladium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for calcium phosphate?",
+    "options": ["CaPO4", "Ca3(PO4)2", "Ca2(PO4)"],
+    "answer": "Ca3(PO4)2",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in electrodes for arc welding?",
+    "options": ["Zinc", "Tungsten", "Lead"],
+    "answer": "Tungsten",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for the amount of energy released or absorbed during a reaction at constant pressure?",
+    "options": ["Gibbs free energy", "Enthalpy change", "Entropy change"],
+    "answer": "Enthalpy change",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is often used as a p-type dopant in semiconductors?",
+    "options": ["Arsenic", "Boron", "Phosphorus"],
+    "answer": "Boron",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for lead(II) oxide?",
+    "options": ["PbO2", "Pb2O", "PbO"],
+    "answer": "PbO",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in making refractory bricks due to its high melting point?",
+    "options": ["Graphite", "Alumina", "Silica"],
+    "answer": "Alumina",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the term for a solid that does not dissolve in a given solvent?",
+    "options": ["Supersaturated", "Insoluble", "Soluble"],
+    "answer": "Insoluble",
+    "category": "Chemistry"
+  },
+  {
+    "question": "Which element is used in the production of stainless steel for its corrosion resistance?",
+    "options": ["Lead", "Chromium", "Iron"],
+    "answer": "Chromium",
+    "category": "Chemistry"
+  },
+  {
+    "question": "What is the chemical formula for aluminum oxide?",
+    "options": ["AlO3", "Al2O", "Al2O3"],
+    "answer": "Al2O3",
+    "category": "Chemistry"
+  }
+]

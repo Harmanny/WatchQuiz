@@ -18,6 +18,13 @@ struct ContentView: View {
                         .foregroundColor(.white)
                         .cornerRadius(8)
                 }
+                NavigationLink(destination: HighscoreView()) {
+                    Text("View Highscores")
+                        .padding()
+                        .background(Color.orange)
+                        .foregroundColor(.white)
+                        .cornerRadius(8)
+                }
             }
         }
     }

@@ -19,6 +19,7 @@ class QuestionManager: ObservableObject {
     @Published var questions: [Question] = []
     @Published var categories: [String] = []
     private var categoriesLoaded = false
+    private var askedQuestions: Set<UUID> = []
     
     init() {
         loadQuestions()
@@ -46,7 +47,19 @@ class QuestionManager: ObservableObject {
     }
     
     func getFilteredQuestions(categories: [String], count: Int) -> [Question] {
-        let filtered = questions.filter { categories.contains($0.category) }
-        return Array(filtered.shuffled().prefix(count))
+        let filtered = questions.filter { categories.contains($0.category) && !askedQuestions.contains($0.id) }
+        let selectedQuestions = Array(filtered.shuffled().prefix(count))
+        
+        if selectedQuestions.count < count {
+            askedQuestions.removeAll()
+            return getFilteredQuestions(categories: categories, count: count)
+        }
+        
+        askedQuestions.formUnion(selectedQuestions.map { $0.id })
+        return selectedQuestions
+    }
+    
+    func resetAskedQuestions() {
+        askedQuestions.removeAll()
     }
 }

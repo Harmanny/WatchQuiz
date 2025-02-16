@@ -1,0 +1,1328 @@
+[
+  {
+    "question": "Who is known as the father of computing?",
+    "options": ["Bill Gates", "Charles Babbage", "Alan Turing"],
+    "answer": "Charles Babbage",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What programming language was primarily used to write the Linux kernel?",
+    "options": ["Java", "Python", "C"],
+    "answer": "C",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "options": ["HyperText Transfer Protocol", "HyperText Transmission Program", "HighText Transmission Protocol"],
+    "answer": "HyperText Transfer Protocol",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What year was the World Wide Web invented?",
+    "options": ["1989", "1985", "1995"],
+    "answer": "1989",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which company developed the first successful personal computer?",
+    "options": ["Apple", "Microsoft", "IBM"],
+    "answer": "Apple",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the primary function of a CPU in a computer?",
+    "options": ["Storing data", "Processing data", "Transferring data"],
+    "answer": "Processing data",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does LED stand for?",
+    "options": ["Laser Emitting Device", "Light Emitting Diode", "Light Energy Display"],
+    "answer": "Light Emitting Diode",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Who invented the telephone?",
+    "options": ["Nikola Tesla", "Thomas Edison", "Alexander Graham Bell"],
+    "answer": "Alexander Graham Bell",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is used for contactless payments?",
+    "options": ["Bluetooth", "NFC", "Wi-Fi"],
+    "answer": "NFC",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does GPS stand for?",
+    "options": ["Global Positioning System", "General Positioning Service", "Global Processing System"],
+    "answer": "Global Positioning System",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Who is known as one of the fathers of the Internet?",
+    "options": ["Bill Gates", "Vint Cerf", "Tim Berners-Lee"],
+    "answer": "Vint Cerf",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the primary component of a solar panel?",
+    "options": ["Batteries", "Photovoltaic cells", "LED lights"],
+    "answer": "Photovoltaic cells",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which element is primarily used in computer chips?",
+    "options": ["Copper", "Iron", "Silicon"],
+    "answer": "Silicon",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does RAM stand for in computing?",
+    "options": ["Rapid Application Module", "Random Access Memory", "Readily Available Memory"],
+    "answer": "Random Access Memory",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the primary function of a motherboard?",
+    "options": ["Provides power", "Connects all components", "Stores data"],
+    "answer": "Connects all components",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does USB stand for?",
+    "options": ["Universal Serial Bus", "Ultra-Speed Bridge", "Universal System Board"],
+    "answer": "Universal Serial Bus",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which company is famous for the microprocessor 8086?",
+    "options": ["Intel", "NVIDIA", "AMD"],
+    "answer": "Intel",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the main programming language used for Android development?",
+    "options": ["Swift", "C++", "Java"],
+    "answer": "Java",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is known as the backbone of blockchain?",
+    "options": ["Cloud computing", "Distributed ledger", "Centralized server"],
+    "answer": "Distributed ledger",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is 3D printing also known as?",
+    "options": ["Additive manufacturing", "Subtractive manufacturing", "Digital forging"],
+    "answer": "Additive manufacturing",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does CAD stand for in engineering?",
+    "options": ["Computer-Aided Design", "Calculated Algorithmic Drawing", "Computerized Assembly Development"],
+    "answer": "Computer-Aided Design",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which engineering discipline deals with the design of robots?",
+    "options": ["Civil Engineering", "Robotics Engineering", "Chemical Engineering"],
+    "answer": "Robotics Engineering",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does AI stand for?",
+    "options": ["Advanced Innovation", "Artificial Intelligence", "Automated Integration"],
+    "answer": "Artificial Intelligence",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology allows cars to drive themselves?",
+    "options": ["Electric propulsion", "Remote control", "Autonomous driving"],
+    "answer": "Autonomous driving",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the main principle behind wind turbines?",
+    "options": ["Converting kinetic energy to heat", "Converting wind energy to electricity", "Converting solar energy"],
+    "answer": "Converting wind energy to electricity",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What kind of energy does a geothermal power plant use?",
+    "options": ["Solar energy", "Wind energy", "Heat from the Earth"],
+    "answer": "Heat from the Earth",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the process of converting waste into usable material called?",
+    "options": ["Decomposition", "Recycling", "Incineration"],
+    "answer": "Recycling",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which device is used to measure atmospheric pressure?",
+    "options": ["Thermometer", "Barometer", "Hygrometer"],
+    "answer": "Barometer",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does IoT stand for?",
+    "options": ["Internal of Technology", "Internet of Things", "Integration of Tools"],
+    "answer": "Internet of Things",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which invention is Alexander Graham Bell famous for?",
+    "options": ["Telegraph", "Telephone", "Radio"],
+    "answer": "Telephone",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the primary material used in 3D printing filaments?",
+    "options": ["Steel", "PLA", "Copper"],
+    "answer": "PLA",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which company introduced the first smartphone?",
+    "options": ["Nokia", "Apple", "IBM"],
+    "answer": "IBM",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the main function of a transistor in electronics?",
+    "options": ["Store data", "Amplify or switch electronic signals", "Generate power"],
+    "answer": "Amplify or switch electronic signals",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which protocol is used for secure web browsing?",
+    "options": ["FTP", "HTTP", "HTTPS"],
+    "answer": "HTTPS",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does VPN stand for?",
+    "options": ["Verified Public Network", "Virtual Private Network", "Virtual Public Node"],
+    "answer": "Virtual Private Network",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the term for computer systems that mimic human intelligence?",
+    "options": ["Artificial Intelligence", "Quantum Computing", "Machine Learning"],
+    "answer": "Artificial Intelligence",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which company is known for its search engine technology?",
+    "options": ["Google", "Microsoft", "Apple"],
+    "answer": "Google",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which device converts digital signals into analog signals?",
+    "options": ["Switch", "Modem", "Router"],
+    "answer": "Modem",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the core technology behind digital currencies like Bitcoin?",
+    "options": ["Cloud computing", "Blockchain", "Artificial Intelligence"],
+    "answer": "Blockchain",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does FPGA stand for?",
+    "options": ["Field-Programmable Gate Array", "Fast Processing Graphics Adapter", "Field Processing Global Array"],
+    "answer": "Field-Programmable Gate Array",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which invention is Nikola Tesla credited with improving?",
+    "options": ["Alternating current", "Direct current", "Steam engine"],
+    "answer": "Alternating current",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the primary purpose of an algorithm?",
+    "options": ["Solve a problem or perform a task", "Store data", "Generate random numbers"],
+    "answer": "Solve a problem or perform a task",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which company developed the video game console PlayStation?",
+    "options": ["Microsoft", "Sony", "Nintendo"],
+    "answer": "Sony",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which type of engine is commonly used in modern cars?",
+    "options": ["Steam engine", "Electric engine", "Internal combustion engine"],
+    "answer": "Internal combustion engine",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does PCB stand for in electronics?",
+    "options": ["Programmed Chip Base", "Printed Circuit Board", "Parallel Circuit Board"],
+    "answer": "Printed Circuit Board",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which wireless technology is used for short-range communication between devices?",
+    "options": ["Bluetooth", "Infrared", "Wi-Fi"],
+    "answer": "Bluetooth",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which company is known for creating the microprocessor architecture ARM?",
+    "options": ["ARM Holdings", "AMD", "Intel"],
+    "answer": "ARM Holdings",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the key concept behind cloud computing?",
+    "options": ["Storing data on local drives", "Delivering computing services over the internet", "Running software offline"],
+    "answer": "Delivering computing services over the internet",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does OCR stand for?",
+    "options": ["Optical Code Reading", "Optical Character Recognition", "Original Content Rendering"],
+    "answer": "Optical Character Recognition",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which engineering discipline is concerned with designing bridges and buildings?",
+    "options": ["Civil Engineering", "Mechanical Engineering", "Electrical Engineering"],
+    "answer": "Civil Engineering",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is used to store large amounts of data in a compact form?",
+    "options": ["Floppy disk", "CD-ROM", "Hard disk drive"],
+    "answer": "Hard disk drive",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the primary function of a heat sink in electronics?",
+    "options": ["Store energy", "Dissipate heat", "Amplify signals"],
+    "answer": "Dissipate heat",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which element is essential in the production of semiconductors?",
+    "options": ["Gold", "Oxygen", "Silicon"],
+    "answer": "Silicon",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which type of memory is non-volatile?",
+    "options": ["Cache", "RAM", "SSD"],
+    "answer": "SSD",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which engineering field focuses on the design of electronic circuits?",
+    "options": ["Chemical Engineering", "Electrical Engineering", "Mechanical Engineering"],
+    "answer": "Electrical Engineering",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does OCR technology help with?",
+    "options": ["Encrypting data", "Compressing files", "Converting images of text into editable text"],
+    "answer": "Converting images of text into editable text",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which programming language is known for its simplicity and readability?",
+    "options": ["Python", "Assembly", "C++"],
+    "answer": "Python",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which device is used to amplify audio signals in a sound system?",
+    "options": ["Equalizer", "Amplifier", "Mixer"],
+    "answer": "Amplifier",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does VR stand for in technology?",
+    "options": ["Virtual Recreation", "Virtual Reality", "Visual Reality"],
+    "answer": "Virtual Reality",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which invention revolutionized personal computing in the 1970s?",
+    "options": ["Mouse", "Microprocessor", "Floppy disk"],
+    "answer": "Microprocessor",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the main purpose of a resistor in an electronic circuit?",
+    "options": ["Store charge", "Amplify signals", "Limit current"],
+    "answer": "Limit current",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which company is known for its electric vehicles and renewable energy solutions?",
+    "options": ["GM", "Tesla", "Ford"],
+    "answer": "Tesla",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the primary function of a sensor in robotics?",
+    "options": ["Store power", "Process data", "Detect environment"],
+    "answer": "Detect environment",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which device allows users to interact with computers via touch?",
+    "options": ["Keyboard", "Mouse", "Touchscreen"],
+    "answer": "Touchscreen",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which engineering discipline deals with materials and their properties?",
+    "options": ["Materials Engineering", "Software Engineering", "Aeronautical Engineering"],
+    "answer": "Materials Engineering",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does SQL stand for?",
+    "options": ["Simple Query Language", "Structured Query Language", "Sequential Query Language"],
+    "answer": "Structured Query Language",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is used for wireless charging?",
+    "options": ["Capacitive charging", "Inductive charging", "Resistive charging"],
+    "answer": "Inductive charging",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does OLED stand for?",
+    "options": ["Organic LED Display", "Optical Light Emitting Device", "Organic Light Emitting Diode"],
+    "answer": "Organic Light Emitting Diode",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which invention is the precursor to modern robotics?",
+    "options": ["Telegraphs", "Automata", "Computers"],
+    "answer": "Automata",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the term for a computer that is designed for high-performance tasks?",
+    "options": ["Supercomputer", "Mainframe", "Laptop"],
+    "answer": "Supercomputer",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which company developed the first commercially successful microprocessor?",
+    "options": ["AMD", "IBM", "Intel"],
+    "answer": "Intel",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does SMS stand for in telecommunications?",
+    "options": ["Short Message Service", "Secure Messaging Service", "Simple Messaging System"],
+    "answer": "Short Message Service",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is essential for wireless networking?",
+    "options": ["Ethernet", "Wi-Fi", "Bluetooth"],
+    "answer": "Wi-Fi",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which type of engineer would design a skyscraper's structure?",
+    "options": ["Software Engineer", "Structural Engineer", "Chemical Engineer"],
+    "answer": "Structural Engineer",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the primary function of an inverter in power systems?",
+    "options": ["Convert DC to AC", "Store energy", "Amplify signals"],
+    "answer": "Convert DC to AC",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is used to store data in cloud computing?",
+    "options": ["Personal computers", "Floppy disks", "Data centers"],
+    "answer": "Data centers",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does API stand for?",
+    "options": ["Application Protocol Interface", "Application Programming Interface", "Advanced Programming Interface"],
+    "answer": "Application Programming Interface",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which company created the first commercially available computer?",
+    "options": ["Apple", "UNIVAC", "Microsoft"],
+    "answer": "UNIVAC",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the main purpose of a drone?",
+    "options": ["Underwater exploration", "Remote-controlled flight", "Space travel"],
+    "answer": "Remote-controlled flight",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which engineering field focuses on the design and construction of machinery?",
+    "options": ["Civil Engineering", "Mechanical Engineering", "Electrical Engineering"],
+    "answer": "Mechanical Engineering",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does GUI stand for?",
+    "options": ["General Utility Interface", "Graphical User Interface", "Global User Interface"],
+    "answer": "Graphical User Interface",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which innovation made mobile computing possible?",
+    "options": ["Desktop computer", "Smartphone", "Mainframe"],
+    "answer": "Smartphone",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the primary function of a router in a network?",
+    "options": ["Direct data traffic", "Store data", "Encrypt data"],
+    "answer": "Direct data traffic",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which engineering discipline deals with the behavior of fluids?",
+    "options": ["Thermodynamics", "Solid Mechanics", "Fluid Mechanics"],
+    "answer": "Fluid Mechanics",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is used to reduce the size of digital files?",
+    "options": ["Encryption", "Compression algorithms", "Decompression"],
+    "answer": "Compression algorithms",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does VPN technology primarily provide?",
+    "options": ["More storage", "Faster internet", "Secure connection"],
+    "answer": "Secure connection",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which programming language is primarily used for iOS app development?",
+    "options": ["Java", "Swift", "Python"],
+    "answer": "Swift",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which device converts electrical signals into sound?",
+    "options": ["Monitor", "Keyboard", "Speaker"],
+    "answer": "Speaker",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the primary purpose of a power supply unit in a computer?",
+    "options": ["Convert AC to DC power", "Store data", "Process instructions"],
+    "answer": "Convert AC to DC power",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology uses quantum bits to process information?",
+    "options": ["Quantum computing", "Optical computing", "Classical computing"],
+    "answer": "Quantum computing",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does SSL stand for?",
+    "options": ["Simple Socket Layer", "Secure Sockets Layer", "Secure System Link"],
+    "answer": "Secure Sockets Layer",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which device is used to capture digital images in cameras?",
+    "options": ["LCD screen", "Image sensor", "Battery"],
+    "answer": "Image sensor",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which protocol is used for email transmission?",
+    "options": ["FTP", "SMTP", "HTTP"],
+    "answer": "SMTP",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the term for software that is available for free use and modification?",
+    "options": ["Open source", "Shareware", "Proprietary"],
+    "answer": "Open source",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is essential for virtual meetings?",
+    "options": ["Instant messaging", "Video conferencing", "Email"],
+    "answer": "Video conferencing",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does PDF stand for?",
+    "options": ["Printable Data File", "Portable Document Format", "Public Document File"],
+    "answer": "Portable Document Format",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which company developed the Windows operating system?",
+    "options": ["Google", "Apple", "Microsoft"],
+    "answer": "Microsoft",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is used to connect devices over short distances?",
+    "options": ["Wi-Fi", "Bluetooth", "Ethernet"],
+    "answer": "Bluetooth",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does BIOS stand for in computers?",
+    "options": ["Basic Input/Output System", "Binary Input/Output System", "Basic Integrated Operating System"],
+    "answer": "Basic Input/Output System",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which type of memory is volatile?",
+    "options": ["SSD", "RAM", "ROM"],
+    "answer": "RAM",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which engineering field is concerned with the development of software systems?",
+    "options": ["Software Engineering", "Mechanical Engineering", "Civil Engineering"],
+    "answer": "Software Engineering",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does GPU stand for?",
+    "options": ["Graphical Performance Unit", "General Processing Unit", "Graphics Processing Unit"],
+    "answer": "Graphics Processing Unit",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology allows for real-time voice communication over the internet?",
+    "options": ["VoIP", "VPN", "HTTP"],
+    "answer": "VoIP",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which company is renowned for its innovation in electric and self-driving cars?",
+    "options": ["Toyota", "Tesla", "Ford"],
+    "answer": "Tesla",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does RFID stand for?",
+    "options": ["Radio Frequency Integration", "Remote Frequency Identification", "Radio-Frequency Identification"],
+    "answer": "Radio-Frequency Identification",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which innovation is crucial for modern satellite communications?",
+    "options": ["Antennas", "Transponders", "Amplifiers"],
+    "answer": "Transponders",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the primary function of an actuator in engineering?",
+    "options": ["Generate power", "Store data", "Convert energy into motion"],
+    "answer": "Convert energy into motion",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which programming language is often used for scientific computing and data analysis?",
+    "options": ["HTML", "Python", "COBOL"],
+    "answer": "Python",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does IoT enable devices to do?",
+    "options": ["Charge wirelessly", "Store data offline", "Connect and communicate over the internet"],
+    "answer": "Connect and communicate over the internet",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is used to enhance picture quality on screens?",
+    "options": ["Low-resolution panel", "High-definition display", "E-ink display"],
+    "answer": "High-definition display",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which device in a computer helps store permanent instructions?",
+    "options": ["ROM", "RAM", "Cache"],
+    "answer": "ROM",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does AC stand for in electrical systems?",
+    "options": ["Accumulated Current", "Alternating Current", "Absolute Current"],
+    "answer": "Alternating Current",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which type of circuit is used to perform logical operations?",
+    "options": ["Digital circuit", "Analog circuit", "Power circuit"],
+    "answer": "Digital circuit",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which engineering discipline is involved in the design of airplanes?",
+    "options": ["Mechanical Engineering", "Civil Engineering", "Aerospace Engineering"],
+    "answer": "Aerospace Engineering",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the primary purpose of a fuse in electrical circuits?",
+    "options": ["Store energy", "Amplify signals", "Protect circuits from overcurrent"],
+    "answer": "Protect circuits from overcurrent",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is used to measure acceleration in smartphones?",
+    "options": ["Magnetometer", "Accelerometer", "Gyroscope"],
+    "answer": "Accelerometer",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which component in a smartphone is responsible for wireless connectivity?",
+    "options": ["Display", "Wi-Fi module", "Battery"],
+    "answer": "Wi-Fi module",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does LCD stand for?",
+    "options": ["Light Crystal Device", "Liquid Crystal Display", "Laser Crystal Display"],
+    "answer": "Liquid Crystal Display",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which device converts digital data into analog signals for TV?",
+    "options": ["Router", "Modem", "Digital-to-analog converter"],
+    "answer": "Digital-to-analog converter",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the primary function of a microcontroller?",
+    "options": ["Display graphics", "Control electronic devices", "Store large data"],
+    "answer": "Control electronic devices",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which programming language is known for its use in embedded systems?",
+    "options": ["Ruby", "JavaScript", "C"],
+    "answer": "C",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does URL stand for?",
+    "options": ["Universal Resource Link", "Unified Reference Locator", "Uniform Resource Locator"],
+    "answer": "Uniform Resource Locator",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is used to prevent unauthorized access to networks?",
+    "options": ["Router", "Firewall", "Switch"],
+    "answer": "Firewall",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which company is famous for its series of iPhones?",
+    "options": ["Google", "Samsung", "Apple"],
+    "answer": "Apple",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which engineering discipline is concerned with designing circuits and electronic devices?",
+    "options": ["Electrical Engineering", "Mechanical Engineering", "Civil Engineering"],
+    "answer": "Electrical Engineering",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does SSD stand for?",
+    "options": ["Secure System Device", "Solid State Drive", "Standard Storage Disk"],
+    "answer": "Solid State Drive",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology allows for simultaneous voice and data transmission?",
+    "options": ["VPN", "Wi-Fi", "VoLTE"],
+    "answer": "VoLTE",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which device is used to cool electronic components?",
+    "options": ["Heater", "Resistor", "Fan"],
+    "answer": "Fan",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the main advantage of fiber optic cables?",
+    "options": ["Low cost", "High-speed data transmission", "Easy installation"],
+    "answer": "High-speed data transmission",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which innovation is at the heart of modern digital photography?",
+    "options": ["Inkjet printer", "CMOS sensor", "CRT display"],
+    "answer": "CMOS sensor",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does API allow developers to do?",
+    "options": ["Build hardware", "Interact with software components", "Design logos"],
+    "answer": "Interact with software components",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which programming language is known for web development and runs in the browser?",
+    "options": ["C++", "Python", "JavaScript"],
+    "answer": "JavaScript",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does SSH stand for?",
+    "options": ["Simple Shell", "Secure Shell", "Super Secure Host"],
+    "answer": "Secure Shell",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology uses radio waves to transfer data over short distances?",
+    "options": ["Wi-Fi", "Bluetooth", "Infrared"],
+    "answer": "Bluetooth",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which company developed the Android operating system?",
+    "options": ["Apple", "Google", "Microsoft"],
+    "answer": "Google",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the primary purpose of a power amplifier?",
+    "options": ["Decrease noise", "Store charge", "Increase power of a signal"],
+    "answer": "Increase power of a signal",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is known for 3D imaging and virtual reality?",
+    "options": ["Monoscopic imaging", "Stereoscopic vision", "Infrared scanning"],
+    "answer": "Stereoscopic vision",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which component is essential for the operation of a digital camera?",
+    "options": ["CPU", "Image sensor", "RAM"],
+    "answer": "Image sensor",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does CAD software help engineers do?",
+    "options": ["Design and model products", "Store data", "Process images"],
+    "answer": "Design and model products",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is used to encrypt digital information?",
+    "options": ["Database management", "Compression", "Cryptography"],
+    "answer": "Cryptography",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the primary function of an oscillator in electronics?",
+    "options": ["Store energy", "Generate a repetitive signal", "Amplify signals"],
+    "answer": "Generate a repetitive signal",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which device is used to transform voltage levels in power systems?",
+    "options": ["Rectifier", "Transformer", "Inverter"],
+    "answer": "Transformer",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which programming language is widely used for statistical computing?",
+    "options": ["PHP", "R", "C++"],
+    "answer": "R",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does GUI enable users to do?",
+    "options": ["Store large data", "Interact with computers using graphics", "Process commands silently"],
+    "answer": "Interact with computers using graphics",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology uses mirrors and lasers to read data from disks?",
+    "options": ["Optical drive", "Magnetic drive", "Solid State Drive"],
+    "answer": "Optical drive",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which company is known for its contributions to cloud computing services?",
+    "options": ["IBM", "Amazon", "Intel"],
+    "answer": "Amazon",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does RFID technology enable?",
+    "options": ["High-speed data transfer", "Wireless identification", "Remote control"],
+    "answer": "Wireless identification",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is used to compress and decompress digital files?",
+    "options": ["Cache", "Codec", "Firewall"],
+    "answer": "Codec",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the role of an embedded system?",
+    "options": ["Provide user interface", "Control specific functions within devices", "Store large data"],
+    "answer": "Control specific functions within devices",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is essential for converting analog signals to digital?",
+    "options": ["Modulator", "Digital-to-analog converter", "Analog-to-digital converter"],
+    "answer": "Analog-to-digital converter",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does TCP/IP stand for?",
+    "options": ["Transmission Code Protocol/Internet Program", "Transmission Control Protocol/Internet Protocol", "Transfer Communication Protocol/Interconnected Protocol"],
+    "answer": "Transmission Control Protocol/Internet Protocol",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which engineering field focuses on sustainable energy solutions?",
+    "options": ["Mechanical Engineering", "Renewable Energy Engineering", "Software Engineering"],
+    "answer": "Renewable Energy Engineering",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is used to store power in electric vehicles?",
+    "options": ["Capacitor", "Battery", "Inductor"],
+    "answer": "Battery",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which programming language is known for system programming and efficiency?",
+    "options": ["Python", "JavaScript", "C"],
+    "answer": "C",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does VPN primarily secure?",
+    "options": ["File storage", "Software applications", "Internet connection"],
+    "answer": "Internet connection",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is commonly used for 3D visualizations in engineering?",
+    "options": ["Spreadsheet Software", "Computer-Aided Design (CAD)", "Word Processing"],
+    "answer": "Computer-Aided Design (CAD)",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does LED technology provide in displays?",
+    "options": ["Light emission", "Magnetic field", "Heat generation"],
+    "answer": "Light emission",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which field focuses on designing engines and mechanical systems?",
+    "options": ["Civil Engineering", "Mechanical Engineering", "Software Engineering"],
+    "answer": "Mechanical Engineering",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which device is crucial for measuring electrical current?",
+    "options": ["Voltmeter", "Ohmmeter", "Ammeter"],
+    "answer": "Ammeter",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does CMOS stand for?",
+    "options": ["Complementary Metal-Oxide-Semiconductor", "Central Metal Oxide Semiconductor", "Complementary Magnetic Oxide Semiconductor"],
+    "answer": "Complementary Metal-Oxide-Semiconductor",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology uses lasers to record and read data on disks?",
+    "options": ["Magnetic storage", "Optical storage", "Solid state storage"],
+    "answer": "Optical storage",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the primary function of a digital signal processor?",
+    "options": ["Process digital signals efficiently", "Store data", "Generate analog signals"],
+    "answer": "Process digital signals efficiently",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is at the heart of autonomous vehicles?",
+    "options": ["Sensor fusion", "Manual controls", "Hydraulic systems"],
+    "answer": "Sensor fusion",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does ERP stand for in business technology?",
+    "options": ["Electronic Resource Processing", "Enterprise Routing Program", "Enterprise Resource Planning"],
+    "answer": "Enterprise Resource Planning",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which component in a computer temporarily stores data for quick access?",
+    "options": ["Cache", "Hard drive", "Optical drive"],
+    "answer": "Cache",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which engineering discipline focuses on designing aircraft and spacecraft?",
+    "options": ["Civil Engineering", "Aerospace Engineering", "Mechanical Engineering"],
+    "answer": "Aerospace Engineering",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the purpose of a galvanometer?",
+    "options": ["Measure voltage", "Measure electric current", "Measure resistance"],
+    "answer": "Measure electric current",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is widely used for contactless data transfer?",
+    "options": ["Wi-Fi", "Bluetooth", "Near Field Communication (NFC)"],
+    "answer": "Near Field Communication (NFC)",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which programming paradigm focuses on objects and classes?",
+    "options": ["Procedural Programming", "Functional Programming", "Object-Oriented Programming"],
+    "answer": "Object-Oriented Programming",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which company is known for its contributions to computer graphics?",
+    "options": ["NVIDIA", "AMD", "Intel"],
+    "answer": "NVIDIA",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the purpose of an encoder in digital electronics?",
+    "options": ["Store data", "Convert data from one format to another", "Amplify signals"],
+    "answer": "Convert data from one format to another",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which device converts analog signals to digital signals?",
+    "options": ["Digital-to-analog converter", "Analog-to-digital converter", "Modem"],
+    "answer": "Analog-to-digital converter",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is used to provide real-time collaboration online?",
+    "options": ["Cloud computing", "Offline software", "Local storage"],
+    "answer": "Cloud computing",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": ["HighText Machine Language", "HyperText Markup Language", "HyperText Machine Language"],
+    "answer": "HyperText Markup Language",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which programming language is often used for backend web development?",
+    "options": ["HTML", "Python", "CSS"],
+    "answer": "Python",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which engineering tool is used for circuit simulation?",
+    "options": ["CAD", "SPICE", "MATLAB"],
+    "answer": "SPICE",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the primary function of a modem?",
+    "options": ["Store information", "Modulate and demodulate signals", "Amplify data"],
+    "answer": "Modulate and demodulate signals",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is used to secure wireless networks?",
+    "options": ["WEP", "FTP", "WPA2"],
+    "answer": "WPA2",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does XML stand for?",
+    "options": ["eXecutable Markup Language", "eXtensible Markup Language", "Extra Modern Language"],
+    "answer": "eXtensible Markup Language",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which engineering discipline is involved with the design of circuits?",
+    "options": ["Civil Engineering", "Mechanical Engineering", "Electrical Engineering"],
+    "answer": "Electrical Engineering",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which algorithm is commonly used for data compression?",
+    "options": ["Bubble sort", "Huffman coding", "Linear regression"],
+    "answer": "Huffman coding",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which electronic component stores energy in an electric field?",
+    "options": ["Inductor", "Capacitor", "Resistor"],
+    "answer": "Capacitor",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which company is a leader in semiconductor manufacturing?",
+    "options": ["IBM", "Apple", "Intel"],
+    "answer": "Intel",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does CNC stand for in manufacturing?",
+    "options": ["Control Number Calculator", "Computer Numerical Control", "Central Numeric Computer"],
+    "answer": "Computer Numerical Control",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is used for wireless home automation?",
+    "options": ["Bluetooth", "Zigbee", "Wi-Fi"],
+    "answer": "Zigbee",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the primary purpose of a DAC in electronics?",
+    "options": ["Store data", "Convert digital signals to analog", "Amplify signals"],
+    "answer": "Convert digital signals to analog",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which programming language is primarily used in web front-end development?",
+    "options": ["Python", "JavaScript", "C"],
+    "answer": "JavaScript",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is used to enhance battery charging speed in smartphones?",
+    "options": ["Fast charging", "Wireless charging", "Slow charging"],
+    "answer": "Fast charging",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology underpins the operation of smart grids?",
+    "options": ["Traditional power lines", "Advanced metering infrastructure", "Manual controls"],
+    "answer": "Advanced metering infrastructure",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which component regulates voltage in power supplies?",
+    "options": ["Transistor", "Voltage regulator", "Diode"],
+    "answer": "Voltage regulator",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which programming language is known for its strong type system and used in systems programming?",
+    "options": ["Python", "JavaScript", "Rust"],
+    "answer": "Rust",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which device is used for measuring digital signals?",
+    "options": ["Oscilloscope", "Multimeter", "Thermometer"],
+    "answer": "Oscilloscope",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is used to simulate real-world physics in games?",
+    "options": ["Audio engine", "Rendering engine", "Physics engine"],
+    "answer": "Physics engine",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which company is known for its contributions to robotics with the humanoid robot 'ASIMO'?",
+    "options": ["Sony", "Honda", "Toyota"],
+    "answer": "Honda",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is used to monitor heart rates in wearable devices?",
+    "options": ["X-ray imaging", "Ultrasound", "Photoplethysmography"],
+    "answer": "Photoplethysmography",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which engineering discipline deals with the design of chemical processes?",
+    "options": ["Electrical Engineering", "Mechanical Engineering", "Chemical Engineering"],
+    "answer": "Chemical Engineering",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which device is used to measure rotational speed?",
+    "options": ["Tachometer", "Barometer", "Accelerometer"],
+    "answer": "Tachometer",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology uses radio frequencies to transmit information wirelessly?",
+    "options": ["Infrared communication", "Optical communication", "RF communication"],
+    "answer": "RF communication",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which attribute is a key advantage of SSDs over HDDs?",
+    "options": ["Faster access speeds", "Larger storage capacity", "Lower cost"],
+    "answer": "Faster access speeds",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is used for video compression in streaming?",
+    "options": ["HTTP/2", "H.264", "SMTP"],
+    "answer": "H.264",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which component in power supplies converts AC to DC?",
+    "options": ["Inverter", "Rectifier", "Transformer"],
+    "answer": "Rectifier",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does remote desktop software allow you to do?",
+    "options": ["Increase computer speed", "Access a computer from another location", "Improve battery life"],
+    "answer": "Access a computer from another location",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which company is known for its innovations in 3D printing?",
+    "options": ["Stratasys", "NVIDIA", "Intel"],
+    "answer": "Stratasys",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which device is used to measure electrical resistance?",
+    "options": ["Ammeter", "Ohmmeter", "Voltmeter"],
+    "answer": "Ohmmeter",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which cable type is most common in home networking?",
+    "options": ["HDMI cable", "USB cable", "Ethernet cable"],
+    "answer": "Ethernet cable",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which programming language is known for its use in developing enterprise applications?",
+    "options": ["Perl", "Scratch", "Java"],
+    "answer": "Java",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which device controls the operations of a robotic arm?",
+    "options": ["Actuator", "Controller", "Sensor"],
+    "answer": "Controller",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which machine tool is operated by computer numerical control?",
+    "options": ["3D printer", "CNC machine", "Laser cutter"],
+    "answer": "CNC machine",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is used to improve the resolution of digital images?",
+    "options": ["Compression", "Image upscaling algorithms", "Color inversion"],
+    "answer": "Image upscaling algorithms",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the primary function of a servo motor?",
+    "options": ["Store energy", "Generate power", "Provide precise control of angular position"],
+    "answer": "Provide precise control of angular position",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which programming language is widely used for web server scripting?",
+    "options": ["PHP", "C", "JavaScript"],
+    "answer": "PHP",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which concept does API represent?",
+    "options": ["A hardware component", "A programming language", "A set of rules for interfacing with software"],
+    "answer": "A set of rules for interfacing with software",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which sensor is used to detect mechanical vibrations in industrial equipment?",
+    "options": ["Pressure sensor", "Vibration sensor", "Light sensor"],
+    "answer": "Vibration sensor",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which company is known for developing the Java programming language?",
+    "options": ["Microsoft", "Google", "Sun Microsystems"],
+    "answer": "Sun Microsystems",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does GPU primarily handle in a computer?",
+    "options": ["Storing data", "Managing memory", "Rendering graphics"],
+    "answer": "Rendering graphics",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology allows data to be transmitted over short distances using infrared light?",
+    "options": ["Wi-Fi", "IrDA", "Bluetooth"],
+    "answer": "IrDA",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What is the primary function of a backup power supply in computers?",
+    "options": ["Provide emergency power", "Store data", "Increase processing speed"],
+    "answer": "Provide emergency power",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which programming language is known for its use in artificial intelligence research?",
+    "options": ["HTML", "Lisp", "PHP"],
+    "answer": "Lisp",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "What does the term 'firmware' refer to in technology?",
+    "options": ["Software embedded in hardware", "Cloud applications", "Computer viruses"],
+    "answer": "Software embedded in hardware",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which technology is used to create realistic animations in films?",
+    "options": ["Virtual reality", "3D printing", "Motion capture"],
+    "answer": "Motion capture",
+    "category": "Technology & Engineering"
+  },
+  {
+    "question": "Which engineering principle involves the study of forces and motion?",
+    "options": ["Statics", "Dynamics", "Kinematics"],
+    "answer": "Dynamics",
+    "category": "Technology & Engineering"
+  }
+]

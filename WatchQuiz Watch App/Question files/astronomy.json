@@ -1,0 +1,1472 @@
+[
+  {
+    "question": "What is the largest planet in our solar system?",
+    "options": ["Saturn", "Jupiter", "Earth"],
+    "answer": "Jupiter",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Venus", "Mercury", "Mars"],
+    "answer": "Mercury",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet is known as the Red Planet?",
+    "options": ["Mars", "Jupiter", "Venus"],
+    "answer": "Mars",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the name of our galaxy?",
+    "options": ["Milky Way", "Andromeda", "Sombrero"],
+    "answer": "Milky Way",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet is known for its prominent rings?",
+    "options": ["Saturn", "Neptune", "Uranus"],
+    "answer": "Saturn",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for a star's explosive death?",
+    "options": ["Supernova", "Nova", "Hypernova"],
+    "answer": "Supernova",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the closest star to Earth?",
+    "options": ["Proxima Centauri", "Alpha Centauri", "Sirius"],
+    "answer": "Proxima Centauri",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which is the brightest star in the night sky?",
+    "options": ["Sirius", "Betelgeuse", "Rigel"],
+    "answer": "Sirius",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What process powers the Sun?",
+    "options": ["Nuclear fusion", "Nuclear fission", "Combustion"],
+    "answer": "Nuclear fusion",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the name of the telescope launched in 1990 that has provided deep space images?",
+    "options": ["Kepler", "Hubble Space Telescope", "Spitzer"],
+    "answer": "Hubble Space Telescope",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which dwarf planet was once considered the ninth planet?",
+    "options": ["Haumea", "Pluto", "Makemake"],
+    "answer": "Pluto",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet is known as the 'Morning Star' or 'Evening Star'?",
+    "options": ["Venus", "Mercury", "Mars"],
+    "answer": "Venus",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for a system of millions or billions of stars?",
+    "options": ["Galaxy", "Solar System", "Universe"],
+    "answer": "Galaxy",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What phenomenon occurs when the Moon passes between the Earth and the Sun?",
+    "options": ["Lunar eclipse", "Solar eclipse", "Transit"],
+    "answer": "Solar eclipse",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which is the outermost part of the Sun's atmosphere?",
+    "options": ["Chromosphere", "Corona", "Photosphere"],
+    "answer": "Corona",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet has the most extensive system of rings?",
+    "options": ["Uranus", "Saturn", "Jupiter"],
+    "answer": "Saturn",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What do we call the dense core left behind after a supernova explosion in many cases?",
+    "options": ["Black hole", "Neutron star", "Quasar"],
+    "answer": "Neutron star",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet is famous for having a Great Red Spot?",
+    "options": ["Jupiter", "Mars", "Saturn"],
+    "answer": "Jupiter",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the point in an orbit closest to the Sun?",
+    "options": ["Perihelion", "Aphelion", "Zenith"],
+    "answer": "Perihelion",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the point in an orbit farthest from the Sun?",
+    "options": ["Aphelion", "Perihelion", "Nadir"],
+    "answer": "Aphelion",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet's rotation is nearly perpendicular to its orbit?",
+    "options": ["Uranus", "Neptune", "Earth"],
+    "answer": "Uranus",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What phenomenon causes the apparent shift in position of nearby stars due to Earth's orbit?",
+    "options": ["Parallax", "Doppler shift", "Refraction"],
+    "answer": "Parallax",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which spacecraft was the first to reach interstellar space?",
+    "options": ["Voyager 1", "Pioneer 10", "New Horizons"],
+    "answer": "Voyager 1",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which mission landed the first humans on the Moon?",
+    "options": ["Apollo 11", "Apollo 13", "Gemini 12"],
+    "answer": "Apollo 11",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the name of NASA’s Mars rover that landed in 2012?",
+    "options": ["Curiosity", "Opportunity", "Spirit"],
+    "answer": "Curiosity",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet is known for its extreme winds and blue color?",
+    "options": ["Neptune", "Uranus", "Saturn"],
+    "answer": "Neptune",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the name of the largest volcano in our solar system, located on Mars?",
+    "options": ["Olympus Mons", "Mauna Kea", "Ascraeus Mons"],
+    "answer": "Olympus Mons",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which celestial event is caused by Earth's shadow falling on the Moon?",
+    "options": ["Lunar eclipse", "Solar eclipse", "Occultation"],
+    "answer": "Lunar eclipse",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What do we call a planet outside our solar system?",
+    "options": ["Exoplanet", "Dwarf planet", "Asteroid"],
+    "answer": "Exoplanet",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which telescope is known for discovering thousands of exoplanets?",
+    "options": ["Kepler Space Telescope", "Hubble Space Telescope", "Spitzer Space Telescope"],
+    "answer": "Kepler Space Telescope",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the name of the boundary marking the edge of our solar system?",
+    "options": ["Kuiper Belt", "Heliosphere", "Oort Cloud"],
+    "answer": "Heliosphere",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which region is a spherical shell of icy bodies surrounding our solar system?",
+    "options": ["Asteroid Belt", "Kuiper Belt", "Oort Cloud"],
+    "answer": "Oort Cloud",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the process by which stars form from clouds of gas and dust?",
+    "options": ["Accretion", "Gravitational collapse", "Nuclear fusion"],
+    "answer": "Gravitational collapse",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which type of galaxy has a distinct spiral structure?",
+    "options": ["Elliptical", "Irregular", "Spiral"],
+    "answer": "Spiral",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which galaxy is on a collision course with the Milky Way?",
+    "options": ["Andromeda", "Triangulum", "Whirlpool"],
+    "answer": "Andromeda",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for a star that suddenly increases dramatically in brightness and then fades?",
+    "options": ["Nova", "Supernova", "Quasar"],
+    "answer": "Nova",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which phase of the Moon is fully illuminated?",
+    "options": ["Full Moon", "New Moon", "Crescent Moon"],
+    "answer": "Full Moon",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which phenomenon describes a star's light bending around a massive object?",
+    "options": ["Gravitational lensing", "Refraction", "Diffraction"],
+    "answer": "Gravitational lensing",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the primary component of the Sun?",
+    "options": ["Helium", "Hydrogen", "Oxygen"],
+    "answer": "Hydrogen",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet is sometimes called Earth's twin due to similar size?",
+    "options": ["Mars", "Venus", "Mercury"],
+    "answer": "Venus",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What term describes a celestial body's apparent motion due to Earth's orbit?",
+    "options": ["Retrograde motion", "Proper motion", "Orbital motion"],
+    "answer": "Retrograde motion",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which constellation is known as 'The Hunter'?",
+    "options": ["Orion", "Ursa Major", "Cassiopeia"],
+    "answer": "Orion",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the measure of a star's brightness as seen from Earth?",
+    "options": ["Luminosity", "Magnitude", "Radiance"],
+    "answer": "Magnitude",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which instrument splits light into its component colors for analysis?",
+    "options": ["Spectrometer", "Microscope", "Telescopic lens"],
+    "answer": "Spectrometer",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the cosmic background radiation evidence of?",
+    "options": ["Big Bang", "Star formation", "Black holes"],
+    "answer": "Big Bang",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet has a surface covered with vast canyons, including Valles Marineris?",
+    "options": ["Mars", "Venus", "Mercury"],
+    "answer": "Mars",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the phenomenon where a planet's axis is tilted relative to its orbital plane?",
+    "options": ["Axial tilt", "Precession", "Obliquity"],
+    "answer": "Axial tilt",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet is known for its retrograde rotation?",
+    "options": ["Venus", "Mars", "Earth"],
+    "answer": "Venus",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the name given to the boundary around a black hole from which nothing can escape?",
+    "options": ["Event horizon", "Singularity", "Accretion disk"],
+    "answer": "Event horizon",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which star is known as the North Star?",
+    "options": ["Polaris", "Sirius", "Betelgeuse"],
+    "answer": "Polaris",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for a large explosion marking the end of a massive star's life?",
+    "options": ["Supernova", "Hypernova", "Nova"],
+    "answer": "Supernova",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which moon is the largest in our solar system?",
+    "options": ["Ganymede", "Titan", "Callisto"],
+    "answer": "Ganymede",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What phenomenon causes the apparent red color of Mars?",
+    "options": ["Rust", "Ice", "Volcanic activity"],
+    "answer": "Rust",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the study of the universe beyond Earth's atmosphere called?",
+    "options": ["Astronomy", "Astrology", "Cosmology"],
+    "answer": "Astronomy",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet has the fastest orbit around the Sun?",
+    "options": ["Mercury", "Venus", "Earth"],
+    "answer": "Mercury",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the name of the first artificial satellite launched into space?",
+    "options": ["Sputnik", "Explorer 1", "Voyager 1"],
+    "answer": "Sputnik",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet's day is longer than its year?",
+    "options": ["Venus", "Mercury", "Mars"],
+    "answer": "Venus",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What type of star is the Sun?",
+    "options": ["Red dwarf", "Yellow dwarf", "Blue giant"],
+    "answer": "Yellow dwarf",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet has the highest surface temperature?",
+    "options": ["Mercury", "Venus", "Earth"],
+    "answer": "Venus",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which constellation contains the star Betelgeuse?",
+    "options": ["Orion", "Scorpius", "Lyra"],
+    "answer": "Orion",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the name of the effect where light is stretched to longer wavelengths due to an expanding universe?",
+    "options": ["Cosmological redshift", "Doppler effect", "Gravitational redshift"],
+    "answer": "Cosmological redshift",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which nebula is known as the birthplace of stars?",
+    "options": ["Crab Nebula", "Orion Nebula", "Helix Nebula"],
+    "answer": "Orion Nebula",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet is known for its prominent, large, and thin rings besides Saturn?",
+    "options": ["Uranus", "Neptune", "Jupiter"],
+    "answer": "Uranus",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the imaginary line about which a celestial body rotates?",
+    "options": ["Axis", "Orbit", "Equator"],
+    "answer": "Axis",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which star is part of the Summer Triangle?",
+    "options": ["Vega", "Polaris", "Betelgeuse"],
+    "answer": "Vega",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which exoplanet was the first discovered orbiting a sun-like star?",
+    "options": ["51 Pegasi b", "Kepler-22b", "Gliese 581g"],
+    "answer": "51 Pegasi b",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the residual glow left after the Big Bang?",
+    "options": ["Cosmic microwave background", "Dark energy", "Interstellar medium"],
+    "answer": "Cosmic microwave background",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which moon of Jupiter is believed to have a subsurface ocean?",
+    "options": ["Io", "Europa", "Ganymede"],
+    "answer": "Europa",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which dwarf planet is located in the asteroid belt?",
+    "options": ["Ceres", "Pluto", "Eris"],
+    "answer": "Ceres",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What phenomenon results in the observed motion of stars due to Earth's rotation?",
+    "options": ["Diurnal motion", "Precession", "Proper motion"],
+    "answer": "Diurnal motion",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet is known for its retrograde orbit?",
+    "options": ["Venus", "Uranus", "Neptune"],
+    "answer": "Venus",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the name of the mission that first landed a probe on a comet?",
+    "options": ["Rosetta", "Philae", "Stardust"],
+    "answer": "Philae",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which constellation is known for its 'Great Square' asterism?",
+    "options": ["Cygnus", "Pegasus", "Cassiopeia"],
+    "answer": "Pegasus",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the bright trail left behind a comet?",
+    "options": ["Coma", "Tail", "Halo"],
+    "answer": "Tail",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which spacecraft provided the first close-up images of Pluto?",
+    "options": ["Voyager 2", "New Horizons", "Cassini–Huygens"],
+    "answer": "New Horizons",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the name of the effect causing the apparent bending of a star's path due to a massive object's gravity?",
+    "options": ["Gravitational lensing", "Gravitational redshift", "Gravitational time dilation"],
+    "answer": "Gravitational lensing",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which celestial object is known for having a tail that always points away from the Sun?",
+    "options": ["Comet", "Asteroid", "Meteoroid"],
+    "answer": "Comet",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which term describes a star that pulsates in brightness due to internal processes?",
+    "options": ["Variable star", "Binary star", "Supernova"],
+    "answer": "Variable star",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which space telescope was launched to study infrared wavelengths?",
+    "options": ["Spitzer Space Telescope", "Hubble Space Telescope", "Kepler Space Telescope"],
+    "answer": "Spitzer Space Telescope",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet's moon Titan has a thick atmosphere?",
+    "options": ["Saturn", "Jupiter", "Neptune"],
+    "answer": "Saturn",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which phenomenon causes the Sun to appear to move through the sky?",
+    "options": ["Earth's rotation", "Earth's revolution", "Solar orbit"],
+    "answer": "Earth's rotation",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What term describes a system where two stars orbit around a common center of mass?",
+    "options": ["Binary star system", "Multiple star system", "Star cluster"],
+    "answer": "Binary star system",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet has a feature known as the 'Great Dark Spot'?",
+    "options": ["Neptune", "Uranus", "Jupiter"],
+    "answer": "Neptune",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which star in the constellation Orion is a red supergiant?",
+    "options": ["Betelgeuse", "Rigel", "Bellatrix"],
+    "answer": "Betelgeuse",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the measure of a star's energy output?",
+    "options": ["Luminosity", "Magnitude", "Brightness"],
+    "answer": "Luminosity",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which constellation is shaped like a bowl or ladle and is part of Ursa Major?",
+    "options": ["Big Dipper", "Little Dipper", "Summer Triangle"],
+    "answer": "Big Dipper",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet is known for having a hexagon-shaped storm at its pole?",
+    "options": ["Saturn", "Jupiter", "Neptune"],
+    "answer": "Saturn",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the region around a star where conditions may be right for liquid water?",
+    "options": ["Habitable zone", "Frost line", "Goldilocks zone"],
+    "answer": "Habitable zone",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet has the most eccentric orbit?",
+    "options": ["Mercury", "Pluto", "Mars"],
+    "answer": "Pluto",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which phenomenon explains why the night sky is dark despite an infinite number of stars?",
+    "options": ["Olbers' paradox", "Cosmic microwave background", "Stellar extinction"],
+    "answer": "Olbers' paradox",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for a sudden increase in a star's brightness due to material falling onto it?",
+    "options": ["Stellar flare", "Accretion burst", "Nova"],
+    "answer": "Accretion burst",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which dwarf planet is known for its elongated shape and rapid rotation?",
+    "options": ["Haumea", "Eris", "Makemake"],
+    "answer": "Haumea",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which region of space contains most of the solar system's asteroids?",
+    "options": ["Kuiper Belt", "Asteroid Belt", "Oort Cloud"],
+    "answer": "Asteroid Belt",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What type of variable star is commonly used as a standard candle for measuring cosmic distances?",
+    "options": ["RR Lyrae", "Cepheid variable", "Mira variable"],
+    "answer": "Cepheid variable",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which galaxy is expected to collide with the Milky Way in the future?",
+    "options": ["Andromeda", "Triangulum", "Sombrero"],
+    "answer": "Andromeda",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the name of NASA's telescope that studies high-energy phenomena in space?",
+    "options": ["Chandra X-ray Observatory", "Spitzer Space Telescope", "Fermi Gamma-ray Space Telescope"],
+    "answer": "Chandra X-ray Observatory",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet is known for its extensive system of moons and faint rings?",
+    "options": ["Jupiter", "Saturn", "Uranus"],
+    "answer": "Uranus",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What term describes the process by which a star collapses under its own gravity to form a black hole?",
+    "options": ["Accretion", "Collapse", "Gravitational collapse"],
+    "answer": "Gravitational collapse",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which space agency launched the first human into space?",
+    "options": ["NASA", "Soviet space program", "ESA"],
+    "answer": "Soviet space program",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the dust and gas cloud from which stars form?",
+    "options": ["Nebula", "Galaxy", "Quasar"],
+    "answer": "Nebula",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet is known for having seasons similar to Earth due to its axial tilt?",
+    "options": ["Mars", "Mercury", "Venus"],
+    "answer": "Mars",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the study of the universe's origin and evolution called?",
+    "options": ["Cosmology", "Astrology", "Exobiology"],
+    "answer": "Cosmology",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which moon of Jupiter is believed to have a subsurface ocean?",
+    "options": ["Io", "Europa", "Ganymede"],
+    "answer": "Europa",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What term describes the small bodies in space that burn up upon entering Earth's atmosphere?",
+    "options": ["Meteoroids", "Asteroids", "Comets"],
+    "answer": "Meteoroids",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which phenomenon is observed when the Moon blocks sunlight during an eclipse?",
+    "options": ["Solar eclipse", "Lunar eclipse", "Occultation"],
+    "answer": "Solar eclipse",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which feature, known as the 'Caloris Basin', is found on which planet?",
+    "options": ["Mercury", "Mars", "Venus"],
+    "answer": "Mercury",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the event marked by the alignment of the Earth, Moon, and Sun?",
+    "options": ["Eclipse", "Transit", "Occultation"],
+    "answer": "Eclipse",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the time it takes for the Earth to complete one rotation on its axis?",
+    "options": ["Day", "Year", "Sidereal day"],
+    "answer": "Day",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What group of objects is shaped by Jupiter's gravitational influence?",
+    "options": ["Kuiper Belt objects", "Asteroid Belt", "Oort Cloud"],
+    "answer": "Asteroid Belt",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the name of the effect where a star's light is absorbed and re-emitted at different wavelengths?",
+    "options": ["Spectral absorption", "Doppler effect", "Redshift"],
+    "answer": "Spectral absorption",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet has a surface marked by Olympus Mons?",
+    "options": ["Mars", "Venus", "Mercury"],
+    "answer": "Mars",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the boundary where the solar wind meets the interstellar medium?",
+    "options": ["Heliopause", "Termination shock", "Bow shock"],
+    "answer": "Heliopause",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which mission was the first to land a rover on Mars in 1997?",
+    "options": ["Spirit", "Sojourner", "Opportunity"],
+    "answer": "Sojourner",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the apparent brightness of a celestial object as seen from Earth?",
+    "options": ["Apparent magnitude", "Absolute magnitude", "Luminosity"],
+    "answer": "Apparent magnitude",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the name of the largest known star by radius?",
+    "options": ["UY Scuti", "Betelgeuse", "VY Canis Majoris"],
+    "answer": "UY Scuti",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet has a significant tilt in its orbit leading to extreme seasonal changes?",
+    "options": ["Pluto", "Neptune", "Uranus"],
+    "answer": "Uranus",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What phenomenon causes the periodic dimming of stars due to orbiting planets?",
+    "options": ["Transit", "Eclipse", "Occultation"],
+    "answer": "Transit",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which region in space, filled with icy bodies, is considered the 'backyard' of our solar system?",
+    "options": ["Kuiper Belt", "Asteroid Belt", "Oort Cloud"],
+    "answer": "Kuiper Belt",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the study of the structure and composition of the universe called?",
+    "options": ["Astrophysics", "Geology", "Meteorology"],
+    "answer": "Astrophysics",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What type of galaxy is the Milky Way?",
+    "options": ["Elliptical", "Barred spiral", "Irregular"],
+    "answer": "Barred spiral",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which mission was the first to return samples from an asteroid?",
+    "options": ["Hayabusa", "OSIRIS-REx", "Stardust"],
+    "answer": "Hayabusa",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet is the coldest in our solar system?",
+    "options": ["Neptune", "Uranus", "Pluto"],
+    "answer": "Neptune",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What term describes the shock wave produced by an object traveling faster than the speed of sound in a medium?",
+    "options": ["Sonic boom", "Shockwave", "Mach cone"],
+    "answer": "Sonic boom",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which moon is the most volcanically active body in our solar system?",
+    "options": ["Io", "Europa", "Enceladus"],
+    "answer": "Io",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the name of the phenomenon where a star's light is split into its component colors by a prism?",
+    "options": ["Dispersion", "Diffraction", "Interference"],
+    "answer": "Dispersion",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the measurement of the shift in frequency or wavelength of light from a moving object?",
+    "options": ["Doppler effect", "Redshift", "Blueshift"],
+    "answer": "Doppler effect",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which space mission provided detailed images of Saturn's rings?",
+    "options": ["Voyager 1", "Cassini–Huygens", "New Horizons"],
+    "answer": "Cassini–Huygens",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for a celestial object that orbits a planet?",
+    "options": ["Satellite", "Moon", "Ring"],
+    "answer": "Moon",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which astronomical event occurs when Earth passes through the debris left by a comet, causing meteor showers?",
+    "options": ["Aurora", "Meteor shower", "Solar eclipse"],
+    "answer": "Meteor shower",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which spacecraft provided the most detailed images of the outer planets?",
+    "options": ["Voyager 2", "Pioneer 10", "Galileo"],
+    "answer": "Voyager 2",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the distance light travels in one year?",
+    "options": ["Light year", "Parsec", "Astronomical unit"],
+    "answer": "Light year",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which phenomenon occurs when light from a celestial body is blocked by another object?",
+    "options": ["Transit", "Eclipse", "Occultation"],
+    "answer": "Occultation",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the name of the theory that describes the origin of the universe from a hot, dense state?",
+    "options": ["Steady State theory", "Big Bang theory", "Inflationary theory"],
+    "answer": "Big Bang theory",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet is known for its blue color due to methane in its atmosphere?",
+    "options": ["Uranus", "Neptune", "Saturn"],
+    "answer": "Neptune",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the protective magnetic field around a planet?",
+    "options": ["Magnetosphere", "Ionosphere", "Thermosphere"],
+    "answer": "Magnetosphere",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which object in the solar system has the highest albedo, reflecting most of the sunlight?",
+    "options": ["Enceladus", "Europa", "Titan"],
+    "answer": "Enceladus",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which phenomenon is observed when spectral lines are shifted due to a gravitational field?",
+    "options": ["Gravitational redshift", "Cosmological redshift", "Doppler shift"],
+    "answer": "Gravitational redshift",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for a region in space with a high density of stars?",
+    "options": ["Star cluster", "Nebula", "Galaxy"],
+    "answer": "Star cluster",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which celestial object is sometimes referred to as a 'failed star'?",
+    "options": ["Brown dwarf", "White dwarf", "Red giant"],
+    "answer": "Brown dwarf",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which phenomenon explains the cyclical changes in a star's brightness due to pulsation?",
+    "options": ["Stellar variability", "Binary eclipse", "Supernova"],
+    "answer": "Stellar variability",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which mission was the first to fly by Pluto?",
+    "options": ["New Horizons", "Voyager 2", "Pioneer 11"],
+    "answer": "New Horizons",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What term describes the measure of how much space an object occupies?",
+    "options": ["Volume", "Mass", "Density"],
+    "answer": "Volume",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet has the most elongated orbit in our solar system?",
+    "options": ["Pluto", "Mars", "Mercury"],
+    "answer": "Pluto",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which star is famous for being the center of the Pleiades cluster?",
+    "options": ["Alcyone", "Merope", "Atlas"],
+    "answer": "Alcyone",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the name of the hypothetical boundary beyond which the universe's expansion accelerates?",
+    "options": ["Event horizon", "Cosmic horizon", "Hubble horizon"],
+    "answer": "Cosmic horizon",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which unit is approximately the distance from the Earth to the Sun?",
+    "options": ["Astronomical unit", "Light year", "Parsec"],
+    "answer": "Astronomical unit",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet has the most pronounced equatorial bulge?",
+    "options": ["Jupiter", "Saturn", "Uranus"],
+    "answer": "Saturn",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the smallest particle of a chemical element that retains its properties?",
+    "options": ["Atom", "Molecule", "Electron"],
+    "answer": "Atom",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which phenomenon is observed when two galaxies interact gravitationally?",
+    "options": ["Galaxy collision", "Galaxy merger", "Tidal interaction"],
+    "answer": "Galaxy merger",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which term describes the distance between two consecutive crests of a wave?",
+    "options": ["Frequency", "Wavelength", "Amplitude"],
+    "answer": "Wavelength",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the name of the space observatory that studies gamma rays?",
+    "options": ["Fermi Gamma-ray Space Telescope", "Chandra X-ray Observatory", "Spitzer Space Telescope"],
+    "answer": "Fermi Gamma-ray Space Telescope",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which moon is known for its geysers ejecting water vapor into space?",
+    "options": ["Enceladus", "Titan", "Europa"],
+    "answer": "Enceladus",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which term describes the angular distance of an object north or south of the celestial equator?",
+    "options": ["Declination", "Right ascension", "Azimuth"],
+    "answer": "Declination",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which constellation contains the asterism known as the 'Summer Triangle'?",
+    "options": ["Lyra", "Scorpius", "Orion"],
+    "answer": "Lyra",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the name of the phenomenon when an object's light is bent by gravity around a massive object?",
+    "options": ["Gravitational lensing", "Gravitational redshift", "Gravitational collapse"],
+    "answer": "Gravitational lensing",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet has a surface primarily composed of water ice?",
+    "options": ["Europa", "Ganymede", "Callisto"],
+    "answer": "Europa",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the theoretical boundary around a black hole from which nothing can escape?",
+    "options": ["Event horizon", "Schwarzschild radius", "Accretion disk"],
+    "answer": "Event horizon",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which mission is known for providing detailed maps of the cosmic microwave background?",
+    "options": ["COBE", "WMAP", "Planck"],
+    "answer": "WMAP",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the phenomenon where galaxies appear to move away from us due to the expansion of the universe?",
+    "options": ["Cosmic inflation", "Cosmological redshift", "Dark energy"],
+    "answer": "Cosmological redshift",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet is named after the Roman god of war?",
+    "options": ["Mars", "Mercury", "Jupiter"],
+    "answer": "Mars",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the name of the supermassive black hole at the center of the Milky Way?",
+    "options": ["Sagittarius A*", "Cygnus X-1", "Andromeda A"],
+    "answer": "Sagittarius A*",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which term describes the phenomenon of a star changing in brightness over time?",
+    "options": ["Variability", "Luminosity", "Magnitude"],
+    "answer": "Variability",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet is known for having a prominent cloud band structure?",
+    "options": ["Jupiter", "Saturn", "Neptune"],
+    "answer": "Jupiter",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the measure of the mass of a star?",
+    "options": ["Solar mass", "Star mass", "Gravitational mass"],
+    "answer": "Solar mass",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet has the most eccentric orbit among the eight planets?",
+    "options": ["Mercury", "Mars", "Pluto"],
+    "answer": "Mercury",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which constellation is known as 'The Big Dipper' part of?",
+    "options": ["Ursa Major", "Ursa Minor", "Cassiopeia"],
+    "answer": "Ursa Major",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet is famous for its rapid rotation, resulting in a very short day?",
+    "options": ["Jupiter", "Saturn", "Neptune"],
+    "answer": "Jupiter",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What term describes the study of the properties and behavior of matter and energy in the universe?",
+    "options": ["Astrophysics", "Astronomy", "Cosmology"],
+    "answer": "Astrophysics",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which phenomenon is responsible for the formation of rings around planets?",
+    "options": ["Gravitational disruption", "Tidal forces", "Magnetic fields"],
+    "answer": "Tidal forces",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the name of the boundary beyond which the universe is not observable?",
+    "options": ["Observable universe", "Cosmic horizon", "Event horizon"],
+    "answer": "Cosmic horizon",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which term describes the measure of the intrinsic brightness of a celestial object?",
+    "options": ["Absolute magnitude", "Apparent magnitude", "Luminosity"],
+    "answer": "Absolute magnitude",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which mission was the first to image the surface of Mars?",
+    "options": ["Mariner 4", "Viking 1", "Pathfinder"],
+    "answer": "Mariner 4",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet has a solid, cratered surface with large highland areas?",
+    "options": ["Mercury", "Venus", "Mars"],
+    "answer": "Mercury",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the study of comets, asteroids, and meteoroids?",
+    "options": ["Cosmochemistry", "Planetary science", "Meteoritics"],
+    "answer": "Meteoritics",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which celestial object is often called a 'shooting star'?",
+    "options": ["Meteor", "Comet", "Asteroid"],
+    "answer": "Meteor",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which phenomenon is used to measure the distance to far-off galaxies?",
+    "options": ["Parallax", "Standard candles", "Redshift"],
+    "answer": "Standard candles",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for a star that has exhausted the hydrogen in its core?",
+    "options": ["Main sequence star", "Red giant", "White dwarf"],
+    "answer": "Red giant",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet is known for having a very thin atmosphere composed mainly of carbon dioxide?",
+    "options": ["Mars", "Venus", "Mercury"],
+    "answer": "Mars",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the curved path of a planet around the Sun?",
+    "options": ["Orbit", "Trajectory", "Revolution"],
+    "answer": "Orbit",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which star is the second-brightest in the night sky?",
+    "options": ["Canopus", "Sirius", "Arcturus"],
+    "answer": "Canopus",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What phenomenon explains the cyclical waxing and waning of the Moon?",
+    "options": ["Lunar phases", "Eclipses", "Tides"],
+    "answer": "Lunar phases",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which term describes the cluster of galaxies that contains the Milky Way?",
+    "options": ["Local Group", "Virgo Cluster", "Coma Cluster"],
+    "answer": "Local Group",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet has the largest storm system in the solar system?",
+    "options": ["Jupiter", "Saturn", "Neptune"],
+    "answer": "Jupiter",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the region in space where the gravity of a celestial body is dominant?",
+    "options": ["Gravitational sphere", "Hill sphere", "Roche lobe"],
+    "answer": "Hill sphere",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which phenomenon occurs when a star explodes, briefly outshining an entire galaxy?",
+    "options": ["Nova", "Supernova", "Hypernova"],
+    "answer": "Supernova",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet's orbit is the most circular?",
+    "options": ["Venus", "Earth", "Neptune"],
+    "answer": "Venus",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for a region of space with low density and few stars?",
+    "options": ["Void", "Nebula", "Galaxy cluster"],
+    "answer": "Void",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which spacecraft is currently orbiting Mars and studying its surface?",
+    "options": ["Curiosity", "Mars Reconnaissance Orbiter", "Viking 2"],
+    "answer": "Mars Reconnaissance Orbiter",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which term describes the phenomenon of objects moving faster than the local speed of sound in a fluid?",
+    "options": ["Supersonic", "Transonic", "Hypersonic"],
+    "answer": "Supersonic",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which region of the electromagnetic spectrum has the shortest wavelength?",
+    "options": ["X-rays", "Gamma rays", "Ultraviolet"],
+    "answer": "Gamma rays",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which term describes the number of orbits a planet completes in one Earth year?",
+    "options": ["Orbital period", "Year length", "Revolution"],
+    "answer": "Orbital period",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which constellation is known for the star cluster called the 'Pleiades'?",
+    "options": ["Taurus", "Orion", "Gemini"],
+    "answer": "Taurus",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which term describes the measure of the amount of matter per unit volume?",
+    "options": ["Density", "Mass", "Volume"],
+    "answer": "Density",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which phenomenon explains the bending of light as it passes near a massive object?",
+    "options": ["Gravitational lensing", "Diffraction", "Interference"],
+    "answer": "Gravitational lensing",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the study of planets, moons, and other objects in the solar system?",
+    "options": ["Planetary science", "Astrobiology", "Geology"],
+    "answer": "Planetary science",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet is known for its thick, toxic atmosphere?",
+    "options": ["Venus", "Mars", "Mercury"],
+    "answer": "Venus",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the measurement of a star's chemical composition?",
+    "options": ["Spectroscopy", "Photometry", "Astrometry"],
+    "answer": "Spectroscopy",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which phenomenon is responsible for the shifting of spectral lines in a star's light?",
+    "options": ["Doppler effect", "Zeeman effect", "Stark effect"],
+    "answer": "Doppler effect",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which spacecraft was the first to land on the far side of the Moon?",
+    "options": ["Apollo 11", "Chang'e 4", "Luna 2"],
+    "answer": "Chang'e 4",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the process by which gas in space collapses to form stars?",
+    "options": ["Gravitational collapse", "Accretion", "Fusion"],
+    "answer": "Gravitational collapse",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet is known for its extensive system of icy moons?",
+    "options": ["Saturn", "Uranus", "Neptune"],
+    "answer": "Neptune",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which term describes the apparent motion of a star due to the orbit of the Earth?",
+    "options": ["Parallax", "Precession", "Proper motion"],
+    "answer": "Parallax",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which interacting galaxy pair is known for its tidal tails?",
+    "options": ["Antennae Galaxies", "Pinwheel Galaxy", "Cartwheel Galaxy"],
+    "answer": "Antennae Galaxies",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which term describes the process of a planet's formation from a disk of dust and gas?",
+    "options": ["Accretion", "Fusion", "Condensation"],
+    "answer": "Accretion",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which phenomenon is observed when the Sun's outer atmosphere becomes visible during a solar eclipse?",
+    "options": ["Corona", "Photosphere", "Chromosphere"],
+    "answer": "Corona",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which space telescope is known for its observations in the ultraviolet spectrum?",
+    "options": ["GALEX", "Spitzer", "Chandra"],
+    "answer": "GALEX",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which term describes the bending of light due to a medium's refractive index?",
+    "options": ["Refraction", "Diffraction", "Interference"],
+    "answer": "Refraction",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which celestial object is characterized by a coma and a tail when near the Sun?",
+    "options": ["Comet", "Asteroid", "Meteor"],
+    "answer": "Comet",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which phenomenon occurs when charged particles from the Sun interact with Earth's magnetic field?",
+    "options": ["Aurora", "Solar flare", "Magnetosphere"],
+    "answer": "Aurora",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which term describes the study of the distribution and motion of galaxies?",
+    "options": ["Cosmology", "Extragalactic astronomy", "Stellar dynamics"],
+    "answer": "Extragalactic astronomy",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet has the most similar size to Earth?",
+    "options": ["Venus", "Mars", "Mercury"],
+    "answer": "Venus",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the invisible mass that affects the rotation of galaxies?",
+    "options": ["Dark matter", "Dark energy", "Interstellar medium"],
+    "answer": "Dark matter",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which phenomenon refers to the accelerated expansion of the universe?",
+    "options": ["Cosmic inflation", "Dark energy", "Big Bang"],
+    "answer": "Dark energy",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which star is famous for its periodic variability and used to measure distances in space?",
+    "options": ["Cepheid variable", "Red dwarf", "White dwarf"],
+    "answer": "Cepheid variable",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the angle between an object's orbital plane and the plane of the ecliptic?",
+    "options": ["Inclination", "Obliquity", "Eccentricity"],
+    "answer": "Inclination",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which term describes the phenomenon when a planet's orbit deviates from a perfect circle?",
+    "options": ["Eccentricity", "Obliquity", "Inclination"],
+    "answer": "Eccentricity",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which galaxy is known for having a prominent bar structure?",
+    "options": ["Andromeda", "Milky Way", "Sombrero"],
+    "answer": "Milky Way",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the apparent shift in the position of an object due to the movement of the observer?",
+    "options": ["Parallax", "Aberration", "Refraction"],
+    "answer": "Aberration",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which celestial object emits regular pulses of radio waves and is often a rotating neutron star?",
+    "options": ["Pulsar", "Quasar", "Magnetar"],
+    "answer": "Pulsar",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which term describes a star system with two stars orbiting each other?",
+    "options": ["Binary star system", "Multiple star system", "Star cluster"],
+    "answer": "Binary star system",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which phenomenon results in the stretching of space itself?",
+    "options": ["Cosmic expansion", "Gravitational collapse", "Time dilation"],
+    "answer": "Cosmic expansion",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which mission provided the first detailed images of Mercury's surface?",
+    "options": ["MESSENGER", "Mariner 10", "BepiColombo"],
+    "answer": "Mariner 10",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which term describes the boundary within which an object is gravitationally bound to another object?",
+    "options": ["Hill sphere", "Roche limit", "Lagrange point"],
+    "answer": "Hill sphere",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which celestial object is sometimes called a 'Red Giant' due to its appearance?",
+    "options": ["Betelgeuse", "Rigel", "Sirius"],
+    "answer": "Betelgeuse",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the period during which a star burns hydrogen in its core?",
+    "options": ["Main sequence", "Red giant phase", "White dwarf stage"],
+    "answer": "Main sequence",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet is known for having a significant number of rings despite not being as famous as Saturn?",
+    "options": ["Uranus", "Neptune", "Jupiter"],
+    "answer": "Uranus",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which phenomenon describes the increase in wavelength (shift toward red) of light from receding objects?",
+    "options": ["Doppler redshift", "Gravitational redshift", "Cosmological redshift"],
+    "answer": "Cosmological redshift",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which term describes the amount of energy a star emits per unit time?",
+    "options": ["Luminosity", "Radiance", "Intensity"],
+    "answer": "Luminosity",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which spacecraft was designed to study the Sun and its effects on the solar system?",
+    "options": ["Parker Solar Probe", "Voyager 1", "Cassini–Huygens"],
+    "answer": "Parker Solar Probe",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which planet is named after the Roman goddess of love?",
+    "options": ["Venus", "Mars", "Mercury"],
+    "answer": "Venus",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for a space rock that reaches the Earth's surface?",
+    "options": ["Meteorite", "Meteoroid", "Meteor"],
+    "answer": "Meteorite",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which phenomenon results in the scattering of sunlight, making the sky appear blue?",
+    "options": ["Rayleigh scattering", "Mie scattering", "Non-scattering"],
+    "answer": "Rayleigh scattering",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which term describes the force that holds a galaxy together?",
+    "options": ["Gravitational force", "Electromagnetic force", "Nuclear force"],
+    "answer": "Gravitational force",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which galaxy is the most distant one ever observed, as of recent discoveries?",
+    "options": ["GN-z11", "Andromeda", "Milky Way"],
+    "answer": "GN-z11",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which term describes the study of the chemical elements found in stars and galaxies?",
+    "options": ["Astrochemistry", "Cosmochemistry", "Spectroscopy"],
+    "answer": "Astrochemistry",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which phenomenon occurs when a star's spectrum shows a split due to magnetic fields?",
+    "options": ["Zeeman effect", "Doppler effect", "Photoelectric effect"],
+    "answer": "Zeeman effect",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which constellation is known as the 'Water Bearer'?",
+    "options": ["Aquarius", "Pisces", "Capricorn"],
+    "answer": "Aquarius",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which term describes a galaxy that has a highly elongated shape?",
+    "options": ["Elliptical", "Spiral", "Irregular"],
+    "answer": "Elliptical",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the path that an object in space follows due to gravity?",
+    "options": ["Orbit", "Trajectory", "Course"],
+    "answer": "Orbit",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which phenomenon is responsible for the phases of Venus as observed from Earth?",
+    "options": ["Transit", "Phases", "Reflection"],
+    "answer": "Phases",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which mission is known for mapping the surface of Mars using high-resolution imaging?",
+    "options": ["Mars Reconnaissance Orbiter", "Viking 1", "Pathfinder"],
+    "answer": "Mars Reconnaissance Orbiter",
+    "category": "Astronomy"
+  },
+  {
+    "question": "What is the term for the rapid rotation of a neutron star, observed as pulses?",
+    "options": ["Pulsar", "Quasar", "Magnetar"],
+    "answer": "Pulsar",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which celestial object is known for its distinctive dust lanes and spiral arms?",
+    "options": ["Whirlpool Galaxy", "Sombrero Galaxy", "Pinwheel Galaxy"],
+    "answer": "Whirlpool Galaxy",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which phenomenon describes the change in frequency of light due to relative motion?",
+    "options": ["Doppler effect", "Aberration", "Redshift"],
+    "answer": "Doppler effect",
+    "category": "Astronomy"
+  },
+  {
+    "question": "Which term describes the study of the origin and evolution of the universe?",
+    "options": ["Cosmology", "Astrophysics", "Astronomy"],
+    "answer": "Cosmology",
+    "category": "Astronomy"
+  }
+]

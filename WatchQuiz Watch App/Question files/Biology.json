@@ -1,0 +1,1496 @@
+[
+  {
+    "question": "What is the powerhouse of the cell?",
+    "options": ["Ribosome", "Mitochondria", "Nucleus"],
+    "answer": "Mitochondria",
+    "category": "Biology"
+  },
+  {
+    "question": "Which organelle is responsible for photosynthesis in plants?",
+    "options": ["Chloroplast", "Mitochondria", "Vacuole"],
+    "answer": "Chloroplast",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the basic unit of life?",
+    "options": ["Atom", "Molecule", "Cell"],
+    "answer": "Cell",
+    "category": "Biology"
+  },
+  {
+    "question": "Which molecule carries genetic information?",
+    "options": ["RNA", "DNA", "Protein"],
+    "answer": "DNA",
+    "category": "Biology"
+  },
+  {
+    "question": "What process do plants use to convert sunlight into energy?",
+    "options": ["Photosynthesis", "Respiration", "Fermentation"],
+    "answer": "Photosynthesis",
+    "category": "Biology"
+  },
+  {
+    "question": "Which blood cells are responsible for fighting infections?",
+    "options": ["Red blood cells", "White blood cells", "Platelets"],
+    "answer": "White blood cells",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the largest organ in the human body?",
+    "options": ["Liver", "Skin", "Lungs"],
+    "answer": "Skin",
+    "category": "Biology"
+  },
+  {
+    "question": "Which system in the human body is responsible for transporting blood?",
+    "options": ["Circulatory system", "Digestive system", "Respiratory system"],
+    "answer": "Circulatory system",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the main function of red blood cells?",
+    "options": ["Fight infection", "Carry oxygen", "Clot blood"],
+    "answer": "Carry oxygen",
+    "category": "Biology"
+  },
+  {
+    "question": "Which vitamin is primarily obtained from sunlight?",
+    "options": ["Vitamin D", "Vitamin C", "Vitamin B12"],
+    "answer": "Vitamin D",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the study of heredity called?",
+    "options": ["Anatomy", "Genetics", "Ecology"],
+    "answer": "Genetics",
+    "category": "Biology"
+  },
+  {
+    "question": "What term describes a change in a species over time?",
+    "options": ["Evolution", "Revolution", "Adaptation"],
+    "answer": "Evolution",
+    "category": "Biology"
+  },
+  {
+    "question": "Which protein speeds up chemical reactions in the body?",
+    "options": ["Hormone", "Enzyme", "Receptor"],
+    "answer": "Enzyme",
+    "category": "Biology"
+  },
+  {
+    "question": "What are the building blocks of proteins?",
+    "options": ["Nucleotides", "Amino acids", "Fatty acids"],
+    "answer": "Amino acids",
+    "category": "Biology"
+  },
+  {
+    "question": "Which organ in the human body detoxifies chemicals?",
+    "options": ["Liver", "Kidney", "Spleen"],
+    "answer": "Liver",
+    "category": "Biology"
+  },
+  {
+    "question": "What type of blood vessel carries blood away from the heart?",
+    "options": ["Veins", "Capillaries", "Arteries"],
+    "answer": "Arteries",
+    "category": "Biology"
+  },
+  {
+    "question": "Which structure in the cell contains most of the genetic material?",
+    "options": ["Nucleus", "Ribosome", "Cytoplasm"],
+    "answer": "Nucleus",
+    "category": "Biology"
+  },
+  {
+    "question": "Which organ system is primarily responsible for removing waste products from the body?",
+    "options": ["Excretory system", "Digestive system", "Respiratory system"],
+    "answer": "Excretory system",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the process by which cells divide to produce new cells?",
+    "options": ["Meiosis", "Mitosis", "Binary fission"],
+    "answer": "Mitosis",
+    "category": "Biology"
+  },
+  {
+    "question": "Which part of the brain is responsible for balance and coordination?",
+    "options": ["Cerebellum", "Frontal lobe", "Medulla oblongata"],
+    "answer": "Cerebellum",
+    "category": "Biology"
+  },
+  {
+    "question": "What term describes organisms that can make their own food?",
+    "options": ["Autotrophs", "Heterotrophs", "Saprotrophs"],
+    "answer": "Autotrophs",
+    "category": "Biology"
+  },
+  {
+    "question": "Which blood cell is primarily involved in clotting?",
+    "options": ["Platelets", "White blood cells", "Red blood cells"],
+    "answer": "Platelets",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the liquid component of blood called?",
+    "options": ["Serum", "Plasma", "Lymph"],
+    "answer": "Plasma",
+    "category": "Biology"
+  },
+  {
+    "question": "Which hormone regulates metabolism and growth?",
+    "options": ["Adrenaline", "Thyroid hormone", "Insulin"],
+    "answer": "Thyroid hormone",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the primary gas humans exhale?",
+    "options": ["Nitrogen", "Oxygen", "Carbon dioxide"],
+    "answer": "Carbon dioxide",
+    "category": "Biology"
+  },
+  {
+    "question": "Which part of the human eye controls the amount of light entering?",
+    "options": ["Pupil", "Cornea", "Iris"],
+    "answer": "Iris",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the process by which cells break down glucose to release energy?",
+    "options": ["Fermentation", "Photosynthesis", "Cellular respiration"],
+    "answer": "Cellular respiration",
+    "category": "Biology"
+  },
+  {
+    "question": "Which vitamin is important for blood clotting?",
+    "options": ["Vitamin K", "Vitamin D", "Vitamin C"],
+    "answer": "Vitamin K",
+    "category": "Biology"
+  },
+  {
+    "question": "What type of joint is found in the shoulder?",
+    "options": ["Hinge joint", "Ball-and-socket joint", "Pivot joint"],
+    "answer": "Ball-and-socket joint",
+    "category": "Biology"
+  },
+  {
+    "question": "Which part of the plant anchors it to the ground?",
+    "options": ["Stem", "Leaf", "Roots"],
+    "answer": "Roots",
+    "category": "Biology"
+  },
+  {
+    "question": "What term describes a trait that is expressed as a dominant feature?",
+    "options": ["Recessive trait", "Dominant trait", "Co-dominant trait"],
+    "answer": "Dominant trait",
+    "category": "Biology"
+  },
+  {
+    "question": "Which gas is most abundant in Earth's atmosphere?",
+    "options": ["Oxygen", "Carbon dioxide", "Nitrogen"],
+    "answer": "Nitrogen",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the study of insects called?",
+    "options": ["Ornithology", "Entomology", "Herpetology"],
+    "answer": "Entomology",
+    "category": "Biology"
+  },
+  {
+    "question": "Which cellular structure is involved in protein synthesis?",
+    "options": ["Ribosome", "Lysosome", "Golgi apparatus"],
+    "answer": "Ribosome",
+    "category": "Biology"
+  },
+  {
+    "question": "What pigment gives plants their green color?",
+    "options": ["Melanin", "Chlorophyll", "Carotene"],
+    "answer": "Chlorophyll",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the common term for the condition of high blood pressure?",
+    "options": ["Hypotension", "Hypertension", "Hyperglycemia"],
+    "answer": "Hypertension",
+    "category": "Biology"
+  },
+  {
+    "question": "Which part of the human brain is responsible for vision?",
+    "options": ["Parietal lobe", "Occipital lobe", "Temporal lobe"],
+    "answer": "Occipital lobe",
+    "category": "Biology"
+  },
+  {
+    "question": "What type of cell division produces gametes?",
+    "options": ["Mitosis", "Binary fission", "Meiosis"],
+    "answer": "Meiosis",
+    "category": "Biology"
+  },
+  {
+    "question": "Which animal is known as the 'king of the jungle'?",
+    "options": ["Tiger", "Lion", "Elephant"],
+    "answer": "Lion",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the smallest bone in the human body?",
+    "options": ["Incus", "Stapes", "Malleus"],
+    "answer": "Stapes",
+    "category": "Biology"
+  },
+  {
+    "question": "Which nutrient is most important for building muscle?",
+    "options": ["Carbohydrates", "Protein", "Fats"],
+    "answer": "Protein",
+    "category": "Biology"
+  },
+  {
+    "question": "What type of muscle is under voluntary control?",
+    "options": ["Smooth muscle", "Cardiac muscle", "Skeletal muscle"],
+    "answer": "Skeletal muscle",
+    "category": "Biology"
+  },
+  {
+    "question": "What genetic material is found in mitochondria?",
+    "options": ["Chloroplast DNA", "Mitochondrial DNA", "Nuclear DNA"],
+    "answer": "Mitochondrial DNA",
+    "category": "Biology"
+  },
+  {
+    "question": "Which type of reproduction involves the fusion of male and female gametes?",
+    "options": ["Asexual reproduction", "Sexual reproduction", "Budding"],
+    "answer": "Sexual reproduction",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the process by which plants lose water vapor?",
+    "options": ["Transpiration", "Perspiration", "Evaporation"],
+    "answer": "Transpiration",
+    "category": "Biology"
+  },
+  {
+    "question": "Which vitamin is essential for good vision?",
+    "options": ["Vitamin A", "Vitamin B", "Vitamin E"],
+    "answer": "Vitamin A",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the term for a group of organisms of the same species living together?",
+    "options": ["Community", "Population", "Ecosystem"],
+    "answer": "Population",
+    "category": "Biology"
+  },
+  {
+    "question": "Which organ in the human body is responsible for filtering blood?",
+    "options": ["Liver", "Kidney", "Spleen"],
+    "answer": "Kidney",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the process of cell division that results in two daughter cells called?",
+    "options": ["Mitosis", "Meiosis", "Cytokinesis"],
+    "answer": "Mitosis",
+    "category": "Biology"
+  },
+  {
+    "question": "Which type of blood vessel carries blood back to the heart?",
+    "options": ["Arteries", "Veins", "Capillaries"],
+    "answer": "Veins",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the process by which a cell engulfs material from outside called?",
+    "options": ["Exocytosis", "Endocytosis", "Pinocytosis"],
+    "answer": "Endocytosis",
+    "category": "Biology"
+  },
+  {
+    "question": "Which bacteria shape is spherical?",
+    "options": ["Bacillus", "Spiral", "Coccus"],
+    "answer": "Coccus",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the genetic material in plants and animals?",
+    "options": ["RNA", "DNA", "Protein"],
+    "answer": "DNA",
+    "category": "Biology"
+  },
+  {
+    "question": "Which structure in plants transports water and nutrients?",
+    "options": ["Phloem", "Xylem", "Cambium"],
+    "answer": "Xylem",
+    "category": "Biology"
+  },
+  {
+    "question": "What substance speeds up chemical reactions in living organisms?",
+    "options": ["Enzyme", "Hormone", "Vitamin"],
+    "answer": "Enzyme",
+    "category": "Biology"
+  },
+  {
+    "question": "Which part of the human brain regulates heartbeat and breathing?",
+    "options": ["Cerebrum", "Medulla oblongata", "Cerebellum"],
+    "answer": "Medulla oblongata",
+    "category": "Biology"
+  },
+  {
+    "question": "What kind of organism is responsible for nitrogen fixation in soil?",
+    "options": ["Fungus", "Bacteria", "Algae"],
+    "answer": "Bacteria",
+    "category": "Biology"
+  },
+  {
+    "question": "Which process results in the formation of gametes?",
+    "options": ["Mitosis", "Meiosis", "Fission"],
+    "answer": "Meiosis",
+    "category": "Biology"
+  },
+  {
+    "question": "What term describes organisms that depend on others for food?",
+    "options": ["Autotrophs", "Heterotrophs", "Prototrophs"],
+    "answer": "Heterotrophs",
+    "category": "Biology"
+  },
+  {
+    "question": "Which blood cells are the primary defense against infection?",
+    "options": ["Red blood cells", "White blood cells", "Platelets"],
+    "answer": "White blood cells",
+    "category": "Biology"
+  },
+  {
+    "question": "What term describes the diversity of life on Earth?",
+    "options": ["Biodiversity", "Symbiosis", "Mutation"],
+    "answer": "Biodiversity",
+    "category": "Biology"
+  },
+  {
+    "question": "Which organ system is responsible for transporting nutrients and oxygen?",
+    "options": ["Digestive system", "Circulatory system", "Nervous system"],
+    "answer": "Circulatory system",
+    "category": "Biology"
+  },
+  {
+    "question": "What protein carries oxygen in red blood cells?",
+    "options": ["Myoglobin", "Hemoglobin", "Collagen"],
+    "answer": "Hemoglobin",
+    "category": "Biology"
+  },
+  {
+    "question": "Which process results in the loss of water from leaves?",
+    "options": ["Transpiration", "Respiration", "Perspiration"],
+    "answer": "Transpiration",
+    "category": "Biology"
+  },
+  {
+    "question": "Which structure in the human body is primarily responsible for balance?",
+    "options": ["Inner ear", "Cerebellum", "Vestibule"],
+    "answer": "Inner ear",
+    "category": "Biology"
+  },
+  {
+    "question": "What type of cell division occurs in bacteria?",
+    "options": ["Binary fission", "Mitosis", "Meiosis"],
+    "answer": "Binary fission",
+    "category": "Biology"
+  },
+  {
+    "question": "Which group of animals are warm-blooded?",
+    "options": ["Reptiles", "Mammals", "Amphibians"],
+    "answer": "Mammals",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the study of animals called?",
+    "options": ["Ornithology", "Zoology", "Botany"],
+    "answer": "Zoology",
+    "category": "Biology"
+  },
+  {
+    "question": "Which organ produces insulin?",
+    "options": ["Stomach", "Pancreas", "Liver"],
+    "answer": "Pancreas",
+    "category": "Biology"
+  },
+  {
+    "question": "What term describes the natural environment where an organism lives?",
+    "options": ["Habitat", "Biome", "Niche"],
+    "answer": "Habitat",
+    "category": "Biology"
+  },
+  {
+    "question": "Which blood cell is responsible for carrying oxygen?",
+    "options": ["White blood cells", "Platelets", "Red blood cells"],
+    "answer": "Red blood cells",
+    "category": "Biology"
+  },
+  {
+    "question": "What process allows a plant to produce its own food?",
+    "options": ["Respiration", "Photosynthesis", "Transpiration"],
+    "answer": "Photosynthesis",
+    "category": "Biology"
+  },
+  {
+    "question": "Which protein is involved in muscle contraction?",
+    "options": ["Keratin", "Myosin", "Actin"],
+    "answer": "Actin",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the study of genes and heredity?",
+    "options": ["Genetics", "Biochemistry", "Ecology"],
+    "answer": "Genetics",
+    "category": "Biology"
+  },
+  {
+    "question": "Which part of a cell contains ribosomes and is the site of protein synthesis?",
+    "options": ["Cytoplasm", "Nucleus", "Cell membrane"],
+    "answer": "Cytoplasm",
+    "category": "Biology"
+  },
+  {
+    "question": "What structure protects the brain in humans?",
+    "options": ["Skull", "Rib cage", "Spine"],
+    "answer": "Skull",
+    "category": "Biology"
+  },
+  {
+    "question": "Which molecule serves as the main source of energy for cells?",
+    "options": ["ATP", "Glucose", "NADH"],
+    "answer": "ATP",
+    "category": "Biology"
+  },
+  {
+    "question": "What type of biomolecule are enzymes?",
+    "options": ["Carbohydrates", "Proteins", "Lipids"],
+    "answer": "Proteins",
+    "category": "Biology"
+  },
+  {
+    "question": "Which organ produces bile in the human body?",
+    "options": ["Pancreas", "Liver", "Gallbladder"],
+    "answer": "Liver",
+    "category": "Biology"
+  },
+  {
+    "question": "Which blood vessel supplies the heart muscle with oxygenated blood?",
+    "options": ["Carotid artery", "Coronary artery", "Pulmonary artery"],
+    "answer": "Coronary artery",
+    "category": "Biology"
+  },
+  {
+    "question": "What term describes animals that only eat plants?",
+    "options": ["Carnivores", "Herbivores", "Omnivores"],
+    "answer": "Herbivores",
+    "category": "Biology"
+  },
+  {
+    "question": "Which process involves the uptake of liquid by cells?",
+    "options": ["Pinocytosis", "Phagocytosis", "Endocytosis"],
+    "answer": "Pinocytosis",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the primary function of the large intestine?",
+    "options": ["Nutrient absorption", "Absorb water", "Produce enzymes"],
+    "answer": "Absorb water",
+    "category": "Biology"
+  },
+  {
+    "question": "Which process describes the movement of molecules from an area of high concentration to low concentration?",
+    "options": ["Active transport", "Osmosis", "Diffusion"],
+    "answer": "Diffusion",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the term for the part of the neuron that receives signals?",
+    "options": ["Axon", "Dendrite", "Synapse"],
+    "answer": "Dendrite",
+    "category": "Biology"
+  },
+  {
+    "question": "Which blood component is involved in clotting?",
+    "options": ["Plasma", "Platelets", "Red blood cells"],
+    "answer": "Platelets",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the function of the small intestine?",
+    "options": ["Digestion of fats", "Nutrient absorption", "Water absorption"],
+    "answer": "Nutrient absorption",
+    "category": "Biology"
+  },
+  {
+    "question": "Which vitamin is known as the 'sunshine vitamin'?",
+    "options": ["Vitamin D", "Vitamin C", "Vitamin A"],
+    "answer": "Vitamin D",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the main function of the respiratory system?",
+    "options": ["Gas exchange", "Circulation", "Digestion"],
+    "answer": "Gas exchange",
+    "category": "Biology"
+  },
+  {
+    "question": "Which organ in the human body regulates the endocrine system?",
+    "options": ["Pituitary gland", "Thyroid gland", "Adrenal gland"],
+    "answer": "Pituitary gland",
+    "category": "Biology"
+  },
+  {
+    "question": "What term describes animals that hunt other animals for food?",
+    "options": ["Herbivores", "Carnivores", "Omnivores"],
+    "answer": "Carnivores",
+    "category": "Biology"
+  },
+  {
+    "question": "Which cellular structure stores nutrients and waste products?",
+    "options": ["Vacuole", "Lysosome", "Peroxisome"],
+    "answer": "Vacuole",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the primary function of the skeletal system?",
+    "options": ["Support and protection", "Blood filtration", "Hormone production"],
+    "answer": "Support and protection",
+    "category": "Biology"
+  },
+  {
+    "question": "Which type of cells help in the repair of tissues?",
+    "options": ["Stem cells", "Nerve cells", "Muscle cells"],
+    "answer": "Stem cells",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the process called when cells engulf large particles?",
+    "options": ["Exocytosis", "Phagocytosis", "Osmosis"],
+    "answer": "Phagocytosis",
+    "category": "Biology"
+  },
+  {
+    "question": "Which system in the body is responsible for hormone production?",
+    "options": ["Endocrine system", "Nervous system", "Circulatory system"],
+    "answer": "Endocrine system",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the term for the movement of water across a semi-permeable membrane?",
+    "options": ["Osmosis", "Diffusion", "Active transport"],
+    "answer": "Osmosis",
+    "category": "Biology"
+  },
+  {
+    "question": "Which part of the cell is involved in lipid synthesis?",
+    "options": ["Rough endoplasmic reticulum", "Smooth endoplasmic reticulum", "Golgi apparatus"],
+    "answer": "Smooth endoplasmic reticulum",
+    "category": "Biology"
+  },
+  {
+    "question": "What organelle is responsible for detoxifying chemicals in the cell?",
+    "options": ["Peroxisome", "Smooth endoplasmic reticulum", "Mitochondria"],
+    "answer": "Smooth endoplasmic reticulum",
+    "category": "Biology"
+  },
+  {
+    "question": "Which type of RNA carries amino acids to the ribosome?",
+    "options": ["rRNA", "tRNA", "mRNA"],
+    "answer": "tRNA",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the primary function of the cytoskeleton?",
+    "options": ["Produce proteins", "Maintain cell shape", "Store energy"],
+    "answer": "Maintain cell shape",
+    "category": "Biology"
+  },
+  {
+    "question": "Which process allows plants to exchange gases with the environment?",
+    "options": ["Stomatal opening", "Cuticle formation", "Xylem transport"],
+    "answer": "Stomatal opening",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the term for the genetic makeup of an organism?",
+    "options": ["Phenotype", "Genotype", "Proteotype"],
+    "answer": "Genotype",
+    "category": "Biology"
+  },
+  {
+    "question": "Which process converts glucose into energy in the presence of oxygen?",
+    "options": ["Anaerobic respiration", "Fermentation", "Aerobic respiration"],
+    "answer": "Aerobic respiration",
+    "category": "Biology"
+  },
+  {
+    "question": "Which component of the cell membrane is primarily responsible for its fluidity?",
+    "options": ["Proteins", "Phospholipids", "Carbohydrates"],
+    "answer": "Phospholipids",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the term for the complete set of chromosomes in an organism?",
+    "options": ["Karyotype", "Genome", "Proteome"],
+    "answer": "Genome",
+    "category": "Biology"
+  },
+  {
+    "question": "To which kingdom does yeast belong?",
+    "options": ["Protista", "Fungi", "Bacteria"],
+    "answer": "Fungi",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the function of the Golgi apparatus?",
+    "options": ["Synthesize proteins", "Modify and package proteins", "Store lipids"],
+    "answer": "Modify and package proteins",
+    "category": "Biology"
+  },
+  {
+    "question": "Which process involves the division of a nucleus?",
+    "options": ["Cytokinesis", "Karyokinesis", "Binary fission"],
+    "answer": "Karyokinesis",
+    "category": "Biology"
+  },
+  {
+    "question": "Which blood type is known as the universal donor?",
+    "options": ["O negative", "A positive", "AB positive"],
+    "answer": "O negative",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the term for the development of a new plant from a seed?",
+    "options": ["Germination", "Pollination", "Fertilization"],
+    "answer": "Germination",
+    "category": "Biology"
+  },
+  {
+    "question": "Which process describes the movement of substances into a cell using vesicles?",
+    "options": ["Exocytosis", "Endocytosis", "Diffusion"],
+    "answer": "Endocytosis",
+    "category": "Biology"
+  },
+  {
+    "question": "Which cell organelle is responsible for producing ribosomes?",
+    "options": ["Nucleolus", "Mitochondria", "Chloroplast"],
+    "answer": "Nucleolus",
+    "category": "Biology"
+  },
+  {
+    "question": "Which type of cell contains a nucleus?",
+    "options": ["Prokaryotic cell", "Eukaryotic cell", "Acyte"],
+    "answer": "Eukaryotic cell",
+    "category": "Biology"
+  },
+  {
+    "question": "Which gas is produced by plants during photosynthesis?",
+    "options": ["Carbon dioxide", "Oxygen", "Nitrogen"],
+    "answer": "Oxygen",
+    "category": "Biology"
+  },
+  {
+    "question": "Which type of macromolecule are lipids?",
+    "options": ["Proteins", "Lipids", "Carbohydrates"],
+    "answer": "Lipids",
+    "category": "Biology"
+  },
+  {
+    "question": "Which molecule is the main component of the cell membrane?",
+    "options": ["Phospholipids", "Cholesterol", "Proteins"],
+    "answer": "Phospholipids",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the process by which water moves through a semipermeable membrane called?",
+    "options": ["Osmosis", "Diffusion", "Active transport"],
+    "answer": "Osmosis",
+    "category": "Biology"
+  },
+  {
+    "question": "Which blood vessels are most likely to have valves?",
+    "options": ["Arteries", "Capillaries", "Veins"],
+    "answer": "Veins",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the primary role of the human immune system?",
+    "options": ["Digest food", "Protect against pathogens", "Regulate hormones"],
+    "answer": "Protect against pathogens",
+    "category": "Biology"
+  },
+  {
+    "question": "Which hormone regulates the sleep-wake cycle?",
+    "options": ["Cortisol", "Melatonin", "Adrenaline"],
+    "answer": "Melatonin",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the study of fungi called?",
+    "options": ["Mycology", "Bacteriology", "Virology"],
+    "answer": "Mycology",
+    "category": "Biology"
+  },
+  {
+    "question": "Which part of the neuron sends electrical signals away from the cell body?",
+    "options": ["Dendrite", "Synapse", "Axon"],
+    "answer": "Axon",
+    "category": "Biology"
+  },
+  {
+    "question": "Which organ system includes the brain and spinal cord?",
+    "options": ["Nervous system", "Endocrine system", "Muscular system"],
+    "answer": "Nervous system",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the process of cell differentiation called?",
+    "options": ["Specialization", "Replication", "Mutation"],
+    "answer": "Specialization",
+    "category": "Biology"
+  },
+  {
+    "question": "Which blood type is known as the universal recipient?",
+    "options": ["O negative", "AB positive", "A positive"],
+    "answer": "AB positive",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the main function of the pancreas?",
+    "options": ["Produce bile", "Regulate blood sugar", "Filter toxins"],
+    "answer": "Regulate blood sugar",
+    "category": "Biology"
+  },
+  {
+    "question": "Which cell structure is responsible for cell movement?",
+    "options": ["Flagella", "Cilia", "Pseudopodia"],
+    "answer": "Flagella",
+    "category": "Biology"
+  },
+  {
+    "question": "What type of organism is a protist?",
+    "options": ["Prokaryote", "Eukaryote", "Virus"],
+    "answer": "Eukaryote",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the process by which plants shed their leaves called?",
+    "options": ["Abscission", "Photosynthesis", "Transpiration"],
+    "answer": "Abscission",
+    "category": "Biology"
+  },
+  {
+    "question": "Which organ in the human body produces red blood cells?",
+    "options": ["Bone marrow", "Spleen", "Liver"],
+    "answer": "Bone marrow",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the study of ecosystems called?",
+    "options": ["Ecology", "Ethology", "Cytology"],
+    "answer": "Ecology",
+    "category": "Biology"
+  },
+  {
+    "question": "Which cell structure is involved in protein folding?",
+    "options": ["Endoplasmic reticulum", "Golgi apparatus", "Nucleus"],
+    "answer": "Endoplasmic reticulum",
+    "category": "Biology"
+  },
+  {
+    "question": "Which process converts atmospheric nitrogen into a form usable by plants?",
+    "options": ["Nitrification", "Nitrogen fixation", "Denitrification"],
+    "answer": "Nitrogen fixation",
+    "category": "Biology"
+  },
+  {
+    "question": "What type of bond holds amino acids together in proteins?",
+    "options": ["Hydrogen bond", "Ionic bond", "Peptide bond"],
+    "answer": "Peptide bond",
+    "category": "Biology"
+  },
+  {
+    "question": "Which type of muscle is found in the heart?",
+    "options": ["Cardiac muscle", "Smooth muscle", "Skeletal muscle"],
+    "answer": "Cardiac muscle",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the process of programmed cell death called?",
+    "options": ["Apoptosis", "Necrosis", "Autophagy"],
+    "answer": "Apoptosis",
+    "category": "Biology"
+  },
+  {
+    "question": "Which organ system helps regulate body temperature in humans?",
+    "options": ["Integumentary system", "Skeletal system", "Endocrine system"],
+    "answer": "Integumentary system",
+    "category": "Biology"
+  },
+  {
+    "question": "What pigment is responsible for the red color of blood?",
+    "options": ["Melanin", "Hemoglobin", "Chlorophyll"],
+    "answer": "Hemoglobin",
+    "category": "Biology"
+  },
+  {
+    "question": "Which part of the cell is primarily involved in energy production?",
+    "options": ["Mitochondria", "Chloroplast", "Nucleus"],
+    "answer": "Mitochondria",
+    "category": "Biology"
+  },
+  {
+    "question": "What term describes the process by which organisms become better suited to their environment?",
+    "options": ["Adaptation", "Evolution", "Mutation"],
+    "answer": "Adaptation",
+    "category": "Biology"
+  },
+  {
+    "question": "Which structure in plants is responsible for transporting sugars?",
+    "options": ["Xylem", "Phloem", "Cambium"],
+    "answer": "Phloem",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the study of plant life called?",
+    "options": ["Botany", "Zoology", "Mycology"],
+    "answer": "Botany",
+    "category": "Biology"
+  },
+  {
+    "question": "Which molecule acts as a neurotransmitter affecting mood?",
+    "options": ["Serotonin", "Dopamine", "Adrenaline"],
+    "answer": "Serotonin",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the primary function of the lymphatic system?",
+    "options": ["Transport lymph and defend against infection", "Filter blood", "Produce red blood cells"],
+    "answer": "Transport lymph and defend against infection",
+    "category": "Biology"
+  },
+  {
+    "question": "Which part of the human brain is responsible for memory?",
+    "options": ["Hippocampus", "Amygdala", "Thalamus"],
+    "answer": "Hippocampus",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the term for a group of different species living together?",
+    "options": ["Population", "Community", "Biome"],
+    "answer": "Community",
+    "category": "Biology"
+  },
+  {
+    "question": "Which process converts light energy into chemical energy?",
+    "options": ["Respiration", "Photosynthesis", "Transpiration"],
+    "answer": "Photosynthesis",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the primary component of plant cell walls?",
+    "options": ["Lignin", "Cellulose", "Chitin"],
+    "answer": "Cellulose",
+    "category": "Biology"
+  },
+  {
+    "question": "Which protein is primarily responsible for the elastic properties of skin?",
+    "options": ["Collagen", "Elastin", "Keratin"],
+    "answer": "Elastin",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the branch of biology that deals with cell structure called?",
+    "options": ["Cytology", "Histology", "Anatomy"],
+    "answer": "Cytology",
+    "category": "Biology"
+  },
+  {
+    "question": "Which hormone regulates the body's stress response?",
+    "options": ["Cortisol", "Insulin", "Thyroxine"],
+    "answer": "Cortisol",
+    "category": "Biology"
+  },
+  {
+    "question": "Which cells in the central nervous system produce myelin?",
+    "options": ["Astrocytes", "Oligodendrocytes", "Microglia"],
+    "answer": "Oligodendrocytes",
+    "category": "Biology"
+  },
+  {
+    "question": "What term describes a relationship where both organisms benefit?",
+    "options": ["Parasitism", "Mutualism", "Commensalism"],
+    "answer": "Mutualism",
+    "category": "Biology"
+  },
+  {
+    "question": "Which organ in the human body produces digestive enzymes?",
+    "options": ["Liver", "Pancreas", "Stomach"],
+    "answer": "Pancreas",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the primary role of the large intestine?",
+    "options": ["Produce digestive enzymes", "Absorb water", "Absorb nutrients"],
+    "answer": "Absorb water",
+    "category": "Biology"
+  },
+  {
+    "question": "Which blood component is essential for oxygen transport?",
+    "options": ["Plasma", "Hemoglobin", "Platelets"],
+    "answer": "Hemoglobin",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the study of heredity and variation called?",
+    "options": ["Genetics", "Evolution", "Microbiology"],
+    "answer": "Genetics",
+    "category": "Biology"
+  },
+  {
+    "question": "Which system in the body is responsible for sensing stimuli?",
+    "options": ["Muscular system", "Nervous system", "Circulatory system"],
+    "answer": "Nervous system",
+    "category": "Biology"
+  },
+  {
+    "question": "Which structure in the eye focuses light on the retina?",
+    "options": ["Retina", "Lens", "Cornea"],
+    "answer": "Lens",
+    "category": "Biology"
+  },
+  {
+    "question": "What process allows plants to open their stomata?",
+    "options": ["Guard cell regulation", "Photosynthesis", "Transpiration"],
+    "answer": "Guard cell regulation",
+    "category": "Biology"
+  },
+  {
+    "question": "Which protein helps in the clotting process?",
+    "options": ["Fibrinogen", "Collagen", "Elastin"],
+    "answer": "Fibrinogen",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the conversion of nitrogen gas into nitrate called?",
+    "options": ["Denitrification", "Nitrification", "Nitrogen fixation"],
+    "answer": "Nitrification",
+    "category": "Biology"
+  },
+  {
+    "question": "Which organ is primarily responsible for nutrient absorption?",
+    "options": ["Large intestine", "Small intestine", "Stomach"],
+    "answer": "Small intestine",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the term for a chemical substance that triggers a response in a cell?",
+    "options": ["Hormone", "Signal molecule", "Enzyme"],
+    "answer": "Signal molecule",
+    "category": "Biology"
+  },
+  {
+    "question": "Which process involves the breakdown of complex molecules into simpler ones?",
+    "options": ["Anabolism", "Catabolism", "Photosynthesis"],
+    "answer": "Catabolism",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the functional unit of the kidney called?",
+    "options": ["Nephron", "Glomerulus", "Tubule"],
+    "answer": "Nephron",
+    "category": "Biology"
+  },
+  {
+    "question": "Which structure in the cell is involved in lipid storage?",
+    "options": ["Lipid droplet", "Vacuole", "Peroxisome"],
+    "answer": "Lipid droplet",
+    "category": "Biology"
+  },
+  {
+    "question": "What process releases energy from glucose in the absence of oxygen?",
+    "options": ["Aerobic respiration", "Fermentation", "Anaerobic respiration"],
+    "answer": "Anaerobic respiration",
+    "category": "Biology"
+  },
+  {
+    "question": "Which organ produces bile?",
+    "options": ["Liver", "Pancreas", "Stomach"],
+    "answer": "Liver",
+    "category": "Biology"
+  },
+  {
+    "question": "What process describes the loss of water from plant leaves?",
+    "options": ["Transpiration", "Respiration", "Osmosis"],
+    "answer": "Transpiration",
+    "category": "Biology"
+  },
+  {
+    "question": "Which blood vessel carries oxygen-rich blood from the lungs to the heart?",
+    "options": ["Pulmonary artery", "Pulmonary vein", "Aorta"],
+    "answer": "Pulmonary vein",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the primary function of the heart?",
+    "options": ["Pump blood", "Filter blood", "Store blood"],
+    "answer": "Pump blood",
+    "category": "Biology"
+  },
+  {
+    "question": "Which protein stores and transports oxygen in muscle tissue?",
+    "options": ["Hemoglobin", "Myoglobin", "Actin"],
+    "answer": "Myoglobin",
+    "category": "Biology"
+  },
+  {
+    "question": "What type of tissue connects muscles to bones?",
+    "options": ["Ligaments", "Tendons", "Cartilage"],
+    "answer": "Tendons",
+    "category": "Biology"
+  },
+  {
+    "question": "Which part of the brain regulates involuntary functions?",
+    "options": ["Cerebral cortex", "Brainstem", "Cerebellum"],
+    "answer": "Brainstem",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the scientific study of the distribution and determinants of health-related states called?",
+    "options": ["Epidemiology", "Pathology", "Immunology"],
+    "answer": "Epidemiology",
+    "category": "Biology"
+  },
+  {
+    "question": "Which cell organelle is responsible for synthesizing lipids?",
+    "options": ["Rough endoplasmic reticulum", "Smooth endoplasmic reticulum", "Golgi apparatus"],
+    "answer": "Smooth endoplasmic reticulum",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the process called when a cell engulfs another cell?",
+    "options": ["Phagocytosis", "Pinocytosis", "Exocytosis"],
+    "answer": "Phagocytosis",
+    "category": "Biology"
+  },
+  {
+    "question": "Which part of the brain is primarily responsible for decision making?",
+    "options": ["Prefrontal cortex", "Occipital lobe", "Parietal lobe"],
+    "answer": "Prefrontal cortex",
+    "category": "Biology"
+  },
+  {
+    "question": "Which process involves the transfer of pollen to a plant's stigma?",
+    "options": ["Fertilization", "Pollination", "Germination"],
+    "answer": "Pollination",
+    "category": "Biology"
+  },
+  {
+    "question": "Which type of cell produces antibodies?",
+    "options": ["T cells", "B cells", "Macrophages"],
+    "answer": "B cells",
+    "category": "Biology"
+  },
+  {
+    "question": "What term describes organisms that break down dead matter?",
+    "options": ["Decomposers", "Producers", "Consumers"],
+    "answer": "Decomposers",
+    "category": "Biology"
+  },
+  {
+    "question": "Which process describes the movement of substances from the bloodstream into cells?",
+    "options": ["Diffusion", "Osmosis", "Active transport"],
+    "answer": "Diffusion",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the function of mitochondria?",
+    "options": ["Protein synthesis", "Energy production", "Lipid storage"],
+    "answer": "Energy production",
+    "category": "Biology"
+  },
+  {
+    "question": "Which cellular structure is involved in detoxification?",
+    "options": ["Peroxisomes", "Ribosomes", "Lysosomes"],
+    "answer": "Peroxisomes",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the main function of the human skeletal system?",
+    "options": ["Movement and support", "Hormone production", "Blood filtration"],
+    "answer": "Movement and support",
+    "category": "Biology"
+  },
+  {
+    "question": "Which type of protein assists in the folding of other proteins?",
+    "options": ["Chaperone", "Enzyme", "Receptor"],
+    "answer": "Chaperone",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the primary role of white blood cells?",
+    "options": ["Transport oxygen", "Fight infections", "Clot blood"],
+    "answer": "Fight infections",
+    "category": "Biology"
+  },
+  {
+    "question": "Which process describes the movement of water through a plant?",
+    "options": ["Transpiration", "Osmosis", "Diffusion"],
+    "answer": "Transpiration",
+    "category": "Biology"
+  },
+  {
+    "question": "What is a gene that suppresses tumors called?",
+    "options": ["Oncogene", "Tumor suppressor gene", "Proto-oncogene"],
+    "answer": "Tumor suppressor gene",
+    "category": "Biology"
+  },
+  {
+    "question": "Which type of cell is primarily responsible for clot formation?",
+    "options": ["Platelets", "Red blood cells", "White blood cells"],
+    "answer": "Platelets",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the process of forming a new individual cell from a single cell called?",
+    "options": ["Cell division", "Mitosis", "Binary fission"],
+    "answer": "Cell division",
+    "category": "Biology"
+  },
+  {
+    "question": "Which organ is part of the human respiratory system?",
+    "options": ["Lungs", "Kidneys", "Heart"],
+    "answer": "Lungs",
+    "category": "Biology"
+  },
+  {
+    "question": "What type of tissue covers the surface of the body?",
+    "options": ["Muscle tissue", "Epithelial tissue", "Connective tissue"],
+    "answer": "Epithelial tissue",
+    "category": "Biology"
+  },
+  {
+    "question": "Which part of the cell is responsible for detoxification and lipid synthesis?",
+    "options": ["Smooth endoplasmic reticulum", "Rough endoplasmic reticulum", "Golgi apparatus"],
+    "answer": "Smooth endoplasmic reticulum",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the term for the non-living components of an ecosystem?",
+    "options": ["Biotic factors", "Abiotic factors", "Symbiotic factors"],
+    "answer": "Abiotic factors",
+    "category": "Biology"
+  },
+  {
+    "question": "Which structure in the cell is responsible for its shape and movement?",
+    "options": ["Cytoskeleton", "Cell wall", "Extracellular matrix"],
+    "answer": "Cytoskeleton",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the function of ribosomes?",
+    "options": ["DNA replication", "Protein synthesis", "Lipid metabolism"],
+    "answer": "Protein synthesis",
+    "category": "Biology"
+  },
+  {
+    "question": "Which type of bond is formed between sugar molecules in carbohydrates?",
+    "options": ["Peptide bond", "Glycosidic bond", "Disulfide bond"],
+    "answer": "Glycosidic bond",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the process of converting mRNA into a protein called?",
+    "options": ["Transcription", "Translation", "Replication"],
+    "answer": "Translation",
+    "category": "Biology"
+  },
+  {
+    "question": "Which organ produces saliva?",
+    "options": ["Salivary glands", "Liver", "Thyroid"],
+    "answer": "Salivary glands",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the term for a cell's ability to maintain a stable internal environment?",
+    "options": ["Homeostasis", "Metabolism", "Equilibrium"],
+    "answer": "Homeostasis",
+    "category": "Biology"
+  },
+  {
+    "question": "Which vitamin is essential for calcium absorption?",
+    "options": ["Vitamin C", "Vitamin D", "Vitamin K"],
+    "answer": "Vitamin D",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the process by which cells use oxygen to produce energy?",
+    "options": ["Aerobic respiration", "Fermentation", "Photosynthesis"],
+    "answer": "Aerobic respiration",
+    "category": "Biology"
+  },
+  {
+    "question": "Which system in the human body is responsible for hormone production?",
+    "options": ["Nervous system", "Circulatory system", "Endocrine system"],
+    "answer": "Endocrine system",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the function of the pituitary gland?",
+    "options": ["Control muscle movement", "Regulate other endocrine glands", "Filter blood"],
+    "answer": "Regulate other endocrine glands",
+    "category": "Biology"
+  },
+  {
+    "question": "Which type of RNA carries the code from DNA?",
+    "options": ["rRNA", "tRNA", "mRNA"],
+    "answer": "mRNA",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the process by which a cell converts genetic information into proteins?",
+    "options": ["Gene expression", "Translation", "Replication"],
+    "answer": "Gene expression",
+    "category": "Biology"
+  },
+  {
+    "question": "Which structure in the cell helps in packaging and shipping proteins?",
+    "options": ["Golgi apparatus", "Endoplasmic reticulum", "Lysosome"],
+    "answer": "Golgi apparatus",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the study of the relationship between organisms and their environment called?",
+    "options": ["Ecology", "Ethology", "Geology"],
+    "answer": "Ecology",
+    "category": "Biology"
+  },
+  {
+    "question": "Which process increases the genetic diversity of offspring?",
+    "options": ["Asexual reproduction", "Sexual reproduction", "Mitosis"],
+    "answer": "Sexual reproduction",
+    "category": "Biology"
+  },
+  {
+    "question": "What term describes a symbiotic relationship where one organism benefits and the other is unaffected?",
+    "options": ["Mutualism", "Commensalism", "Parasitism"],
+    "answer": "Commensalism",
+    "category": "Biology"
+  },
+  {
+    "question": "Which type of cell division produces two genetically different daughter cells?",
+    "options": ["Mitosis", "Meiosis", "Binary fission"],
+    "answer": "Meiosis",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the process of converting food into energy within a cell called?",
+    "options": ["Photosynthesis", "Cellular respiration", "Fermentation"],
+    "answer": "Cellular respiration",
+    "category": "Biology"
+  },
+  {
+    "question": "Which blood vessels have the thickest walls?",
+    "options": ["Veins", "Capillaries", "Arteries"],
+    "answer": "Arteries",
+    "category": "Biology"
+  },
+  {
+    "question": "What term describes the variety of species in a habitat?",
+    "options": ["Biodiversity", "Ecosystem", "Biomass"],
+    "answer": "Biodiversity",
+    "category": "Biology"
+  },
+  {
+    "question": "Which organ is primarily responsible for gas exchange in humans?",
+    "options": ["Heart", "Lungs", "Kidneys"],
+    "answer": "Lungs",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the function of chlorophyll in plants?",
+    "options": ["Store water", "Absorb sunlight", "Protect from UV light"],
+    "answer": "Absorb sunlight",
+    "category": "Biology"
+  },
+  {
+    "question": "Which process involves the splitting of water molecules during photosynthesis?",
+    "options": ["Photolysis", "Hydrolysis", "Electrolysis"],
+    "answer": "Photolysis",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the role of stomata in plants?",
+    "options": ["Gas exchange", "Nutrient transport", "Support structure"],
+    "answer": "Gas exchange",
+    "category": "Biology"
+  },
+  {
+    "question": "Which protein helps in packaging DNA?",
+    "options": ["Histones", "Tubulin", "Actin"],
+    "answer": "Histones",
+    "category": "Biology"
+  },
+  {
+    "question": "What process describes the removal of waste from cells?",
+    "options": ["Excretion", "Secretion", "Absorption"],
+    "answer": "Excretion",
+    "category": "Biology"
+  },
+  {
+    "question": "Which part of the cell produces energy in aerobic respiration?",
+    "options": ["Mitochondria", "Chloroplast", "Nucleus"],
+    "answer": "Mitochondria",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the main function of the nervous system?",
+    "options": ["Transmit signals", "Produce hormones", "Filter toxins"],
+    "answer": "Transmit signals",
+    "category": "Biology"
+  },
+  {
+    "question": "Which cell is primarily responsible for oxygen transport?",
+    "options": ["Red blood cells", "White blood cells", "Platelets"],
+    "answer": "Red blood cells",
+    "category": "Biology"
+  },
+  {
+    "question": "What term describes the network of blood vessels in the body?",
+    "options": ["Lymphatic system", "Circulatory system", "Endocrine system"],
+    "answer": "Circulatory system",
+    "category": "Biology"
+  },
+  {
+    "question": "Which structure produces cerebrospinal fluid?",
+    "options": ["Pineal gland", "Choroid plexus", "Pituitary gland"],
+    "answer": "Choroid plexus",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the study of plant and animal cells called?",
+    "options": ["Cell biology", "Molecular biology", "Biochemistry"],
+    "answer": "Cell biology",
+    "category": "Biology"
+  },
+  {
+    "question": "Which process involves the uptake of large particles by a cell?",
+    "options": ["Pinocytosis", "Phagocytosis", "Exocytosis"],
+    "answer": "Phagocytosis",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the term for a genetic alteration that can lead to evolution?",
+    "options": ["Replication error", "Mutation", "Transcription"],
+    "answer": "Mutation",
+    "category": "Biology"
+  },
+  {
+    "question": "Which type of tissue connects, supports, and binds other tissues?",
+    "options": ["Muscle tissue", "Nervous tissue", "Connective tissue"],
+    "answer": "Connective tissue",
+    "category": "Biology"
+  },
+  {
+    "question": "What process converts light energy into chemical energy in plants?",
+    "options": ["Photosynthesis", "Chemosynthesis", "Respiration"],
+    "answer": "Photosynthesis",
+    "category": "Biology"
+  },
+  {
+    "question": "Which organ is primarily responsible for balancing fluids in the body?",
+    "options": ["Liver", "Kidney", "Spleen"],
+    "answer": "Kidney",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the role of the myelin sheath?",
+    "options": ["Speed up nerve signals", "Insulate nerve fibers", "Protect the brain"],
+    "answer": "Insulate nerve fibers",
+    "category": "Biology"
+  },
+  {
+    "question": "Which type of RNA is involved in the splicing process?",
+    "options": ["snRNA", "mRNA", "tRNA"],
+    "answer": "snRNA",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the function of lysosomes?",
+    "options": ["Synthesize proteins", "Digest cellular waste", "Store genetic information"],
+    "answer": "Digest cellular waste",
+    "category": "Biology"
+  },
+  {
+    "question": "Which process describes the movement of water from roots to leaves in plants?",
+    "options": ["Transpiration", "Capillary action", "Osmosis"],
+    "answer": "Transpiration",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the term for a cell that has lost its nucleus?",
+    "options": ["Enucleated cell", "Prokaryotic cell", "Eukaryotic cell"],
+    "answer": "Enucleated cell",
+    "category": "Biology"
+  },
+  {
+    "question": "Which structure in the cell is responsible for energy production and contains its own DNA?",
+    "options": ["Mitochondria", "Chloroplast", "Nucleus"],
+    "answer": "Mitochondria",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the process by which organisms with similar traits are selected over time?",
+    "options": ["Natural selection", "Genetic drift", "Mutation"],
+    "answer": "Natural selection",
+    "category": "Biology"
+  },
+  {
+    "question": "Which vitamin is important for maintaining healthy skin?",
+    "options": ["Vitamin C", "Vitamin E", "Vitamin C"],
+    "answer": "Vitamin C",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the role of the cell membrane?",
+    "options": ["Energy production", "Regulate what enters and leaves the cell", "Store genetic information"],
+    "answer": "Regulate what enters and leaves the cell",
+    "category": "Biology"
+  },
+  {
+    "question": "Which process describes the production of energy in the absence of oxygen?",
+    "options": ["Anaerobic respiration", "Aerobic respiration", "Photosynthesis"],
+    "answer": "Anaerobic respiration",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the function of the nucleolus?",
+    "options": ["Ribosome production", "Protein synthesis", "Lipid synthesis"],
+    "answer": "Ribosome production",
+    "category": "Biology"
+  },
+  {
+    "question": "Which clotting factor converts fibrinogen into fibrin?",
+    "options": ["Prothrombin", "Thrombin", "Fibrinogen"],
+    "answer": "Thrombin",
+    "category": "Biology"
+  },
+  {
+    "question": "What is the term for a cell's internal fluid?",
+    "options": ["Cytosol", "Cytoplasm", "Nucleoplasm"],
+    "answer": "Cytosol",
+    "category": "Biology"
+  },
+  {
+    "question": "Which component of the cell is responsible for storing genetic information?",
+    "options": ["Nucleus", "Mitochondria", "Ribosome"],
+    "answer": "Nucleus",
+    "category": "Biology"
+  },
+  {
+    "question": "Which process describes the change in allele frequency in a population over time?",
+    "options": ["Evolution", "Homeostasis", "Metabolism"],
+    "answer": "Evolution",
+    "category": "Biology"
+  }
+]

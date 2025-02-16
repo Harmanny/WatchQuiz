@@ -5,10 +5,10 @@ struct SplashView: View {
     
     var body: some View {
         if isActive {
-            ContentView() // Na 2 seconden tonen we het hoofdmenu
+            ContentView() // Show main menu after 2 seconds
         } else {
             VStack {
-                Image("splash2") // Laadt splash.png
+                Image("icon_1024x1024_text") // Updated splash image
                     .resizable()
                     .scaledToFit()
                     .frame(maxWidth: 200, maxHeight: 200)

@@ -1,0 +1,1406 @@
+[
+  {
+    "question": "What is the SI unit of force?",
+    "options": ["Joule", "Newton", "Pascal"],
+    "answer": "Newton",
+    "category": "Physics"
+  },
+  {
+    "question": "Who formulated the laws of motion?",
+    "options": ["Galileo Galilei", "Newton", "Einstein"],
+    "answer": "Newton",
+    "category": "Physics"
+  },
+  {
+    "question": "Which particle carries a negative charge?",
+    "options": ["Proton", "Electron", "Neutron"],
+    "answer": "Electron",
+    "category": "Physics"
+  },
+  {
+    "question": "Which law states that energy cannot be created or destroyed?",
+    "options": ["Law of Thermodynamics", "Law of Conservation of Energy", "Law of Inertia"],
+    "answer": "Law of Conservation of Energy",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the approximate speed of light in a vacuum?",
+    "options": ["150,000 km/s", "299,792 km/s", "1,080,000 km/s"],
+    "answer": "299,792 km/s",
+    "category": "Physics"
+  },
+  {
+    "question": "Who developed the theory of relativity?",
+    "options": ["Tesla", "Einstein", "Newton"],
+    "answer": "Einstein",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon describes the bending of light as it passes through different mediums?",
+    "options": ["Reflection", "Refraction", "Diffraction"],
+    "answer": "Refraction",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the SI unit of electric current?",
+    "options": ["Volt", "Ampere", "Watt"],
+    "answer": "Ampere",
+    "category": "Physics"
+  },
+  {
+    "question": "Which subatomic particle is found in the nucleus with a positive charge?",
+    "options": ["Neutron", "Proton", "Electron"],
+    "answer": "Proton",
+    "category": "Physics"
+  },
+  {
+    "question": "Which law describes the force between two charged objects?",
+    "options": ["Coulomb's law", "Newton's law", "Ohm's law"],
+    "answer": "Coulomb's law",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the SI unit of energy?",
+    "options": ["Watt", "Joule", "Newton"],
+    "answer": "Joule",
+    "category": "Physics"
+  },
+  {
+    "question": "Who is known for his work on the photoelectric effect?",
+    "options": ["Einstein", "Planck", "Bohr"],
+    "answer": "Einstein",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the phenomenon where light spreads out as it passes through a small opening?",
+    "options": ["Diffraction", "Interference", "Polarization"],
+    "answer": "Diffraction",
+    "category": "Physics"
+  },
+  {
+    "question": "Which theory explains the behavior of particles at atomic scales?",
+    "options": ["Relativity", "Quantum mechanics", "Classical mechanics"],
+    "answer": "Quantum mechanics",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the term for the amount of matter in an object?",
+    "options": ["Mass", "Weight", "Volume"],
+    "answer": "Mass",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the gravitational force that pulls objects toward Earth?",
+    "options": ["Electrostatic force", "Gravity", "Magnetic force"],
+    "answer": "Gravity",
+    "category": "Physics"
+  },
+  {
+    "question": "What particle is responsible for the strong nuclear force?",
+    "options": ["Photon", "Gluon", "Graviton"],
+    "answer": "Gluon",
+    "category": "Physics"
+  },
+  {
+    "question": "Which particle is considered the carrier of the electromagnetic force?",
+    "options": ["Photon", "Neutron", "Electron"],
+    "answer": "Photon",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the term for the resistance of a material to the flow of electric current?",
+    "options": ["Capacitance", "Resistance", "Inductance"],
+    "answer": "Resistance",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the phenomenon of splitting white light into its component colors called?",
+    "options": ["Interference", "Dispersion", "Diffraction"],
+    "answer": "Dispersion",
+    "category": "Physics"
+  },
+  {
+    "question": "Which instrument measures atmospheric pressure?",
+    "options": ["Thermometer", "Barometer", "Anemometer"],
+    "answer": "Barometer",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the term for the energy possessed by a moving object?",
+    "options": ["Kinetic energy", "Thermal energy", "Potential energy"],
+    "answer": "Kinetic energy",
+    "category": "Physics"
+  },
+  {
+    "question": "What law states that for every action there is an equal and opposite reaction?",
+    "options": ["Newton's First Law", "Newton's Third Law", "Newton's Second Law"],
+    "answer": "Newton's Third Law",
+    "category": "Physics"
+  },
+  {
+    "question": "Which type of radiation has the shortest wavelength?",
+    "options": ["Infrared", "X-rays", "Ultraviolet"],
+    "answer": "X-rays",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the term for the process of splitting an atomic nucleus?",
+    "options": ["Fusion", "Fission", "Radioactive decay"],
+    "answer": "Fission",
+    "category": "Physics"
+  },
+  {
+    "question": "Which element was the first to be observed to become superconducting at low temperatures?",
+    "options": ["Copper", "Mercury", "Gold"],
+    "answer": "Mercury",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the name of the device that converts electrical energy into mechanical energy?",
+    "options": ["Transformer", "Electric motor", "Generator"],
+    "answer": "Electric motor",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon occurs when a wave changes its direction due to a change in its speed?",
+    "options": ["Diffraction", "Refraction", "Reflection"],
+    "answer": "Refraction",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the unit of frequency?",
+    "options": ["Joule", "Hertz", "Newton"],
+    "answer": "Hertz",
+    "category": "Physics"
+  },
+  {
+    "question": "Which physical principle explains why airplanes can fly?",
+    "options": ["Archimedes' principle", "Bernoulli's principle", "Pascal's principle"],
+    "answer": "Bernoulli's principle",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon makes an object appear bent when viewed in water?",
+    "options": ["Dispersion", "Refraction", "Mirage"],
+    "answer": "Refraction",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the primary force that keeps planets in orbit around the sun?",
+    "options": ["Centrifugal force", "Gravitational force", "Electromagnetic force"],
+    "answer": "Gravitational force",
+    "category": "Physics"
+  },
+  {
+    "question": "Which instrument is used to measure electric current?",
+    "options": ["Ammeter", "Ohmmeter", "Voltmeter"],
+    "answer": "Ammeter",
+    "category": "Physics"
+  },
+  {
+    "question": "Which scientist is known for his uncertainty principle in quantum mechanics?",
+    "options": ["Bohr", "Heisenberg", "Schrodinger"],
+    "answer": "Heisenberg",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon describes the combination of light waves to form bright and dark fringes?",
+    "options": ["Polarization", "Interference", "Diffraction"],
+    "answer": "Interference",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the unit of power?",
+    "options": ["Joule", "Watt", "Newton"],
+    "answer": "Watt",
+    "category": "Physics"
+  },
+  {
+    "question": "Which scientist discovered the law of universal gravitation?",
+    "options": ["Newton", "Galileo", "Einstein"],
+    "answer": "Newton",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the term for energy stored in an object due to its position?",
+    "options": ["Thermal energy", "Potential energy", "Kinetic energy"],
+    "answer": "Potential energy",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon is responsible for the colorful rings seen around the sun or moon?",
+    "options": ["Halo", "Corona", "Diffraction"],
+    "answer": "Halo",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the term for a material's ability to return to its original shape after deformation?",
+    "options": ["Plasticity", "Viscosity", "Elasticity"],
+    "answer": "Elasticity",
+    "category": "Physics"
+  },
+  {
+    "question": "Which principle explains why objects appear lighter in water?",
+    "options": ["Friction", "Buoyancy", "Gravity"],
+    "answer": "Buoyancy",
+    "category": "Physics"
+  },
+  {
+    "question": "Which term describes the amplification factor in an electronic circuit?",
+    "options": ["Capacitance", "Gain", "Resistance"],
+    "answer": "Gain",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon converts a magnetic field into an electric current?",
+    "options": ["Electromagnetic induction", "Static electricity", "Capacitive coupling"],
+    "answer": "Electromagnetic induction",
+    "category": "Physics"
+  },
+  {
+    "question": "Which law states that the sum of currents entering a junction equals the sum leaving it?",
+    "options": ["Kirchhoff's Voltage Law", "Ohm's Law", "Kirchhoff's Current Law"],
+    "answer": "Kirchhoff's Current Law",
+    "category": "Physics"
+  },
+  {
+    "question": "Which concept in quantum physics explains the inability to know both position and momentum precisely?",
+    "options": ["Pauli Exclusion Principle", "Heisenberg Uncertainty Principle", "Complementarity Principle"],
+    "answer": "Heisenberg Uncertainty Principle",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the term for the process by which a solid turns directly into a gas?",
+    "options": ["Sublimation", "Melting", "Evaporation"],
+    "answer": "Sublimation",
+    "category": "Physics"
+  },
+  {
+    "question": "Which device converts mechanical energy into electrical energy?",
+    "options": ["Transformer", "Generator", "Motor"],
+    "answer": "Generator",
+    "category": "Physics"
+  },
+  {
+    "question": "What describes the process where an electron jumps between energy levels, emitting light?",
+    "options": ["Atomic emission", "Ionization", "Nuclear decay"],
+    "answer": "Atomic emission",
+    "category": "Physics"
+  },
+  {
+    "question": "Which concept explains why the sky appears blue?",
+    "options": ["Reflection", "Scattering of sunlight", "Refraction"],
+    "answer": "Scattering of sunlight",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the term for the rate of doing work or transferring energy?",
+    "options": ["Energy", "Force", "Power"],
+    "answer": "Power",
+    "category": "Physics"
+  },
+  {
+    "question": "Which subatomic particle has no electric charge?",
+    "options": ["Proton", "Neutron", "Electron"],
+    "answer": "Neutron",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the minimum energy needed to remove an electron from an atom called?",
+    "options": ["Activation energy", "Ionization energy", "Kinetic energy"],
+    "answer": "Ionization energy",
+    "category": "Physics"
+  },
+  {
+    "question": "Which law relates the pressure and volume of a gas at constant temperature?",
+    "options": ["Charles's Law", "Avogadro's Law", "Boyle's Law"],
+    "answer": "Boyle's Law",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the unit of electric resistance?",
+    "options": ["Ampere", "Ohm", "Volt"],
+    "answer": "Ohm",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the phenomenon where light changes its speed and direction when entering a different medium?",
+    "options": ["Diffraction", "Interference", "Refraction"],
+    "answer": "Refraction",
+    "category": "Physics"
+  },
+  {
+    "question": "Which theory describes particles acting as both particles and waves?",
+    "options": ["Relativity", "Quantum mechanics", "Classical mechanics"],
+    "answer": "Quantum mechanics",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the distance that light travels in one year called?",
+    "options": ["Light year", "Astronomical unit", "Light second"],
+    "answer": "Light year",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon describes the change in pitch of a sound as the source moves?",
+    "options": ["Resonance", "Doppler effect", "Diffraction"],
+    "answer": "Doppler effect",
+    "category": "Physics"
+  },
+  {
+    "question": "What process describes a substance absorbing heat as it transitions from a solid to a liquid?",
+    "options": ["Condensation", "Melting", "Sublimation"],
+    "answer": "Melting",
+    "category": "Physics"
+  },
+  {
+    "question": "What concept is fundamental to understanding the mechanical advantage provided by a lever?",
+    "options": ["Work", "Torque", "Inertia"],
+    "answer": "Torque",
+    "category": "Physics"
+  },
+  {
+    "question": "Which instrument measures small changes in gravitational acceleration?",
+    "options": ["Gravimeter", "Accelerometer", "Seismograph"],
+    "answer": "Gravimeter",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the term for the bending of waves around obstacles?",
+    "options": ["Diffraction", "Reflection", "Refraction"],
+    "answer": "Diffraction",
+    "category": "Physics"
+  },
+  {
+    "question": "Which law states that the total charge in an isolated system remains constant?",
+    "options": ["Conservation of Mass", "Conservation of Charge", "Conservation of Energy"],
+    "answer": "Conservation of Charge",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon occurs when a material becomes magnetized after exposure to a magnetic field?",
+    "options": ["Diamagnetism", "Ferromagnetism", "Paramagnetism"],
+    "answer": "Ferromagnetism",
+    "category": "Physics"
+  },
+  {
+    "question": "Which scientist is famous for his work on electromagnetism and invented the electromagnetic induction device?",
+    "options": ["Tesla", "Faraday", "Maxwell"],
+    "answer": "Faraday",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the energy stored in a stretched or compressed spring called?",
+    "options": ["Kinetic energy", "Elastic potential energy", "Thermal energy"],
+    "answer": "Elastic potential energy",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon describes the loss of energy as heat when current passes through a resistor?",
+    "options": ["Inductive coupling", "Ohmic heating", "Superconductivity"],
+    "answer": "Ohmic heating",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the SI unit of magnetic field strength?",
+    "options": ["Weber", "Gauss", "Tesla"],
+    "answer": "Tesla",
+    "category": "Physics"
+  },
+  {
+    "question": "Which law in thermodynamics states that the entropy of an isolated system always increases?",
+    "options": ["First law", "Second law", "Zeroth law"],
+    "answer": "Second law",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the process by which a liquid turns into a vapor called?",
+    "options": ["Evaporation", "Sublimation", "Condensation"],
+    "answer": "Evaporation",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon is responsible for the green color of the aurora borealis?",
+    "options": ["Emission of excited oxygen atoms", "Reflection of sunlight", "Scattering of light"],
+    "answer": "Emission of excited oxygen atoms",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the term for a material's ability to conduct heat?",
+    "options": ["Electrical conductivity", "Magnetic permeability", "Thermal conductivity"],
+    "answer": "Thermal conductivity",
+    "category": "Physics"
+  },
+  {
+    "question": "Which principle determines the buoyant force on an object submerged in fluid?",
+    "options": ["Pascal's principle", "Bernoulli's principle", "Archimedes' principle"],
+    "answer": "Archimedes' principle",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon occurs when a vibrating object causes surrounding air molecules to vibrate?",
+    "options": ["Heat", "Sound", "Light"],
+    "answer": "Sound",
+    "category": "Physics"
+  },
+  {
+    "question": "Which instrument measures temperature using electrical resistance?",
+    "options": ["RTD (Resistance Temperature Detector)", "Barometer", "Thermocouple"],
+    "answer": "RTD (Resistance Temperature Detector)",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the process called when a material emits electrons due to exposure to light?",
+    "options": ["Thermionic emission", "Photoelectric effect", "Compton scattering"],
+    "answer": "Photoelectric effect",
+    "category": "Physics"
+  },
+  {
+    "question": "Which law relates the current flowing through a conductor to the voltage across it?",
+    "options": ["Faraday's Law", "Hooke's Law", "Ohm's Law"],
+    "answer": "Ohm's Law",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon describes electrons exhibiting both particle and wave properties?",
+    "options": ["Quantum entanglement", "Wave-particle duality", "Superposition"],
+    "answer": "Wave-particle duality",
+    "category": "Physics"
+  },
+  {
+    "question": "Which type of electromagnetic radiation has the longest wavelength?",
+    "options": ["Microwaves", "Radio waves", "Gamma rays"],
+    "answer": "Radio waves",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the term for the energy that an object possesses due to its motion?",
+    "options": ["Potential energy", "Kinetic energy", "Mechanical energy"],
+    "answer": "Kinetic energy",
+    "category": "Physics"
+  },
+  {
+    "question": "Which instrument is used to detect and measure magnetic fields?",
+    "options": ["Magnetometer", "Accelerometer", "Spectrometer"],
+    "answer": "Magnetometer",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the effect called where a rotating body tends to maintain its orientation?",
+    "options": ["Coriolis effect", "Bernoulli effect", "Gyroscopic effect"],
+    "answer": "Gyroscopic effect",
+    "category": "Physics"
+  },
+  {
+    "question": "Which branch of physics studies the behavior of the very small, such as atoms and subatomic particles?",
+    "options": ["Statistical mechanics", "Quantum mechanics", "Classical mechanics"],
+    "answer": "Quantum mechanics",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the phenomenon of splitting a beam of light into its constituent colors using a prism called?",
+    "options": ["Interference", "Dispersion", "Diffraction"],
+    "answer": "Dispersion",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the unit of electric charge?",
+    "options": ["Watt", "Coulomb", "Volt"],
+    "answer": "Coulomb",
+    "category": "Physics"
+  },
+  {
+    "question": "Which law states that the total energy in an isolated system remains constant?",
+    "options": ["Conservation of Momentum", "Conservation of Energy", "Conservation of Mass"],
+    "answer": "Conservation of Energy",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon causes the frequency of light to change due to the relative motion of the source and observer?",
+    "options": ["Diffraction", "Redshift/Blueshift", "Refraction"],
+    "answer": "Redshift/Blueshift",
+    "category": "Physics"
+  },
+  {
+    "question": "Which physical quantity measures the amount of matter in an object?",
+    "options": ["Volume", "Mass", "Weight"],
+    "answer": "Mass",
+    "category": "Physics"
+  },
+  {
+    "question": "What property describes a material's resistance to deformation?",
+    "options": ["Rigidity", "Elasticity", "Plasticity"],
+    "answer": "Elasticity",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon is responsible for the spreading out of waves after passing through a narrow opening?",
+    "options": ["Interference", "Diffraction", "Reflection"],
+    "answer": "Diffraction",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the process by which stars generate energy?",
+    "options": ["Nuclear fission", "Radioactive decay", "Nuclear fusion"],
+    "answer": "Nuclear fusion",
+    "category": "Physics"
+  },
+  {
+    "question": "Which instrument is used to measure very small intervals of time, such as in atomic clocks?",
+    "options": ["Atomic clock", "Oscillator", "Stopwatch"],
+    "answer": "Atomic clock",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon describes the circular motion of charged particles in a magnetic field?",
+    "options": ["Gravitational acceleration", "Cyclotron motion", "Linear acceleration"],
+    "answer": "Cyclotron motion",
+    "category": "Physics"
+  },
+  {
+    "question": "Which principle is demonstrated by the double-slit experiment?",
+    "options": ["Superposition", "Interference", "Wave-particle duality"],
+    "answer": "Wave-particle duality",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the force that opposes the relative motion between two surfaces in contact?",
+    "options": ["Gravity", "Friction", "Magnetism"],
+    "answer": "Friction",
+    "category": "Physics"
+  },
+  {
+    "question": "Which scientist is credited with the discovery of X-rays?",
+    "options": ["Curie", "Röntgen", "Fleming"],
+    "answer": "Röntgen",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon describes an object emitting light after absorbing energy?",
+    "options": ["Incandescence", "Fluorescence", "Luminescence"],
+    "answer": "Luminescence",
+    "category": "Physics"
+  },
+  {
+    "question": "Which law relates the pressure, volume, and temperature of a gas?",
+    "options": ["Boyle's Law", "Ideal Gas Law", "Charles's Law"],
+    "answer": "Ideal Gas Law",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon is observed when light bends around corners?",
+    "options": ["Refraction", "Diffraction", "Reflection"],
+    "answer": "Diffraction",
+    "category": "Physics"
+  },
+  {
+    "question": "Which electromagnetic radiation is used in microwave ovens?",
+    "options": ["Microwaves", "Ultraviolet", "Infrared"],
+    "answer": "Microwaves",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the unit of measurement for luminous intensity?",
+    "options": ["Lux", "Candela", "Lumen"],
+    "answer": "Candela",
+    "category": "Physics"
+  },
+  {
+    "question": "Which scientist formulated early ideas leading to the laws of thermodynamics?",
+    "options": ["Boltzmann", "Planck", "Carnot"],
+    "answer": "Carnot",
+    "category": "Physics"
+  },
+  {
+    "question": "What term describes energy transferred as work or heat?",
+    "options": ["Work", "Energy", "Power"],
+    "answer": "Work",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon explains why a moving object's mass appears to increase near the speed of light?",
+    "options": ["Length contraction", "Time dilation", "Relativistic mass increase"],
+    "answer": "Relativistic mass increase",
+    "category": "Physics"
+  },
+  {
+    "question": "What process describes nuclei combining to form a heavier nucleus?",
+    "options": ["Fusion", "Fission", "Radioactive decay"],
+    "answer": "Fusion",
+    "category": "Physics"
+  },
+  {
+    "question": "Which principle explains the elliptical orbits of planets?",
+    "options": ["Einstein's Theory", "Kepler's Laws", "Newton's Laws"],
+    "answer": "Kepler's Laws",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon describes light bending when passing near a massive object?",
+    "options": ["Gravitational waves", "Gravitational lensing", "Gravitational redshift"],
+    "answer": "Gravitational lensing",
+    "category": "Physics"
+  },
+  {
+    "question": "Which device is used to convert AC to DC current?",
+    "options": ["Rectifier", "Transformer", "Inverter"],
+    "answer": "Rectifier",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon occurs when an object's apparent time slows down due to high speeds?",
+    "options": ["Relativistic mass", "Time dilation", "Length contraction"],
+    "answer": "Time dilation",
+    "category": "Physics"
+  },
+  {
+    "question": "Which electromagnetic radiation has the highest energy?",
+    "options": ["X-rays", "Gamma rays", "Ultraviolet"],
+    "answer": "Gamma rays",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the term for the process in which a gas turns directly into a solid?",
+    "options": ["Deposition", "Sublimation", "Condensation"],
+    "answer": "Deposition",
+    "category": "Physics"
+  },
+  {
+    "question": "Which law states that the force between two charges is directly proportional to the product of their charges?",
+    "options": ["Newton's Law", "Ohm's Law", "Coulomb's Law"],
+    "answer": "Coulomb's Law",
+    "category": "Physics"
+  },
+  {
+    "question": "What term describes the characteristic frequency at which a system oscillates?",
+    "options": ["Natural frequency", "Resonant frequency", "Harmonic frequency"],
+    "answer": "Resonant frequency",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon occurs when electrons are emitted from a material due to thermal energy?",
+    "options": ["Thermionic emission", "Compton scattering", "Photoelectric effect"],
+    "answer": "Thermionic emission",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the unit of measurement for frequency?",
+    "options": ["Decibel", "Newton", "Hertz"],
+    "answer": "Hertz",
+    "category": "Physics"
+  },
+  {
+    "question": "Which branch of physics is concerned with the study of light?",
+    "options": ["Acoustics", "Optics", "Mechanics"],
+    "answer": "Optics",
+    "category": "Physics"
+  },
+  {
+    "question": "What term describes the spread of a beam of light as it propagates?",
+    "options": ["Convergence", "Divergence", "Collimation"],
+    "answer": "Divergence",
+    "category": "Physics"
+  },
+  {
+    "question": "Which principle ensures that energy is conserved in a closed system?",
+    "options": ["Conservation of Momentum", "Conservation of Energy", "Conservation of Mass"],
+    "answer": "Conservation of Energy",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the curve called that represents the relationship between stress and strain in a material?",
+    "options": ["Stress-strain curve", "Hysteresis loop", "Load-deflection curve"],
+    "answer": "Stress-strain curve",
+    "category": "Physics"
+  },
+  {
+    "question": "Which law describes the force exerted by a fluid in motion?",
+    "options": ["Pascal's Law", "Hooke's Law", "Bernoulli's Law"],
+    "answer": "Bernoulli's Law",
+    "category": "Physics"
+  },
+  {
+    "question": "What process describes a solid turning into a liquid?",
+    "options": ["Freezing", "Melting", "Condensation"],
+    "answer": "Melting",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon causes waves to spread out after passing through a narrow opening?",
+    "options": ["Polarization", "Diffraction", "Interference"],
+    "answer": "Diffraction",
+    "category": "Physics"
+  },
+  {
+    "question": "What term describes a material that does not conduct electricity well?",
+    "options": ["Semiconductor", "Insulator", "Conductor"],
+    "answer": "Insulator",
+    "category": "Physics"
+  },
+  {
+    "question": "Which particle mediates the weak nuclear force?",
+    "options": ["Gluons", "W and Z bosons", "Photons"],
+    "answer": "W and Z bosons",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon involves the observed frequency of a wave changing due to the motion of the source?",
+    "options": ["Diffraction", "Doppler effect", "Interference"],
+    "answer": "Doppler effect",
+    "category": "Physics"
+  },
+  {
+    "question": "Which law explains the proportionality between voltage and current in a circuit?",
+    "options": ["Lenz's Law", "Faraday's Law", "Ohm's Law"],
+    "answer": "Ohm's Law",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the process of energy transfer through electromagnetic waves called?",
+    "options": ["Radiation", "Convection", "Conduction"],
+    "answer": "Radiation",
+    "category": "Physics"
+  },
+  {
+    "question": "Which theory explains particle behavior at extremely high speeds?",
+    "options": ["Classical mechanics", "Quantum theory", "Relativity"],
+    "answer": "Relativity",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the boundary beyond which nothing can escape a black hole called?",
+    "options": ["Singularity", "Accretion disk", "Event horizon"],
+    "answer": "Event horizon",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon is responsible for the periodic oscillation of a pendulum?",
+    "options": ["Damping", "Resonance", "Simple harmonic motion"],
+    "answer": "Simple harmonic motion",
+    "category": "Physics"
+  },
+  {
+    "question": "What term describes the decrease in amplitude of an oscillating system over time?",
+    "options": ["Amplification", "Damping", "Resonance"],
+    "answer": "Damping",
+    "category": "Physics"
+  },
+  {
+    "question": "Which instrument is used to measure the pressure of fluids?",
+    "options": ["Barometer", "Manometer", "Thermometer"],
+    "answer": "Manometer",
+    "category": "Physics"
+  },
+  {
+    "question": "What effect makes a moving object's length appear contracted?",
+    "options": ["Relativistic mass increase", "Length contraction", "Time dilation"],
+    "answer": "Length contraction",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon describes the release of energy when an electron drops to a lower energy level?",
+    "options": ["Reflection", "Emission", "Absorption"],
+    "answer": "Emission",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the measure of a material's resistance to deformation?",
+    "options": ["Hardness", "Elasticity", "Viscosity"],
+    "answer": "Elasticity",
+    "category": "Physics"
+  },
+  {
+    "question": "Which principle explains projectile motion under gravity?",
+    "options": ["Parabolic motion", "Newton's First Law", "Conservation of Energy"],
+    "answer": "Parabolic motion",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon occurs when light waves spread out after passing an obstacle?",
+    "options": ["Interference", "Diffraction", "Polarization"],
+    "answer": "Diffraction",
+    "category": "Physics"
+  },
+  {
+    "question": "Which device is used to measure the acceleration of an object?",
+    "options": ["Gyroscope", "Accelerometer", "Barometer"],
+    "answer": "Accelerometer",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the energy stored in a capacitor called?",
+    "options": ["Magnetic energy", "Electric potential energy", "Kinetic energy"],
+    "answer": "Electric potential energy",
+    "category": "Physics"
+  },
+  {
+    "question": "Which scientist is known for his model of the atom with electrons orbiting the nucleus?",
+    "options": ["Thomson", "Bohr", "Rutherford"],
+    "answer": "Bohr",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the unit used to measure electric capacitance?",
+    "options": ["Tesla", "Farad", "Henry"],
+    "answer": "Farad",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon describes the spontaneous alignment of magnetic domains in a material?",
+    "options": ["Diamagnetism", "Ferromagnetism", "Paramagnetism"],
+    "answer": "Ferromagnetism",
+    "category": "Physics"
+  },
+  {
+    "question": "What process describes a liquid turning into a gas at its surface?",
+    "options": ["Boiling", "Evaporation", "Condensation"],
+    "answer": "Evaporation",
+    "category": "Physics"
+  },
+  {
+    "question": "Which physical quantity is measured in joules?",
+    "options": ["Force", "Energy", "Power"],
+    "answer": "Energy",
+    "category": "Physics"
+  },
+  {
+    "question": "What term describes temporary magnetism induced in a material?",
+    "options": ["Induced magnetism", "Permanent magnetism", "Temporary magnetism"],
+    "answer": "Induced magnetism",
+    "category": "Physics"
+  },
+  {
+    "question": "Which branch of physics studies heat transfer?",
+    "options": ["Electrodynamics", "Thermodynamics", "Optics"],
+    "answer": "Thermodynamics",
+    "category": "Physics"
+  },
+  {
+    "question": "Which law describes the behavior of gases in relation to pressure and volume?",
+    "options": ["Charles's Law", "Avogadro's Law", "Boyle's Law"],
+    "answer": "Boyle's Law",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon involves the emission of electrons from a metal when light shines on it?",
+    "options": ["Thermionic emission", "Photoelectric effect", "Compton scattering"],
+    "answer": "Photoelectric effect",
+    "category": "Physics"
+  },
+  {
+    "question": "What term describes the resistance encountered by an object moving through a fluid?",
+    "options": ["Viscosity", "Drag", "Friction"],
+    "answer": "Drag",
+    "category": "Physics"
+  },
+  {
+    "question": "Which instrument measures the intensity of light?",
+    "options": ["Barometer", "Photometer", "Spectrometer"],
+    "answer": "Photometer",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon describes light spreading as it passes through a narrow aperture?",
+    "options": ["Refraction", "Interference", "Diffraction"],
+    "answer": "Diffraction",
+    "category": "Physics"
+  },
+  {
+    "question": "Which law explains the inverse square relationship in gravitational force?",
+    "options": ["Ohm's Law", "Coulomb's Law", "Newton's Law of Universal Gravitation"],
+    "answer": "Newton's Law of Universal Gravitation",
+    "category": "Physics"
+  },
+  {
+    "question": "What term describes the change in wavelength of light due to motion?",
+    "options": ["Cosmological redshift", "Doppler shift", "Gravitational redshift"],
+    "answer": "Doppler shift",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon describes a pendulum's swing in a gravitational field?",
+    "options": ["Damped oscillation", "Resonance", "Simple harmonic motion"],
+    "answer": "Simple harmonic motion",
+    "category": "Physics"
+  },
+  {
+    "question": "What term is used for the mathematical description of a wave?",
+    "options": ["Frequency", "Wave function", "Amplitude"],
+    "answer": "Wave function",
+    "category": "Physics"
+  },
+  {
+    "question": "Which branch of physics is concerned with the behavior of fluids?",
+    "options": ["Hydrodynamics", "Acoustics", "Optics"],
+    "answer": "Hydrodynamics",
+    "category": "Physics"
+  },
+  {
+    "question": "What term describes the bending of light around the edge of an object?",
+    "options": ["Reflection", "Diffraction", "Refraction"],
+    "answer": "Diffraction",
+    "category": "Physics"
+  },
+  {
+    "question": "Which scientist developed the equations unifying electricity and magnetism?",
+    "options": ["Tesla", "Faraday", "Maxwell"],
+    "answer": "Maxwell",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon occurs when the frequency of a wave remains constant while its speed and wavelength change?",
+    "options": ["Dispersion", "Diffraction", "Refraction"],
+    "answer": "Refraction",
+    "category": "Physics"
+  },
+  {
+    "question": "Which law states that the voltage across an inductor is proportional to the rate of change of current?",
+    "options": ["Lenz's Law", "Ohm's Law", "Faraday's Law"],
+    "answer": "Lenz's Law",
+    "category": "Physics"
+  },
+  {
+    "question": "What term describes the effect where moving charges create a magnetic field?",
+    "options": ["Electric induction", "Electromagnetism", "Magnetostatics"],
+    "answer": "Electromagnetism",
+    "category": "Physics"
+  },
+  {
+    "question": "Which principle explains why a hot object emits more radiation than a cold one?",
+    "options": ["Wien's Law", "Planck's Law", "Stefan-Boltzmann Law"],
+    "answer": "Stefan-Boltzmann Law",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the unit of electric field strength?",
+    "options": ["Newton per coulomb", "Volt per meter", "Tesla"],
+    "answer": "Newton per coulomb",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon involves the reflection of electromagnetic waves off a surface?",
+    "options": ["Reflection", "Refraction", "Diffraction"],
+    "answer": "Reflection",
+    "category": "Physics"
+  },
+  {
+    "question": "What effect describes the interference of waves leading to regions of increased amplitude?",
+    "options": ["Destructive interference", "Constructive interference", "Diffraction"],
+    "answer": "Constructive interference",
+    "category": "Physics"
+  },
+  {
+    "question": "Which instrument is used to measure the strength of an earthquake?",
+    "options": ["Accelerometer", "Seismograph", "Barometer"],
+    "answer": "Seismograph",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon involves energy transfer through particle vibration in a medium?",
+    "options": ["Conduction", "Sound", "Radiation"],
+    "answer": "Sound",
+    "category": "Physics"
+  },
+  {
+    "question": "Which scientist is known for his work on blackbody radiation?",
+    "options": ["Bohr", "Planck", "Einstein"],
+    "answer": "Planck",
+    "category": "Physics"
+  },
+  {
+    "question": "What term describes the measure of disorder in a system?",
+    "options": ["Entropy", "Enthalpy", "Energy"],
+    "answer": "Entropy",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon explains the splitting of a light beam into two rays when passing through a crystal?",
+    "options": ["Double refraction", "Polarization", "Diffraction"],
+    "answer": "Double refraction",
+    "category": "Physics"
+  },
+  {
+    "question": "What process involves energy transfer through direct particle contact?",
+    "options": ["Conduction", "Radiation", "Convection"],
+    "answer": "Conduction",
+    "category": "Physics"
+  },
+  {
+    "question": "Which branch of physics studies the behavior of charged particles in electric and magnetic fields?",
+    "options": ["Electrodynamics", "Quantum mechanics", "Plasma physics"],
+    "answer": "Electrodynamics",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon describes the reduction of oscillation amplitude due to energy loss?",
+    "options": ["Resonance", "Amplification", "Damping"],
+    "answer": "Damping",
+    "category": "Physics"
+  },
+  {
+    "question": "Which device converts alternating current to direct current?",
+    "options": ["Transformer", "Rectifier", "Inverter"],
+    "answer": "Rectifier",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the unit of measurement for pressure?",
+    "options": ["Joule", "Pascal", "Newton"],
+    "answer": "Pascal",
+    "category": "Physics"
+  },
+  {
+    "question": "Which principle states that an object's energy remains constant unless acted on by an external force?",
+    "options": ["Conservation of Momentum", "Conservation of Energy", "Conservation of Charge"],
+    "answer": "Conservation of Energy",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon occurs when light is absorbed and then re-emitted by atoms?",
+    "options": ["Scattering", "Phosphorescence", "Fluorescence"],
+    "answer": "Fluorescence",
+    "category": "Physics"
+  },
+  {
+    "question": "Which law relates the pressure difference to the fluid flow rate through a pipe?",
+    "options": ["Pascal's law", "Poiseuille's law", "Bernoulli's equation"],
+    "answer": "Poiseuille's law",
+    "category": "Physics"
+  },
+  {
+    "question": "What process describes the emission of energy from a radioactive substance?",
+    "options": ["Fusion", "Decay", "Fission"],
+    "answer": "Decay",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon involves temporary energy storage in an oscillating system?",
+    "options": ["Inertia", "Oscillation", "Resonance"],
+    "answer": "Oscillation",
+    "category": "Physics"
+  },
+  {
+    "question": "What term defines the force per unit area applied to an object?",
+    "options": ["Stress", "Strain", "Pressure"],
+    "answer": "Pressure",
+    "category": "Physics"
+  },
+  {
+    "question": "Which branch of physics primarily deals with the behavior of light and optics?",
+    "options": ["Mechanics", "Optics", "Acoustics"],
+    "answer": "Optics",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon describes an oscillatory system that continues to oscillate after the initial force is removed?",
+    "options": ["Free oscillation", "Damped oscillation", "Resonance"],
+    "answer": "Free oscillation",
+    "category": "Physics"
+  },
+  {
+    "question": "Which law states that the total momentum of a closed system remains constant?",
+    "options": ["Conservation of Energy", "Conservation of Charge", "Conservation of Momentum"],
+    "answer": "Conservation of Momentum",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the minimum energy required to initiate a chemical reaction, also relevant in physics?",
+    "options": ["Ionization energy", "Activation energy", "Kinetic energy"],
+    "answer": "Activation energy",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon explains why distant stars appear redshifted?",
+    "options": ["Gravitational redshift", "Cosmological expansion", "Doppler effect"],
+    "answer": "Gravitational redshift",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the unit of measurement for electric potential difference?",
+    "options": ["Ohm", "Ampere", "Volt"],
+    "answer": "Volt",
+    "category": "Physics"
+  },
+  {
+    "question": "Which branch of physics studies matter and energy on atomic and subatomic scales?",
+    "options": ["Solid-state physics", "Quantum mechanics", "Nuclear physics"],
+    "answer": "Quantum mechanics",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon describes an object emitting radiation due to its temperature?",
+    "options": ["Synchrotron radiation", "Bremsstrahlung", "Blackbody radiation"],
+    "answer": "Blackbody radiation",
+    "category": "Physics"
+  },
+  {
+    "question": "Which principle explains why heat flows from a hotter object to a cooler one?",
+    "options": ["First law of thermodynamics", "Zeroth law of thermodynamics", "Second law of thermodynamics"],
+    "answer": "Second law of thermodynamics",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon causes light intensity to reduce due to obstacles?",
+    "options": ["Attenuation", "Absorption", "Scattering"],
+    "answer": "Attenuation",
+    "category": "Physics"
+  },
+  {
+    "question": "Which instrument measures the wavelength of light?",
+    "options": ["Telescope", "Spectrometer", "Microscope"],
+    "answer": "Spectrometer",
+    "category": "Physics"
+  },
+  {
+    "question": "What term describes energy dissipation in mechanical systems due to friction?",
+    "options": ["Oscillation", "Damping", "Amplification"],
+    "answer": "Damping",
+    "category": "Physics"
+  },
+  {
+    "question": "Which law explains the relationship between magnetic flux and induced electromotive force?",
+    "options": ["Lenz's Law", "Ohm's Law", "Faraday's Law"],
+    "answer": "Faraday's Law",
+    "category": "Physics"
+  },
+  {
+    "question": "What term describes the bending of waves when they encounter a new medium?",
+    "options": ["Reflection", "Refraction", "Diffraction"],
+    "answer": "Refraction",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon explains the reduction of the observed frequency of light due to the universe's expansion?",
+    "options": ["Doppler effect", "Gravitational redshift", "Cosmological redshift"],
+    "answer": "Cosmological redshift",
+    "category": "Physics"
+  },
+  {
+    "question": "What term describes an object's resistance to changes in its state of motion?",
+    "options": ["Force", "Inertia", "Momentum"],
+    "answer": "Inertia",
+    "category": "Physics"
+  },
+  {
+    "question": "Which device stores electrical energy in an electric field?",
+    "options": ["Inductor", "Capacitor", "Resistor"],
+    "answer": "Capacitor",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the unit of measurement for inductance?",
+    "options": ["Farad", "Ohm", "Henry"],
+    "answer": "Henry",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon is observed when a material emits light without a significant rise in temperature?",
+    "options": ["Phosphorescence", "Fluorescence", "Incandescence"],
+    "answer": "Phosphorescence",
+    "category": "Physics"
+  },
+  {
+    "question": "What principle states that the total momentum of a system remains constant without external forces?",
+    "options": ["Conservation of Mass", "Conservation of Energy", "Conservation of Momentum"],
+    "answer": "Conservation of Momentum",
+    "category": "Physics"
+  },
+  {
+    "question": "Which scientist is renowned for contributions to the quantum theory of light?",
+    "options": ["Newton", "Max Planck", "Einstein"],
+    "answer": "Max Planck",
+    "category": "Physics"
+  },
+  {
+    "question": "What term describes the process of removing heat from a system?",
+    "options": ["Thermal conduction", "Cooling", "Heating"],
+    "answer": "Cooling",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon describes the apparent shift in position of an object due to a change in the observer's point of view?",
+    "options": ["Diffraction", "Parallax", "Refraction"],
+    "answer": "Parallax",
+    "category": "Physics"
+  },
+  {
+    "question": "What term describes the measure of an object's resistance to rotational acceleration?",
+    "options": ["Torque", "Moment of inertia", "Angular momentum"],
+    "answer": "Moment of inertia",
+    "category": "Physics"
+  },
+  {
+    "question": "Which law relates the pressure and volume of a gas at constant temperature?",
+    "options": ["Gay-Lussac's Law", "Boyle's Law", "Charles's Law"],
+    "answer": "Boyle's Law",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon describes particles moving from an area of high concentration to low concentration?",
+    "options": ["Osmosis", "Diffusion", "Convection"],
+    "answer": "Diffusion",
+    "category": "Physics"
+  },
+  {
+    "question": "Which instrument measures the force of gravity at a specific location?",
+    "options": ["Barometer", "Gravimeter", "Anemometer"],
+    "answer": "Gravimeter",
+    "category": "Physics"
+  },
+  {
+    "question": "What term describes the energy per unit mass due to gravity?",
+    "options": ["Kinetic energy", "Gravitational potential energy", "Thermal energy"],
+    "answer": "Gravitational potential energy",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon describes the deflection of moving objects due to Earth's rotation?",
+    "options": ["Doppler effect", "Gravitational lensing", "Coriolis effect"],
+    "answer": "Coriolis effect",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the term for the process of converting a solid directly into a gas?",
+    "options": ["Deposition", "Sublimation", "Evaporation"],
+    "answer": "Sublimation",
+    "category": "Physics"
+  },
+  {
+    "question": "Which law explains electric circuits by relating voltage, current, and resistance?",
+    "options": ["Lenz's Law", "Faraday's Law", "Ohm's Law"],
+    "answer": "Ohm's Law",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the unit of measurement for luminous flux?",
+    "options": ["Candela", "Lumen", "Lux"],
+    "answer": "Lumen",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon involves energy transfer through space via electromagnetic waves?",
+    "options": ["Convection", "Radiation", "Conduction"],
+    "answer": "Radiation",
+    "category": "Physics"
+  },
+  {
+    "question": "What term describes the potential energy stored in a stretched or compressed elastic object?",
+    "options": ["Kinetic energy", "Elastic potential energy", "Gravitational energy"],
+    "answer": "Elastic potential energy",
+    "category": "Physics"
+  },
+  {
+    "question": "Which instrument measures acceleration due to gravity by using a pendulum?",
+    "options": ["Pendulum", "Accelerometer", "Gravimeter"],
+    "answer": "Pendulum",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon describes the decrease in frequency of a wave when its source moves away?",
+    "options": ["Blueshift", "Redshift", "Doppler effect"],
+    "answer": "Redshift",
+    "category": "Physics"
+  },
+  {
+    "question": "Which principle explains the continuous conversion between kinetic and potential energy in a system?",
+    "options": ["Damping", "Simple harmonic motion", "Conservation of Energy"],
+    "answer": "Simple harmonic motion",
+    "category": "Physics"
+  },
+  {
+    "question": "What term describes the rate at which an object changes its velocity?",
+    "options": ["Momentum", "Acceleration", "Speed"],
+    "answer": "Acceleration",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon occurs when light waves overlap to create regions of brightness and darkness?",
+    "options": ["Diffraction", "Interference", "Refraction"],
+    "answer": "Interference",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the instrument called that measures the magnitude and direction of the wind?",
+    "options": ["Barometer", "Anemometer", "Thermometer"],
+    "answer": "Anemometer",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon involves converting kinetic energy into thermal energy due to friction?",
+    "options": ["Energy loss", "Heat", "Friction"],
+    "answer": "Friction",
+    "category": "Physics"
+  },
+  {
+    "question": "What term describes the amount of matter in an object, measured in kilograms?",
+    "options": ["Weight", "Mass", "Volume"],
+    "answer": "Mass",
+    "category": "Physics"
+  },
+  {
+    "question": "Which law states that the rate of heat transfer through a material is proportional to the negative temperature gradient?",
+    "options": ["Newton's Law", "Ohm's Law", "Fourier's Law"],
+    "answer": "Fourier's Law",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon describes the bending of light due to gravity?",
+    "options": ["Gravitational redshift", "Gravitational lensing", "Gravitational waves"],
+    "answer": "Gravitational lensing",
+    "category": "Physics"
+  },
+  {
+    "question": "Which instrument is used to measure the intensity of seismic waves?",
+    "options": ["Accelerometer", "Gravimeter", "Seismograph"],
+    "answer": "Seismograph",
+    "category": "Physics"
+  },
+  {
+    "question": "What term describes the storage of energy in an electric field?",
+    "options": ["Inductance", "Resistance", "Capacitance"],
+    "answer": "Capacitance",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon explains the bending of sound waves around obstacles?",
+    "options": ["Reflection", "Diffraction", "Refraction"],
+    "answer": "Diffraction",
+    "category": "Physics"
+  },
+  {
+    "question": "What is the unit of measurement for thermal conductivity?",
+    "options": ["Joule", "Watt per meter-Kelvin", "Kelvin"],
+    "answer": "Watt per meter-Kelvin",
+    "category": "Physics"
+  },
+  {
+    "question": "Which law in physics states that force equals mass times acceleration?",
+    "options": ["Newton's Third Law", "Newton's First Law", "Newton's Second Law"],
+    "answer": "Newton's Second Law",
+    "category": "Physics"
+  },
+  {
+    "question": "What phenomenon occurs when a charged particle moving in a magnetic field experiences a perpendicular force?",
+    "options": ["Coulomb force", "Lorentz force", "Gravitational force"],
+    "answer": "Lorentz force",
+    "category": "Physics"
+  },
+  {
+    "question": "Which branch of physics deals with the behavior of heat and temperature?",
+    "options": ["Mechanics", "Thermodynamics", "Electrodynamics"],
+    "answer": "Thermodynamics",
+    "category": "Physics"
+  },
+  {
+    "question": "What term describes the energy a system possesses due to the position of its components?",
+    "options": ["Mechanical energy", "Potential energy", "Kinetic energy"],
+    "answer": "Potential energy",
+    "category": "Physics"
+  },
+  {
+    "question": "Which phenomenon explains the bending of sound waves as they travel through the atmosphere?",
+    "options": ["Diffraction", "Refraction", "Reflection"],
+    "answer": "Refraction",
+    "category": "Physics"
+  }
+]
