@@ -15,59 +15,74 @@ struct QuizView: View {
     @State private var startTime = Date()
     @State private var localHighscores: [Int: Highscore] = [:]
     
+    @Namespace private var scrollNamespace
+    
     private var selectedCategories: [String] {
-        selectedCategoriesString.components(separatedBy: ",").filter { !$0.isEmpty }
+        let allCategories = questionManager.categories
+        let savedCategories = selectedCategoriesString.components(separatedBy: ",").filter { !$0.isEmpty }
+        
+        if savedCategories.isEmpty, !allCategories.isEmpty {
+            let allCategoriesString = allCategories.joined(separator: ",")
+            DispatchQueue.main.async {
+                selectedCategoriesString = allCategoriesString
+            }
+            return allCategories
+        }
+        return savedCategories
     }
     
     var body: some View {
-        ScrollView {
-            VStack {
-                if quizCompleted {
-                    Text("Quiz Over! Score: \(score)/\(randomizedQuestions.count)")
-                        .font(.title)
-                        .padding()
-                    Button("Restart") {
-                        restartQuiz()
-                    }
-                    .padding()
-                    .background(Color.green)
-                    .foregroundColor(.white)
-                    .cornerRadius(8)
-                } else if currentIndex < randomizedQuestions.count {
-                    Text(randomizedQuestions[currentIndex].question)
-                        .font(.headline)
-                        .multilineTextAlignment(.center)
-                        .lineLimit(nil)
-                        .fixedSize(horizontal: false, vertical: true)
-                        .padding()
-                    
-                    ForEach(randomizedQuestions[currentIndex].options, id: \ .self) { option in
-                        Button(action: {
-                            checkAnswer(option)
-                        }) {
-                            Text(option)
-                                .padding()
-                                .frame(maxWidth: .infinity)
-                                .background(buttonColor(for: option))
-                                .foregroundColor(.white)
-                                .cornerRadius(8)
+        ScrollViewReader { proxy in
+            ScrollView {
+                VStack {
+                    if quizCompleted {
+                        Text("Quiz Over! Score: \(score)/\(randomizedQuestions.count)")
+                            .font(.title)
+                            .padding()
+                        Button("Restart") {
+                            restartQuiz(proxy: proxy)
                         }
-                        .disabled(showFeedback)
+                        .padding()
+                        .background(Color.green)
+                        .foregroundColor(.white)
+                        .cornerRadius(8)
+                    } else if currentIndex < randomizedQuestions.count {
+                        Text(randomizedQuestions[currentIndex].question)
+                            .font(.headline)
+                            .multilineTextAlignment(.center)
+                            .lineLimit(nil)
+                            .fixedSize(horizontal: false, vertical: true)
+                            .padding()
+                            .id(currentIndex)
+                        
+                        ForEach(randomizedQuestions[currentIndex].options, id: \ .self) { option in
+                            Button(action: {
+                                checkAnswer(option, proxy: proxy)
+                            }) {
+                                Text(option)
+                                    .padding()
+                                    .frame(maxWidth: .infinity)
+                                    .background(buttonColor(for: option))
+                                    .foregroundColor(.white)
+                                    .cornerRadius(8)
+                            }
+                            .disabled(showFeedback)
+                        }
                     }
                 }
+                .padding()
             }
-            .padding()
-            .onAppear {
-                loadRandomizedQuestions()
-                startTime = Date()
-                if let decoded = try? JSONDecoder().decode([Int: Highscore].self, from: highscoresData) {
-                    localHighscores = decoded
-                }
+        }
+        .onAppear {
+            loadRandomizedQuestions()
+            startTime = Date()
+            if let decoded = try? JSONDecoder().decode([Int: Highscore].self, from: highscoresData) {
+                localHighscores = decoded
             }
         }
     }
     
-    private func checkAnswer(_ selected: String) {
+    private func checkAnswer(_ selected: String, proxy: ScrollViewProxy) {
         selectedAnswer = selected
         showFeedback = true
         
@@ -80,6 +95,11 @@ struct QuizView: View {
                 currentIndex += 1
                 selectedAnswer = nil
                 showFeedback = false
+                DispatchQueue.main.async {
+                    withAnimation {
+                        proxy.scrollTo(currentIndex, anchor: .top)
+                    }
+                }
             } else {
                 quizCompleted = true
                 saveHighscore()
@@ -100,7 +120,7 @@ struct QuizView: View {
         return .blue
     }
     
-    private func restartQuiz() {
+    private func restartQuiz(proxy: ScrollViewProxy) {
         currentIndex = 0
         score = 0
         quizCompleted = false
@@ -109,6 +129,11 @@ struct QuizView: View {
         questionManager.resetAskedQuestions()
         loadRandomizedQuestions()
         startTime = Date()
+        DispatchQueue.main.async {
+            withAnimation {
+                proxy.scrollTo(currentIndex, anchor: .top)
+            }
+        }
     }
     
     private func loadRandomizedQuestions() {

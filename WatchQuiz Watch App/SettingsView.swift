@@ -12,7 +12,7 @@ struct SettingsView: View {
         VStack {
             List {
                 Section(header: Text("Select Categories")) {
-                    ForEach(availableCategories, id: \.self) { category in
+                    ForEach(availableCategories, id: \ .self) { category in
                         Toggle(category, isOn: Binding(
                             get: { selectedCategories.contains(category) },
                             set: { newValue in
@@ -35,10 +35,18 @@ struct SettingsView: View {
             }
         }
         .onAppear {
-            selectedCategories = selectedCategoriesString.components(separatedBy: ",").filter { !$0.isEmpty }
-            if availableCategories.isEmpty {
-                availableCategories = questionManager.categories
+            let allCategories = questionManager.categories
+            let savedCategories = selectedCategoriesString.components(separatedBy: ",").filter { !$0.isEmpty }
+            
+            if savedCategories.isEmpty, !allCategories.isEmpty {
+                selectedCategoriesString = allCategories.joined(separator: ",")
+                selectedCategories = allCategories
+            } else {
+                selectedCategories = savedCategories
             }
+            
+            availableCategories = allCategories
         }
     }
 }
+
