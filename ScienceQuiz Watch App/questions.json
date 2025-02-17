@@ -7192,5 +7192,3815 @@
     "options": ["Statics", "Dynamics", "Kinematics"],
     "answer": "Dynamics",
     "category": "Technology & Engineering"
-  }
-]
+  },
+  {
+    "question": "Who is considered the father of computer science?",
+    "options": ["Charles Babbage", "Alan Turing", "Ada Lovelace"],
+    "answer": "Alan Turing",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the name of the theoretical machine proposed by Alan Turing that laid the foundation for modern computing?",
+    "options": ["Finite Automaton", "Turing Machine", "Von Neumann Machine"],
+    "answer": "Turing Machine",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which programming language is known for its readability and is popular in artificial intelligence research?",
+    "options": ["Java", "Python", "C++"],
+    "answer": "Python",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'AI' stand for in computer science?",
+    "options": ["Artificial Intelligence", "Artificial Integration", "Automated Instruction"],
+    "answer": "Artificial Intelligence",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": ["Computer Personal Unit", "Central Processing Unit", "Central Programming Unit"],
+    "answer": "Central Processing Unit",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which algorithm is used to find the shortest path between nodes in a graph?",
+    "options": ["Merge Sort", "Dijkstra's Algorithm", "Bubble Sort"],
+    "answer": "Dijkstra's Algorithm",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the term for a program that can replicate itself across computers without user intervention?",
+    "options": ["Trojan", "Spyware", "Worm"],
+    "answer": "Worm",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which company developed the deep learning framework TensorFlow?",
+    "options": ["Google", "Microsoft", "Facebook"],
+    "answer": "Google",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does GPU stand for?",
+    "options": ["General Processing Unit", "Graphical Performance Utility", "Graphics Processing Unit"],
+    "answer": "Graphics Processing Unit",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the primary function of an operating system?",
+    "options": ["Program applications", "Manage computer hardware and software resources", "Design computer hardware"],
+    "answer": "Manage computer hardware and software resources",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which data structure uses the First In, First Out (FIFO) principle?",
+    "options": ["Stack", "Queue", "Tree"],
+    "answer": "Queue",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which data structure is best described as a Last In, First Out (LIFO) structure?",
+    "options": ["Queue", "Graph", "Stack"],
+    "answer": "Stack",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": ["HyperText Markup Language", "HighText Machine Language", "Hyperlink and Text Markup Language"],
+    "answer": "HyperText Markup Language",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which sorting algorithm has an average time complexity of O(n log n) and is widely used?",
+    "options": ["Quick Sort", "Bubble Sort", "Selection Sort"],
+    "answer": "Quick Sort",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which programming paradigm is centered around objects and data rather than functions?",
+    "options": ["Procedural Programming", "Object-Oriented Programming", "Functional Programming"],
+    "answer": "Object-Oriented Programming",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Who invented the World Wide Web?",
+    "options": ["Tim Berners-Lee", "Bill Gates", "Steve Jobs"],
+    "answer": "Tim Berners-Lee",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which language is primarily used for statistical computing and graphics?",
+    "options": ["R", "Java", "C#"],
+    "answer": "R",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does SQL stand for?",
+    "options": ["Structured Query Language", "Simple Query Language", "Sequential Query Language"],
+    "answer": "Structured Query Language",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which algorithm is used for searching a sorted array by repeatedly dividing the search interval in half?",
+    "options": ["Linear Search", "Binary Search", "Hash Search"],
+    "answer": "Binary Search",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does API stand for?",
+    "options": ["Application Programming Interface", "Advanced Programming Internet", "Application Protocol Interface"],
+    "answer": "Application Programming Interface",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which computer scientist developed the concept of recursion?",
+    "options": ["Alonzo Church", "John McCarthy", "Alan Turing"],
+    "answer": "Alonzo Church",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the main concept behind neural networks in AI?",
+    "options": ["Decision trees", "Layers of interconnected nodes", "Genetic algorithms"],
+    "answer": "Layers of interconnected nodes",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which language is known as the backbone of web development?",
+    "options": ["CSS", "HTML", "JavaScript"],
+    "answer": "HTML",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept in computer science involves breaking a problem into smaller subproblems?",
+    "options": ["Recursion", "Abstraction", "Modularity"],
+    "answer": "Recursion",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the name of the process by which a computer system finds and corrects errors in its own code?",
+    "options": ["Compiling", "Debugging", "Interpreting"],
+    "answer": "Debugging",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is NOT a programming language?",
+    "options": ["Ruby", "Python", "Silicon"],
+    "answer": "Silicon",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does IDE stand for in software development?",
+    "options": ["Integrated Development Environment", "Internal Development Engine", "Interactive Development Extension"],
+    "answer": "Integrated Development Environment",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept describes a mistake or flaw in a computer program?",
+    "options": ["Feature", "Bug", "Patch"],
+    "answer": "Bug",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which protocol is used to securely browse the internet?",
+    "options": ["HTTP", "FTP", "HTTPS"],
+    "answer": "HTTPS",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is an example of an interpreted language?",
+    "options": ["C++", "Python", "Java"],
+    "answer": "Python",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the name given to a malicious software designed to harm or exploit any programmable device?",
+    "options": ["Antivirus", "Malware", "Firmware"],
+    "answer": "Malware",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which computer scientist is known for developing the LISP programming language?",
+    "options": ["Donald Knuth", "John McCarthy", "Edsger Dijkstra"],
+    "answer": "John McCarthy",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which data structure organizes data in a hierarchical tree format?",
+    "options": ["Linked List", "Graph", "Tree"],
+    "answer": "Tree",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does the term 'big data' refer to?",
+    "options": ["A type of computer hardware", "Extremely large data sets that can be analyzed computationally", "A programming paradigm"],
+    "answer": "Extremely large data sets that can be analyzed computationally",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the primary purpose of a compiler?",
+    "options": ["To execute programs directly", "To translate source code into machine code", "To design computer hardware"],
+    "answer": "To translate source code into machine code",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which algorithm is famous for its use in recommendation systems and search ranking?",
+    "options": ["PageRank", "Depth-first search", "Breadth-first search"],
+    "answer": "PageRank",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the primary benefit of parallel computing?",
+    "options": ["Increased energy consumption", "Faster processing by dividing tasks", "Simplified coding"],
+    "answer": "Faster processing by dividing tasks",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does the term 'open source' mean?",
+    "options": ["Software that is freely available to use, modify, and distribute", "Software that is only available for academic purposes", "Software with source code hidden from the public"],
+    "answer": "Software that is freely available to use, modify, and distribute",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is a common use case for machine learning?",
+    "options": ["Manual data entry", "Image recognition", "Static webpage design"],
+    "answer": "Image recognition",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does the term 'cloud computing' refer to?",
+    "options": ["Storing data on a local hard drive", "Delivering computing services over the internet", "Programming without a computer"],
+    "answer": "Delivering computing services over the internet",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is an example of a NoSQL database?",
+    "options": ["MySQL", "MongoDB", "PostgreSQL"],
+    "answer": "MongoDB",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is a characteristic of functional programming?",
+    "options": ["Mutable state", "First-class functions", "Imperative commands"],
+    "answer": "First-class functions",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'HTTP' stand for?",
+    "options": ["HyperText Transfer Protocol", "HyperText Transmission Process", "HighText Transfer Protocol"],
+    "answer": "HyperText Transfer Protocol",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept in AI involves learning from data without being explicitly programmed?",
+    "options": ["Machine Learning", "Hard Coding", "Rule-Based Systems"],
+    "answer": "Machine Learning",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the main idea behind reinforcement learning?",
+    "options": ["Learning from labeled data", "Learning by trial and error with rewards", "Learning from structured databases"],
+    "answer": "Learning by trial and error with rewards",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which programming language is traditionally associated with statistical analysis and data visualization?",
+    "options": ["R", "C++", "JavaScript"],
+    "answer": "R",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is a 'bug bounty' program?",
+    "options": ["A software testing technique", "A reward system for finding security vulnerabilities", "A type of computer virus"],
+    "answer": "A reward system for finding security vulnerabilities",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which term refers to the practice of simulating intelligent behavior in machines?",
+    "options": ["Artificial Intelligence", "Virtual Reality", "Augmented Reality"],
+    "answer": "Artificial Intelligence",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the name of the algorithm used in decision tree learning to split data based on feature importance?",
+    "options": ["K-means", "ID3", "Apriori"],
+    "answer": "ID3",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is NOT a type of machine learning?",
+    "options": ["Supervised learning", "Unsupervised learning", "Compiled learning"],
+    "answer": "Compiled learning",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'IDE' stand for in programming?",
+    "options": ["Integrated Development Environment", "Internet Development Engine", "Internal Debugging Entity"],
+    "answer": "Integrated Development Environment",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which sorting algorithm repeatedly swaps adjacent elements that are in the wrong order?",
+    "options": ["Merge Sort", "Bubble Sort", "Quick Sort"],
+    "answer": "Bubble Sort",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is a 'neural network' in the context of AI?",
+    "options": ["A network of computers", "A series of algorithms that mimic the human brain", "A hardware component"],
+    "answer": "A series of algorithms that mimic the human brain",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which term describes a set of instructions written in a programming language to perform a specific task?",
+    "options": ["Algorithm", "Code", "Protocol"],
+    "answer": "Code",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which protocol is commonly used for sending emails?",
+    "options": ["SMTP", "FTP", "HTTP"],
+    "answer": "SMTP",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the main purpose of version control systems like Git?",
+    "options": ["To manage changes to source code over time", "To compile code faster", "To monitor computer performance"],
+    "answer": "To manage changes to source code over time",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which programming language is known for its use in embedded systems and real-time applications?",
+    "options": ["C", "Python", "Ruby"],
+    "answer": "C",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'OOP' stand for in programming?",
+    "options": ["Object-Oriented Programming", "Operational Object Process", "Ordered Object Procedure"],
+    "answer": "Object-Oriented Programming",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept is used to hide the internal details of an object in OOP?",
+    "options": ["Encapsulation", "Polymorphism", "Inheritance"],
+    "answer": "Encapsulation",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which process transforms human-readable code into machine-readable code?",
+    "options": ["Compilation", "Interpretation", "Encryption"],
+    "answer": "Compilation",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'DRY' stand for in programming best practices?",
+    "options": ["Don't Repeat Yourself", "Debug, Run, Yield", "Do Repeat Yourself"],
+    "answer": "Don't Repeat Yourself",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which computer scientist is known for his work on algorithms and authored 'The Art of Computer Programming'?",
+    "options": ["Donald Knuth", "Edsger Dijkstra", "Alan Turing"],
+    "answer": "Donald Knuth",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is an example of a declarative programming language?",
+    "options": ["SQL", "C", "Java"],
+    "answer": "SQL",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the primary purpose of a database management system (DBMS)?",
+    "options": ["To create computer networks", "To store and retrieve data efficiently", "To compile programs"],
+    "answer": "To store and retrieve data efficiently",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is a widely used library for data manipulation in Python?",
+    "options": ["NumPy", "React", "Laravel"],
+    "answer": "NumPy",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the purpose of a 'firewall' in computer networks?",
+    "options": ["To cool down the CPU", "To monitor and control incoming and outgoing network traffic", "To store user data"],
+    "answer": "To monitor and control incoming and outgoing network traffic",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept involves hiding the complexity of the system behind a simple interface?",
+    "options": ["Abstraction", "Encapsulation", "Polymorphism"],
+    "answer": "Abstraction",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which machine learning technique is primarily used for clustering data?",
+    "options": ["K-means clustering", "Linear regression", "Decision trees"],
+    "answer": "K-means clustering",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the main goal of supervised learning in machine learning?",
+    "options": ["To find hidden patterns without labels", "To predict outcomes based on labeled data", "To generate random data"],
+    "answer": "To predict outcomes based on labeled data",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following best describes deep learning?",
+    "options": ["A subset of machine learning using neural networks with many layers", "A type of data encryption", "A database management technique"],
+    "answer": "A subset of machine learning using neural networks with many layers",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which computer scientist is credited with the invention of the first compiler?",
+    "options": ["Grace Hopper", "Ada Lovelace", "Alan Turing"],
+    "answer": "Grace Hopper",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is a benefit of using open-source software?",
+    "options": ["It is always free of bugs", "It can be modified and improved by anyone", "It requires no technical knowledge"],
+    "answer": "It can be modified and improved by anyone",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'REST' stand for in web services?",
+    "options": ["Representational State Transfer", "Rapid Execution of State Transactions", "Remote Execution Standard Technique"],
+    "answer": "Representational State Transfer",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is a key characteristic of a blockchain?",
+    "options": ["Centralized control", "Immutable ledger", "Single point of failure"],
+    "answer": "Immutable ledger",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which language is primarily used for developing iOS applications?",
+    "options": ["Swift", "Kotlin", "Java"],
+    "answer": "Swift",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the process of finding and fixing errors in a program called?",
+    "options": ["Debugging", "Compiling", "Linking"],
+    "answer": "Debugging",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is a high-level programming language?",
+    "options": ["Assembly", "Python", "Machine Code"],
+    "answer": "Python",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the term for the rules that govern the syntax of a programming language?",
+    "options": ["Semantics", "Syntax", "Grammar"],
+    "answer": "Grammar",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept allows different objects to be treated as instances of the same class in OOP?",
+    "options": ["Inheritance", "Polymorphism", "Encapsulation"],
+    "answer": "Polymorphism",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is a primary key in a relational database?",
+    "options": ["A unique identifier for table records", "A type of encryption", "A method to sort data"],
+    "answer": "A unique identifier for table records",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which technology is used to create decentralized applications?",
+    "options": ["Blockchain", "Cloud Computing", "Virtual Reality"],
+    "answer": "Blockchain",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the term for a pre-trained model used to jumpstart a machine learning task?",
+    "options": ["Transfer learning", "Reinforcement learning", "Deep learning"],
+    "answer": "Transfer learning",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is used for containerization in software development?",
+    "options": ["Docker", "Kubernetes", "VirtualBox"],
+    "answer": "Docker",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which cybersecurity concept refers to the practice of disguising communication to conceal its true meaning?",
+    "options": ["Encryption", "Obfuscation", "Decryption"],
+    "answer": "Obfuscation",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which protocol is used for secure remote login?",
+    "options": ["SSH", "Telnet", "HTTP"],
+    "answer": "SSH",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does the term 'latency' refer to in networking?",
+    "options": ["The speed of data transfer", "The delay before a transfer of data begins", "The total data capacity"],
+    "answer": "The delay before a transfer of data begins",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is an example of a high-level programming concept that reduces complexity by modeling data?",
+    "options": ["Abstraction", "Recursion", "Iteration"],
+    "answer": "Abstraction",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'MVC' stand for in software architecture?",
+    "options": ["Model View Controller", "Module Variable Component", "Main Variable Class"],
+    "answer": "Model View Controller",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is a common characteristic of agile software development?",
+    "options": ["Fixed scope", "Iterative progress", "Waterfall approach"],
+    "answer": "Iterative progress",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the primary function of a load balancer in computer networks?",
+    "options": ["To store data backups", "To distribute network traffic across multiple servers", "To encrypt data"],
+    "answer": "To distribute network traffic across multiple servers",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which technology is often used to create interactive visualizations on the web?",
+    "options": ["D3.js", "TensorFlow", "Bootstrap"],
+    "answer": "D3.js",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept in computer science involves designing systems to be easily scaled and maintained?",
+    "options": ["Scalability", "Portability", "Robustness"],
+    "answer": "Scalability",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which method is commonly used to prevent overfitting in machine learning models?",
+    "options": ["Cross-validation", "Data augmentation", "Early stopping"],
+    "answer": "Cross-validation",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the purpose of a software framework?",
+    "options": ["To provide a foundation and set of tools for building applications", "To compile code faster", "To manage hardware resources"],
+    "answer": "To provide a foundation and set of tools for building applications",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is NOT a common data structure?",
+    "options": ["Array", "Stack", "Algorithm"],
+    "answer": "Algorithm",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the primary role of a linker in the software build process?",
+    "options": ["To compile source code", "To connect various compiled code modules", "To interpret scripts"],
+    "answer": "To connect various compiled code modules",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these best describes the concept of 'big O notation'?",
+    "options": ["A measure of an algorithm's efficiency", "A programming language", "A type of database"],
+    "answer": "A measure of an algorithm's efficiency",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which protocol is used to transfer files over the internet securely?",
+    "options": ["SFTP", "HTTP", "SMTP"],
+    "answer": "SFTP",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the significance of the 'Turing Test'?",
+    "options": ["It measures the speed of a computer", "It determines whether a machine can exhibit human-like intelligence", "It evaluates network security"],
+    "answer": "It determines whether a machine can exhibit human-like intelligence",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is a popular library for machine learning in Python?",
+    "options": ["Scikit-learn", "Laravel", "Angular"],
+    "answer": "Scikit-learn",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept in cybersecurity involves converting data into a coded format to prevent unauthorized access?",
+    "options": ["Decryption", "Encryption", "Compression"],
+    "answer": "Encryption",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which type of neural network is most commonly used for processing sequential data?",
+    "options": ["Convolutional Neural Network", "Recurrent Neural Network", "Feedforward Neural Network"],
+    "answer": "Recurrent Neural Network",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'SDK' stand for in software development?",
+    "options": ["Software Development Kit", "System Development Kernel", "Standard Development Key"],
+    "answer": "Software Development Kit",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept allows a system to continue operating in the event of a partial failure?",
+    "options": ["Redundancy", "Latency", "Throughput"],
+    "answer": "Redundancy",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which programming paradigm emphasizes the use of functions and avoids changing-state and mutable data?",
+    "options": ["Functional Programming", "Procedural Programming", "Object-Oriented Programming"],
+    "answer": "Functional Programming",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is a characteristic of a strongly typed programming language?",
+    "options": ["Variables can change type at runtime", "Type errors are caught at compile time", "No data type checking exists"],
+    "answer": "Type errors are caught at compile time",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the main advantage of using recursion in programming?",
+    "options": ["Simpler code for repetitive tasks", "Increased memory usage", "Faster execution than loops"],
+    "answer": "Simpler code for repetitive tasks",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which sorting algorithm is known for its efficiency on nearly sorted data?",
+    "options": ["Insertion Sort", "Selection Sort", "Heap Sort"],
+    "answer": "Insertion Sort",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'IoT' stand for?",
+    "options": ["Internet of Things", "Internal of Technology", "Interface of Tools"],
+    "answer": "Internet of Things",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which term describes software that can change its behavior based on past interactions?",
+    "options": ["Adaptive software", "Static software", "Rigid software"],
+    "answer": "Adaptive software",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which method is used in statistics to measure the correlation between two variables?",
+    "options": ["Regression analysis", "Clustering", "Classification"],
+    "answer": "Regression analysis",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept in software engineering focuses on separating concerns to improve modularity?",
+    "options": ["Separation of Concerns", "Monolithic design", "Centralization"],
+    "answer": "Separation of Concerns",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is a primary benefit of using cloud computing?",
+    "options": ["Local data storage", "Scalability and resource flexibility", "Increased hardware costs"],
+    "answer": "Scalability and resource flexibility",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is a benefit of using a NoSQL database over a traditional SQL database?",
+    "options": ["Fixed schema", "Scalability and flexibility", "Stricter data integrity"],
+    "answer": "Scalability and flexibility",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which technology underpins cryptocurrencies like Bitcoin?",
+    "options": ["Blockchain", "Cloud computing", "Big Data"],
+    "answer": "Blockchain",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'SaaS' stand for?",
+    "options": ["Software as a Service", "System as a Software", "Solution and Service"],
+    "answer": "Software as a Service",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which programming language was developed by Sun Microsystems and is widely used for enterprise applications?",
+    "options": ["Java", "C#", "Swift"],
+    "answer": "Java",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is an example of a markup language?",
+    "options": ["CSS", "HTML", "SQL"],
+    "answer": "HTML",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the main function of a web browser?",
+    "options": ["To compile web applications", "To retrieve and display web pages", "To host websites"],
+    "answer": "To retrieve and display web pages",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which term describes a network security system that monitors and controls incoming and outgoing network traffic?",
+    "options": ["Firewall", "Router", "Switch"],
+    "answer": "Firewall",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is a version control system?",
+    "options": ["Git", "Jira", "Slack"],
+    "answer": "Git",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'JSON' stand for?",
+    "options": ["JavaScript Object Notation", "Java Standard Output Network", "JQuery Open Source Object"],
+    "answer": "JavaScript Object Notation",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept in AI refers to a system that improves its performance based on experience?",
+    "options": ["Learning algorithms", "Static programming", "Manual updates"],
+    "answer": "Learning algorithms",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is a popular integrated development environment (IDE) for Java development?",
+    "options": ["Visual Studio Code", "Eclipse", "Sublime Text"],
+    "answer": "Eclipse",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the primary purpose of unit testing in software development?",
+    "options": ["To test individual units of source code for correctness", "To deploy code to production", "To design the software architecture"],
+    "answer": "To test individual units of source code for correctness",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which technology is commonly used to create responsive web designs?",
+    "options": ["Bootstrap", "TensorFlow", "Django"],
+    "answer": "Bootstrap",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the principle of 'separation of concerns' in software engineering?",
+    "options": ["Dividing a program into distinct features that overlap", "Dividing a program into distinct features with minimal overlap", "Combining similar features into one module"],
+    "answer": "Dividing a program into distinct features with minimal overlap",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following best describes an 'algorithm'?",
+    "options": ["A step-by-step procedure for calculations", "A programming language", "A computer hardware component"],
+    "answer": "A step-by-step procedure for calculations",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which area of computer science deals with the design and analysis of algorithms?",
+    "options": ["Computational complexity theory", "User interface design", "Network administration"],
+    "answer": "Computational complexity theory",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'OOP' emphasize in software design?",
+    "options": ["Reusability through objects", "Direct hardware manipulation", "Linear execution"],
+    "answer": "Reusability through objects",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept in machine learning involves dividing data into a training set and a test set?",
+    "options": ["Data partitioning", "Cross-validation", "Ensemble learning"],
+    "answer": "Data partitioning",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is a benefit of using continuous integration (CI) in software development?",
+    "options": ["Delayed feedback on code issues", "Frequent code integration and testing", "Manual deployment processes"],
+    "answer": "Frequent code integration and testing",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is a common language used for scripting on web pages?",
+    "options": ["JavaScript", "C++", "Rust"],
+    "answer": "JavaScript",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is an example of a backend programming language?",
+    "options": ["PHP", "HTML", "CSS"],
+    "answer": "PHP",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the primary purpose of caching in computer systems?",
+    "options": ["To permanently store data", "To speed up data retrieval by storing copies of data in temporary storage", "To compress data"],
+    "answer": "To speed up data retrieval by storing copies of data in temporary storage",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which computer scientist is known for his contributions to algorithms and data structures and is the author of a multi-volume work on the subject?",
+    "options": ["Donald Knuth", "Alan Turing", "John von Neumann"],
+    "answer": "Donald Knuth",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is a common practice for managing project tasks in software development?",
+    "options": ["Scrum", "Waterfall", "Monolithic"],
+    "answer": "Scrum",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following best describes an 'open API'?",
+    "options": ["An API that is publicly available for developers to use", "An API that is only available within a company", "An API that requires proprietary software"],
+    "answer": "An API that is publicly available for developers to use",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is a key aspect of ethical AI development?",
+    "options": ["Maximizing profit regardless of consequences", "Ensuring transparency and fairness in decision-making", "Prioritizing speed over accuracy"],
+    "answer": "Ensuring transparency and fairness in decision-making",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the role of a 'data scientist' in an organization?",
+    "options": ["To design hardware components", "To extract insights and knowledge from data", "To manage network security exclusively"],
+    "answer": "To extract insights and knowledge from data",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is a tool used for container orchestration?",
+    "options": ["Kubernetes", "Docker", "Git"],
+    "answer": "Kubernetes",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which paradigm emphasizes the use of events and asynchronous programming?",
+    "options": ["Event-driven programming", "Procedural programming", "Object-oriented programming"],
+    "answer": "Event-driven programming",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is an example of a cloud service model that provides virtualized computing resources over the internet?",
+    "options": ["IaaS", "PaaS", "SaaS"],
+    "answer": "IaaS",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the purpose of a 'sandbox' in software development?",
+    "options": ["To permanently store code", "To isolate code execution for testing and security", "To compile source code"],
+    "answer": "To isolate code execution for testing and security",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is NOT a common characteristic of agile development?",
+    "options": ["Flexibility in responding to change", "Extensive upfront planning", "Iterative development"],
+    "answer": "Extensive upfront planning",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'CI/CD' stand for in modern software development practices?",
+    "options": ["Continuous Integration/Continuous Deployment", "Code Inspection/Code Debugging", "Compilation Integration/Compilation Deployment"],
+    "answer": "Continuous Integration/Continuous Deployment",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which technique is used in natural language processing to convert text into numerical features?",
+    "options": ["Tokenization", "Compilation", "Encryption"],
+    "answer": "Tokenization",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the purpose of the 'git commit' command?",
+    "options": ["To create a new branch", "To save changes to the local repository", "To merge two branches"],
+    "answer": "To save changes to the local repository",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following best describes a 'stack overflow' error?",
+    "options": ["An error caused by too many nested function calls", "An error caused by running out of disk space", "An error caused by a syntax mistake"],
+    "answer": "An error caused by too many nested function calls",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept involves a program's ability to manage increasing workloads gracefully?",
+    "options": ["Scalability", "Latency", "Throughput"],
+    "answer": "Scalability",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the primary function of a DNS (Domain Name System) server?",
+    "options": ["To translate domain names into IP addresses", "To secure network traffic", "To host websites"],
+    "answer": "To translate domain names into IP addresses",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which method is commonly used to combine multiple models in machine learning to improve performance?",
+    "options": ["Ensemble learning", "Overfitting", "Underfitting"],
+    "answer": "Ensemble learning",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following best describes the concept of 'data mining'?",
+    "options": ["Extracting useful patterns from large datasets", "Storing data in a database", "Creating data backups"],
+    "answer": "Extracting useful patterns from large datasets",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which programming concept involves the ability of different objects to respond uniquely to the same function call?",
+    "options": ["Inheritance", "Polymorphism", "Encapsulation"],
+    "answer": "Polymorphism",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is an example of a distributed computing framework?",
+    "options": ["Apache Hadoop", "MySQL", "SQLite"],
+    "answer": "Apache Hadoop",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which cybersecurity practice involves verifying the identity of users or systems?",
+    "options": ["Authentication", "Encryption", "Compression"],
+    "answer": "Authentication",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the purpose of a 'load testing' tool in software engineering?",
+    "options": ["To measure the performance of a system under heavy loads", "To test code syntax", "To manage version control"],
+    "answer": "To measure the performance of a system under heavy loads",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which algorithm is used in AI for decision-making by simulating multiple future scenarios?",
+    "options": ["Minimax", "Gradient Descent", "Genetic Algorithm"],
+    "answer": "Minimax",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept in computer science refers to the continuous process of improving and updating software?",
+    "options": ["Maintenance", "Compilation", "Prototyping"],
+    "answer": "Maintenance",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the primary goal of computer vision in AI?",
+    "options": ["To enable machines to understand and interpret visual information", "To compile code faster", "To secure networks"],
+    "answer": "To enable machines to understand and interpret visual information",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is a common framework for building web applications in Python?",
+    "options": ["Django", "Laravel", "Spring"],
+    "answer": "Django",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these best describes the concept of 'virtualization'?",
+    "options": ["Creating a virtual version of something, such as hardware or an operating system", "Increasing the physical size of hardware", "Encrypting data"],
+    "answer": "Creating a virtual version of something, such as hardware or an operating system",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is used to manage dependencies in many programming projects?",
+    "options": ["Package managers", "Compilers", "Linkers"],
+    "answer": "Package managers",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which tool is widely used for automating software builds and testing?",
+    "options": ["Jenkins", "Photoshop", "Excel"],
+    "answer": "Jenkins",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the primary purpose of a content management system (CMS)?",
+    "options": ["To manage digital content on websites", "To compile source code", "To secure networks"],
+    "answer": "To manage digital content on websites",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following best describes the concept of 'serverless computing'?",
+    "options": ["Running applications without managing underlying server infrastructure", "Not using any servers at all", "Using only local servers"],
+    "answer": "Running applications without managing underlying server infrastructure",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept refers to a program's ability to run on multiple operating systems without modification?",
+    "options": ["Portability", "Scalability", "Maintainability"],
+    "answer": "Portability",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the approximate value of π?",
+    "options": ["3.14", "2.72", "1.62"],
+    "answer": "3.14",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is Euler's number (e) approximately equal to?",
+    "options": ["3.14", "2.72", "1.62"],
+    "answer": "2.72",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the square root of 16?",
+    "options": ["4", "3", "5"],
+    "answer": "4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 7 factorial (7!) equal to?",
+    "options": ["5040", "40320", "720"],
+    "answer": "5040",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "Which number is prime: 29, 35, or 49?",
+    "options": ["35", "29", "49"],
+    "answer": "29",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the next number in the Fibonacci sequence: 0, 1, 1, 2, 3, ... ?",
+    "options": ["6", "5", "4"],
+    "answer": "5",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the angles in a triangle?",
+    "options": ["180°", "90°", "360°"],
+    "answer": "180°",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "Which shape has the fewest number of sides?",
+    "options": ["Square", "Triangle", "Pentagon"],
+    "answer": "Triangle",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 2^5?",
+    "options": ["16", "32", "64"],
+    "answer": "32",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of x^2 with respect to x?",
+    "options": ["2x", "x", "x^2"],
+    "answer": "2x",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the integral of 1/x dx (ignoring the constant)?",
+    "options": ["1/x", "x", "ln|x|"],
+    "answer": "ln|x|",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 0! (zero factorial)?",
+    "options": ["Undefined", "1", "0"],
+    "answer": "1",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "Which of these numbers is irrational?",
+    "options": ["5", "√2", "3/4"],
+    "answer": "√2",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the interior angles of a quadrilateral?",
+    "options": ["360°", "540°", "180°"],
+    "answer": "360°",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the median of the set {3, 7, 9, 15, 21}?",
+    "options": ["7", "9", "15"],
+    "answer": "9",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the mode of the data set: 2, 4, 4, 6, 8?",
+    "options": ["4", "8", "6"],
+    "answer": "4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "In probability, what is the term for an event that cannot occur?",
+    "options": ["Random event", "Impossible event", "Certain event"],
+    "answer": "Impossible event",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 10 choose 2?",
+    "options": ["45", "55", "90"],
+    "answer": "45",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the solution to the equation 2x = 10?",
+    "options": ["10", "5", "2"],
+    "answer": "5",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "Which mathematician is known for the theorem 'a^2 + b^2 = c^2'?",
+    "options": ["Euclid", "Pythagoras", "Archimedes"],
+    "answer": "Pythagoras",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the formula for the area of a circle?",
+    "options": ["2πr", "πr^2", "πd"],
+    "answer": "πr^2",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of sin(x)?",
+    "options": ["-cos(x)", "cos(x)", "sin(x)"],
+    "answer": "cos(x)",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of cos(x)?",
+    "options": ["cos(x)", "-sin(x)", "sin(x)"],
+    "answer": "-sin(x)",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the second smallest prime number?",
+    "options": ["2", "5", "3"],
+    "answer": "3",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the first 5 positive integers?",
+    "options": ["10", "15", "20"],
+    "answer": "15",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 9 squared?",
+    "options": ["81", "90", "72"],
+    "answer": "81",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the cube of 3?",
+    "options": ["27", "18", "9"],
+    "answer": "27",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the probability of getting heads in a fair coin toss?",
+    "options": ["1/3", "1/2", "1/4"],
+    "answer": "1/2",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What does the variance measure in a data set?",
+    "options": ["Data spread", "Skewness", "Central tendency"],
+    "answer": "Data spread",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the median of the set {1, 3, 3, 6, 7, 8, 9}?",
+    "options": ["7", "6", "3"],
+    "answer": "6",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 15% of 200?",
+    "options": ["25", "35", "30"],
+    "answer": "30",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the perimeter of a square with side length 4?",
+    "options": ["12", "16", "8"],
+    "answer": "16",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the common ratio in a geometric sequence where each term is multiplied by 3?",
+    "options": ["2", "3", "1/3"],
+    "answer": "3",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What does the symbol '∑' represent in mathematics?",
+    "options": ["Integration", "Summation", "Multiplication"],
+    "answer": "Summation",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What does the standard deviation measure in a data set?",
+    "options": ["Probability of data", "Spread of data", "Mean of data"],
+    "answer": "Spread of data",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 3 + 4 × 2?",
+    "options": ["11", "14", "10"],
+    "answer": "11",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the slope-intercept form of a line?",
+    "options": ["ax^2 + bx + c", "y = mx + b", "x = my + b"],
+    "answer": "y = mx + b",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of log10(1000)?",
+    "options": ["4", "3", "2"],
+    "answer": "3",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the binomial coefficient C(5,2) equal to?",
+    "options": ["10", "12", "8"],
+    "answer": "10",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the factorial of 3?",
+    "options": ["3", "6", "9"],
+    "answer": "6",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the term for a polygon with 8 sides?",
+    "options": ["Nonagon", "Octagon", "Heptagon"],
+    "answer": "Octagon",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 12 divided by 3?",
+    "options": ["6", "4", "3"],
+    "answer": "4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the interior angles of a pentagon?",
+    "options": ["360°", "540°", "720°"],
+    "answer": "540°",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "Which branch of mathematics deals with rates of change?",
+    "options": ["Algebra", "Calculus", "Geometry"],
+    "answer": "Calculus",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "Which mathematician is known for work on non-Euclidean geometry?",
+    "options": ["Pythagoras", "Gauss", "Newton"],
+    "answer": "Gauss",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the solution to the equation x + 5 = 12?",
+    "options": ["7", "17", "5"],
+    "answer": "7",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the probability of drawing an ace from a standard deck of cards?",
+    "options": ["1/4", "1/52", "1/13"],
+    "answer": "1/13",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the result of 0 multiplied by any number?",
+    "options": ["1", "The number itself", "0"],
+    "answer": "0",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the first 10 positive integers?",
+    "options": ["45", "55", "50"],
+    "answer": "55",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the least common multiple of 4 and 6?",
+    "options": ["24", "12", "18"],
+    "answer": "12",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of ln(x)?",
+    "options": ["x", "1/x", "ln(x)"],
+    "answer": "1/x",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 5 squared?",
+    "options": ["15", "25", "10"],
+    "answer": "25",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the cube root of 27?",
+    "options": ["27", "3", "9"],
+    "answer": "3",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "Which number is a multiple of both 3 and 4?",
+    "options": ["9", "12", "7"],
+    "answer": "12",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the term for a graph that shows frequency distribution?",
+    "options": ["Bar graph", "Histogram", "Pie chart"],
+    "answer": "Histogram",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the arithmetic mean of 2, 4, and 6?",
+    "options": ["4", "5", "6"],
+    "answer": "4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the perimeter of a rectangle with length 8 and width 3?",
+    "options": ["24", "22", "26"],
+    "answer": "22",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the area of a triangle with base 10 and height 5?",
+    "options": ["50", "25", "15"],
+    "answer": "25",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 2 + 2 × 2?",
+    "options": ["8", "4", "6"],
+    "answer": "6",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the probability of rolling a 3 on a fair six-sided die?",
+    "options": ["1/3", "1/2", "1/6"],
+    "answer": "1/6",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 20% of 50?",
+    "options": ["15", "10", "20"],
+    "answer": "10",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the perimeter of a circle called?",
+    "options": ["Diameter", "Circumference", "Radius"],
+    "answer": "Circumference",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the square root of 81?",
+    "options": ["7", "9", "8"],
+    "answer": "9",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What does the symbol '√' represent?",
+    "options": ["Exponentiation", "Square root", "Summation"],
+    "answer": "Square root",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "Which operation is performed first in PEMDAS?",
+    "options": ["Addition", "Multiplication", "Parentheses"],
+    "answer": "Parentheses",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 100 divided by 4?",
+    "options": ["20", "30", "25"],
+    "answer": "25",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the formula for the area of a rectangle?",
+    "options": ["2(Length + Width)", "Length × Width", "Length + Width"],
+    "answer": "Length × Width",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the angles in a hexagon?",
+    "options": ["540°", "720°", "900°"],
+    "answer": "720°",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the reciprocal of 5?",
+    "options": ["2", "0.2", "5"],
+    "answer": "0.2",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the mean of the numbers 10, 20, 30, 40?",
+    "options": ["30", "25", "20"],
+    "answer": "25",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What does the standard deviation measure?",
+    "options": ["Average", "Variability", "Total sum"],
+    "answer": "Variability",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 7^2?",
+    "options": ["42", "56", "49"],
+    "answer": "49",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the cube of 4?",
+    "options": ["16", "32", "64"],
+    "answer": "64",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What does 'ln' represent in mathematics?",
+    "options": ["Common logarithm", "Natural logarithm", "Logistic function"],
+    "answer": "Natural logarithm",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the formula for the circumference of a circle?",
+    "options": ["πr", "2πr", "πr^2"],
+    "answer": "2πr",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the term for a number that can only be divided by 1 and itself?",
+    "options": ["Composite", "Even", "Prime"],
+    "answer": "Prime",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the solution to the equation 3x = 12?",
+    "options": ["6", "4", "3"],
+    "answer": "4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of e^x?",
+    "options": ["xe^(x-1)", "1/e^x", "e^x"],
+    "answer": "e^x",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the first 3 positive prime numbers?",
+    "options": ["12", "10", "8"],
+    "answer": "10",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 7 plus 8?",
+    "options": ["14", "16", "15"],
+    "answer": "15",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the square root of 144?",
+    "options": ["14", "12", "16"],
+    "answer": "12",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the next number in the sequence: 2, 4, 8, 16, ... ?",
+    "options": ["20", "32", "10"],
+    "answer": "32",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the result of 81 divided by 9?",
+    "options": ["10", "9", "8"],
+    "answer": "9",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of the expression 3^3 - 3?",
+    "options": ["18", "24", "27"],
+    "answer": "24",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the product of 11 and 11?",
+    "options": ["121", "131", "111"],
+    "answer": "121",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of a constant?",
+    "options": ["Constant", "0", "1"],
+    "answer": "0",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What does '≈' signify in mathematics?",
+    "options": ["Exactly equal to", "Approximately equal to", "Not equal to"],
+    "answer": "Approximately equal to",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the first three prime numbers?",
+    "options": ["12", "10", "8"],
+    "answer": "10",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 9 - 4?",
+    "options": ["7", "6", "5"],
+    "answer": "5",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the term for a set with no elements?",
+    "options": ["Null set", "Empty set", "Universal set"],
+    "answer": "Empty set",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the solution to the equation 5x = 20?",
+    "options": ["5", "3", "4"],
+    "answer": "4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the mean of the numbers 2, 4, 6, 8?",
+    "options": ["6", "5", "7"],
+    "answer": "5",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the common denominator of fractions 1/2 and 1/3?",
+    "options": ["5", "6", "4"],
+    "answer": "6",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the probability of drawing a king from a deck of cards?",
+    "options": ["1/4", "1/13", "1/12"],
+    "answer": "1/13",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 2 to the power of 4?",
+    "options": ["12", "16", "8"],
+    "answer": "16",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the formula for the area of a parallelogram?",
+    "options": ["1/2 × Base × Height", "Length × Width", "Base × Height"],
+    "answer": "Base × Height",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, ... ?",
+    "options": ["7", "8", "9"],
+    "answer": "8",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of 3x with respect to x?",
+    "options": ["x", "3", "1"],
+    "answer": "3",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 25% of 80?",
+    "options": ["25", "20", "15"],
+    "answer": "20",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the product of 9 and 9?",
+    "options": ["90", "81", "72"],
+    "answer": "81",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the area of a circle with radius 3 (approx.)?",
+    "options": ["18.85", "30.00", "28.27"],
+    "answer": "28.27",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the formula for the volume of a cube?",
+    "options": ["Side^2", "4/3πr^3", "Side^3"],
+    "answer": "Side^3",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the standard form of a quadratic equation?",
+    "options": ["y = mx + b", "ax^2 + bx + c = 0", "x^2 + y^2 = r^2"],
+    "answer": "ax^2 + bx + c = 0",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the slope of a horizontal line?",
+    "options": ["Undefined", "1", "0"],
+    "answer": "0",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the integral of 0 dx?",
+    "options": ["x", "Constant", "0"],
+    "answer": "0",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 100 minus 45?",
+    "options": ["65", "45", "55"],
+    "answer": "55",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the probability of picking an even number from the set {1,2,3,4,5}?",
+    "options": ["1/2", "3/5", "2/5"],
+    "answer": "2/5",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 0.25 as a fraction?",
+    "options": ["1/2", "1/4", "1/3"],
+    "answer": "1/4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of 45 and 55?",
+    "options": ["90", "110", "100"],
+    "answer": "100",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the term for a function that has a highest power of 1?",
+    "options": ["Cubic", "Linear", "Quadratic"],
+    "answer": "Linear",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 6! ?",
+    "options": ["120", "5040", "720"],
+    "answer": "720",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the percentage form of 0.85?",
+    "options": ["0.85%", "85%", "8.5%"],
+    "answer": "85%",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the formula for the surface area of a sphere?",
+    "options": ["πr^2", "2πr", "4πr^2"],
+    "answer": "4πr^2",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of the expression 2(3+4)?",
+    "options": ["10", "12", "14"],
+    "answer": "14",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the probability of drawing a heart from a deck of cards?",
+    "options": ["1/3", "1/2", "1/4"],
+    "answer": "1/4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of 4x?",
+    "options": ["x", "0", "4"],
+    "answer": "4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the first 4 even numbers?",
+    "options": ["18", "22", "20"],
+    "answer": "20",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of the square root of 49?",
+    "options": ["8", "7", "6"],
+    "answer": "7",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the formula for the volume of a cylinder?",
+    "options": ["2πrh", "πr^2h", "πrh^2"],
+    "answer": "πr^2h",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the term for a sequence where each term is the sum of the two preceding terms?",
+    "options": ["Arithmetic sequence", "Geometric sequence", "Fibonacci sequence"],
+    "answer": "Fibonacci sequence",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of 3, 6, and 9?",
+    "options": ["15", "21", "18"],
+    "answer": "18",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of 5?",
+    "options": ["1", "5", "0"],
+    "answer": "0",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the mean of the set {8, 12, 16, 20}?",
+    "options": ["15", "14", "16"],
+    "answer": "14",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the result of 3/4 + 1/4?",
+    "options": ["1/2", "5/4", "1"],
+    "answer": "1",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the perimeter of a regular hexagon with side length 3?",
+    "options": ["15", "18", "12"],
+    "answer": "18",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the probability of rolling a number greater than 4 on a six-sided die?",
+    "options": ["1/2", "1/4", "1/3"],
+    "answer": "1/3",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the area of a rectangle with length 7 and width 2?",
+    "options": ["9", "14", "10"],
+    "answer": "14",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 0.1 expressed as a percentage?",
+    "options": ["1%", "10%", "5%"],
+    "answer": "10%",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the result of 50% of 60?",
+    "options": ["20", "30", "40"],
+    "answer": "30",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of x with respect to x?",
+    "options": ["x", "1", "0"],
+    "answer": "1",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the common term for an angle less than 90°?",
+    "options": ["Obtuse", "Acute", "Right"],
+    "answer": "Acute",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the interior angles of a heptagon (7-sided polygon)?",
+    "options": ["720°", "900°", "1080°"],
+    "answer": "900°",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the next number in the series: 10, 20, 30, ... ?",
+    "options": ["50", "40", "60"],
+    "answer": "40",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 1/5 as a decimal?",
+    "options": ["0.5", "0.25", "0.2"],
+    "answer": "0.2",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the factorial of 0?",
+    "options": ["Undefined", "1", "0"],
+    "answer": "1",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of 2 and 3?",
+    "options": ["6", "4", "5"],
+    "answer": "5",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the result of 10 × 10?",
+    "options": ["110", "100", "90"],
+    "answer": "100",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of 6x^2?",
+    "options": ["6x", "3x^2", "12x"],
+    "answer": "12x",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the area of a triangle with base 8 and height 6?",
+    "options": ["48", "28", "24"],
+    "answer": "24",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the mean of the set {2, 4, 6}?",
+    "options": ["5", "4", "3"],
+    "answer": "4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the square of 10?",
+    "options": ["110", "100", "90"],
+    "answer": "100",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the result of 25% of 200?",
+    "options": ["40", "50", "60"],
+    "answer": "50",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the term for a solution that cannot be expressed as a finite or repeating decimal?",
+    "options": ["Real", "Rational", "Irrational"],
+    "answer": "Irrational",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the formula for the perimeter of a triangle?",
+    "options": ["2(Length + Width)", "Sum of all sides", "Base × Height"],
+    "answer": "Sum of all sides",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the next number in the sequence: 5, 10, 15, ... ?",
+    "options": ["25", "20", "30"],
+    "answer": "20",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 3/5 expressed as a decimal?",
+    "options": ["0.5", "0.7", "0.6"],
+    "answer": "0.6",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the first 4 odd numbers?",
+    "options": ["15", "18", "16"],
+    "answer": "16",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of 7x?",
+    "options": ["x", "7", "1"],
+    "answer": "7",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 2^6?",
+    "options": ["32", "128", "64"],
+    "answer": "64",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the volume of a cube with side length 2?",
+    "options": ["6", "4", "8"],
+    "answer": "8",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the area of a square with perimeter 16?",
+    "options": ["18", "16", "8"],
+    "answer": "16",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of 7 and 9?",
+    "options": ["17", "16", "15"],
+    "answer": "16",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of 2x^3?",
+    "options": ["3x^2", "2x^2", "6x^2"],
+    "answer": "6x^2",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 40% of 150?",
+    "options": ["50", "70", "60"],
+    "answer": "60",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the square root of 64?",
+    "options": ["6", "7", "8"],
+    "answer": "8",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the interior angles of a decagon (10-sided polygon)?",
+    "options": ["1260°", "1080°", "1440°"],
+    "answer": "1440°",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of cos(2x)?",
+    "options": ["2cos(2x)", "-sin(2x)", "-2sin(2x)"],
+    "answer": "-2sin(2x)",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the result of 9 × 9?",
+    "options": ["72", "90", "81"],
+    "answer": "81",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the term for a statistical measure that indicates the middle value?",
+    "options": ["Mode", "Mean", "Median"],
+    "answer": "Median",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 0.75 as a percentage?",
+    "options": ["7.5%", "50%", "75%"],
+    "answer": "75%",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the formula for the sum of an arithmetic series?",
+    "options": ["n(first - last)", "n/2 (first + last)", "n(first + last)"],
+    "answer": "n/2 (first + last)",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the probability of flipping two coins and getting two heads?",
+    "options": ["1/2", "1/8", "1/4"],
+    "answer": "1/4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of ln(2x)?",
+    "options": ["2/x", "1/(2x)", "1/x"],
+    "answer": "1/x",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the area of a rectangle with length 10 and width 5?",
+    "options": ["60", "50", "55"],
+    "answer": "50",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the factorial of 4?",
+    "options": ["16", "24", "12"],
+    "answer": "24",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 100% as a decimal?",
+    "options": ["10", "0.1", "1"],
+    "answer": "1",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of sin^2(x)?",
+    "options": ["cos(2x)", "2sin(x)cos(x)", "sin(2x)"],
+    "answer": "2sin(x)cos(x)",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the next number in the sequence: 1, 4, 9, 16, ... ?",
+    "options": ["20", "25", "30"],
+    "answer": "25",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of 3 and 7?",
+    "options": ["9", "11", "10"],
+    "answer": "10",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the product of 4 and 5?",
+    "options": ["25", "15", "20"],
+    "answer": "20",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the cube of 2?",
+    "options": ["4", "8", "6"],
+    "answer": "8",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 6 squared?",
+    "options": ["30", "42", "36"],
+    "answer": "36",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the median of the set {10, 20, 30}?",
+    "options": ["10", "20", "30"],
+    "answer": "20",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the arithmetic mean of 5, 10, and 15?",
+    "options": ["15", "10", "12"],
+    "answer": "10",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 2 plus 3 times 4?",
+    "options": ["20", "14", "12"],
+    "answer": "14",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 11 minus 3?",
+    "options": ["7", "9", "8"],
+    "answer": "8",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 7 multiplied by 3?",
+    "options": ["18", "24", "21"],
+    "answer": "21",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the square root of 100?",
+    "options": ["9", "10", "11"],
+    "answer": "10",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the area of a triangle with base 12 and height 4?",
+    "options": ["28", "20", "24"],
+    "answer": "24",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the probability of drawing a spade from a deck of cards?",
+    "options": ["1/2", "1/3", "1/4"],
+    "answer": "1/4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 9 plus 6?",
+    "options": ["16", "14", "15"],
+    "answer": "15",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of 9x?",
+    "options": ["x", "1", "9"],
+    "answer": "9",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 0.5 multiplied by 8?",
+    "options": ["6", "8", "4"],
+    "answer": "4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of 12 and 13?",
+    "options": ["26", "24", "25"],
+    "answer": "25",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 3 times 5?",
+    "options": ["10", "20", "15"],
+    "answer": "15",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the difference between 20 and 5?",
+    "options": ["10", "20", "15"],
+    "answer": "15",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the digits in 456?",
+    "options": ["16", "15", "14"],
+    "answer": "15",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the result of 2 × 3 + 4?",
+    "options": ["12", "8", "10"],
+    "answer": "10",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the common ratio in the sequence 2, 6, 18, ... ?",
+    "options": ["3", "4", "2"],
+    "answer": "3",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the perimeter of a square with side 9?",
+    "options": ["27", "36", "18"],
+    "answer": "36",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 8 divided by 2?",
+    "options": ["6", "4", "8"],
+    "answer": "4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of 2x^2?",
+    "options": ["2x", "x", "4x"],
+    "answer": "4x",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of π rounded to two decimal places?",
+    "options": ["3.15", "3.13", "3.14"],
+    "answer": "3.14",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the solution to the equation 10 - x = 4?",
+    "options": ["4", "10", "6"],
+    "answer": "6",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 50 plus 25?",
+    "options": ["70", "65", "75"],
+    "answer": "75",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the mean of the numbers 3, 5, and 7?",
+    "options": ["7", "6", "5"],
+    "answer": "5",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the product of 4 and 6?",
+    "options": ["20", "28", "24"],
+    "answer": "24",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the result of 12 divided by 4?",
+    "options": ["4", "6", "3"],
+    "answer": "3",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the square root of 25?",
+    "options": ["4", "6", "5"],
+    "answer": "5",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the next number in the sequence: 2, 4, 6, ... ?",
+    "options": ["10", "12", "8"],
+    "answer": "8",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of 50 and 50?",
+    "options": ["90", "110", "100"],
+    "answer": "100",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 7 minus 2?",
+    "options": ["4", "6", "5"],
+    "answer": "5",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the product of 3 and 7?",
+    "options": ["24", "18", "21"],
+    "answer": "21",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 10 divided by 2?",
+    "options": ["4", "6", "5"],
+    "answer": "5",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of 9 and 1?",
+    "options": ["11", "10", "9"],
+    "answer": "10",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the square of 8?",
+    "options": ["72", "56", "64"],
+    "answer": "64",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of 10x?",
+    "options": ["1", "x", "10"],
+    "answer": "10",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 5^2?",
+    "options": ["20", "30", "25"],
+    "answer": "25",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 100 minus 50?",
+    "options": ["40", "60", "50"],
+    "answer": "50",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the perimeter of a rectangle with length 5 and width 3?",
+    "options": ["15", "18", "16"],
+    "answer": "16",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the area of a square with side length 6?",
+    "options": ["30", "42", "36"],
+    "answer": "36",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the mean of the set {1, 2, 3, 4, 5}?",
+    "options": ["2", "4", "3"],
+    "answer": "3",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the result of 8 + 8?",
+    "options": ["14", "18", "16"],
+    "answer": "16",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the product of 5 and 7?",
+    "options": ["30", "40", "35"],
+    "answer": "35",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the square root of 36?",
+    "options": ["7", "8", "6"],
+    "answer": "6",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 2 plus 2?",
+    "options": ["3", "5", "4"],
+    "answer": "4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of 12x?",
+    "options": ["x", "1", "12"],
+    "answer": "12",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of 11 and 11?",
+    "options": ["21", "24", "22"],
+    "answer": "22",
+    "category": "Mathematics & Statistics"
+  },
+   {
+     "question": "What gas do plants absorb from the atmosphere?",
+     "options": ["Oxygen", "Carbon dioxide", "Nitrogen"],
+     "answer": "Carbon dioxide",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which layer of the Earth is responsible for generating its magnetic field?",
+     "options": ["Outer Core", "Inner Core", "Mantle"],
+     "answer": "Outer Core",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the process by which water changes from liquid to gas?",
+     "options": ["Condensation", "Evaporation", "Precipitation"],
+     "answer": "Evaporation",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which of the following is a renewable energy source?",
+     "options": ["Coal", "Solar", "Natural gas"],
+     "answer": "Solar",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the primary cause of ocean tides?",
+     "options": ["Wind", "Moon's gravitational pull", "Earth’s rotation"],
+     "answer": "Moon's gravitational pull",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is acid rain primarily caused by?",
+     "options": ["Sulfur dioxide and nitrogen oxides", "Carbon monoxide", "Methane"],
+     "answer": "Sulfur dioxide and nitrogen oxides",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which of these is a greenhouse gas?",
+     "options": ["Carbon dioxide", "Oxygen", "Argon"],
+     "answer": "Carbon dioxide",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What term describes the variety of life on Earth?",
+     "options": ["Biodiversity", "Ecosystem", "Biosphere"],
+     "answer": "Biodiversity",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What layer of the Earth is the crust?",
+     "options": ["Outer thin layer", "Middle layer", "Inner core"],
+     "answer": "Outer thin layer",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the main source of energy for Earth's climate system?",
+     "options": ["The Sun", "Earth's core", "Ocean currents"],
+     "answer": "The Sun",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process involves the breaking down of rocks into smaller pieces?",
+     "options": ["Erosion", "Sublimation", "Fusion"],
+     "answer": "Erosion",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for the long-term average of weather in a region?",
+     "options": ["Climate", "Weather", "Season"],
+     "answer": "Climate",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which phenomenon is responsible for the distribution of heat around the Earth?",
+     "options": ["Ocean currents", "Tectonic shifts", "Volcanic activity"],
+     "answer": "Ocean currents",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the primary cause of Earth's seasons?",
+     "options": ["Earth's tilt", "Distance from the sun", "Earth's rotation"],
+     "answer": "Earth's tilt",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which natural event is measured using the Richter scale?",
+     "options": ["Earthquakes", "Hurricanes", "Tornadoes"],
+     "answer": "Earthquakes",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What do we call the study of Earth's physical structure and substance?",
+     "options": ["Geology", "Astronomy", "Biology"],
+     "answer": "Geology",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process turns rocks into soil?",
+     "options": ["Weathering", "Condensation", "Combustion"],
+     "answer": "Weathering",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What term describes the continuous movement of water on, above, and below the Earth's surface?",
+     "options": ["Water cycle", "Carbon cycle", "Nitrogen cycle"],
+     "answer": "Water cycle",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which gas contributes most to global warming?",
+     "options": ["Water vapor", "Carbon dioxide", "Nitrogen"],
+     "answer": "Carbon dioxide",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What phenomenon causes the Northern Lights?",
+     "options": ["Solar wind interacting with Earth's magnetic field", "Volcanic eruptions", "Ocean tides"],
+     "answer": "Solar wind interacting with Earth's magnetic field",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for water in its solid state?",
+     "options": ["Vapor", "Liquid", "Ice"],
+     "answer": "Ice",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for a large body of ice slowly moving over land?",
+     "options": ["Glacier", "Iceberg", "Snowfield"],
+     "answer": "Glacier",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the major component of Earth's atmosphere?",
+     "options": ["Nitrogen", "Oxygen", "Carbon dioxide"],
+     "answer": "Nitrogen",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What kind of rock forms from cooled lava?",
+     "options": ["Igneous", "Sedimentary", "Metamorphic"],
+     "answer": "Igneous",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which layer of the atmosphere is closest to Earth?",
+     "options": ["Troposphere", "Stratosphere", "Mesosphere"],
+     "answer": "Troposphere",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the primary factor influencing Earth's climate zones?",
+     "options": ["Latitude", "Altitude", "Ocean depth"],
+     "answer": "Latitude",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which renewable resource is harnessed from the Earth's heat?",
+     "options": ["Geothermal energy", "Solar energy", "Wind energy"],
+     "answer": "Geothermal energy",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What does the term 'biodiversity hotspot' refer to?",
+     "options": ["A region with significant levels of biodiversity under threat", "A park with many animals", "An area with active volcanoes"],
+     "answer": "A region with significant levels of biodiversity under threat",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the process of converting waste materials into new products?",
+     "options": ["Recycling", "Combustion", "Decomposition"],
+     "answer": "Recycling",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which of the following is a consequence of deforestation?",
+     "options": ["Loss of biodiversity", "Increase in marine life", "Higher oxygen levels"],
+     "answer": "Loss of biodiversity",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which natural process helps to purify water in wetlands?",
+     "options": ["Filtration", "Distillation", "Sublimation"],
+     "answer": "Filtration",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What phenomenon describes the layering of different water densities in oceans?",
+     "options": ["Thermocline", "Isotherm", "Hydrothermal vent"],
+     "answer": "Thermocline",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What causes the Coriolis effect?",
+     "options": ["Earth's rotation", "Ocean currents", "Magnetic fields"],
+     "answer": "Earth's rotation",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which is a method of soil conservation?",
+     "options": ["Crop rotation", "Deforestation", "Overgrazing"],
+     "answer": "Crop rotation",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What do we call the process of converting carbon dioxide into organic compounds?",
+     "options": ["Photosynthesis", "Respiration", "Fermentation"],
+     "answer": "Photosynthesis",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which atmospheric layer contains the ozone layer?",
+     "options": ["Stratosphere", "Troposphere", "Thermosphere"],
+     "answer": "Stratosphere",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for the warming of Earth's surface due to greenhouse gases?",
+     "options": ["Global warming", "Deforestation", "Acid rain"],
+     "answer": "Global warming",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process removes carbon dioxide from the atmosphere?",
+     "options": ["Photosynthesis", "Erosion", "Evaporation"],
+     "answer": "Photosynthesis",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for an extremely rare and valuable geological mineral?",
+     "options": ["Diamond", "Granite", "Marble"],
+     "answer": "Diamond",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which factor is most responsible for soil formation?",
+     "options": ["Weathering of rocks", "Volcanic eruptions", "Earthquakes"],
+     "answer": "Weathering of rocks",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What natural process results in the formation of a delta?",
+     "options": ["Sediment deposition", "Erosion", "Volcanic activity"],
+     "answer": "Sediment deposition",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which of these is considered a non-renewable energy resource?",
+     "options": ["Natural gas", "Solar power", "Wind energy"],
+     "answer": "Natural gas",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for harmful substances released into the environment?",
+     "options": ["Pollutants", "Nutrients", "Inert compounds"],
+     "answer": "Pollutants",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What environmental process can remove nitrogen from water?",
+     "options": ["Denitrification", "Photosynthesis", "Respiration"],
+     "answer": "Denitrification",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which ocean is the largest on Earth?",
+     "options": ["Pacific", "Atlantic", "Indian"],
+     "answer": "Pacific",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the main cause of coral bleaching?",
+     "options": ["Rising water temperatures", "Overfishing", "Salinity changes"],
+     "answer": "Rising water temperatures",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the primary process for rock recycling on Earth?",
+     "options": ["Plate tectonics", "Weathering", "Evaporation"],
+     "answer": "Plate tectonics",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which phenomenon results in sudden soil erosion on slopes?",
+     "options": ["Landslides", "Drought", "Flooding"],
+     "answer": "Landslides",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the process called where water vapor turns into liquid droplets?",
+     "options": ["Condensation", "Evaporation", "Sublimation"],
+     "answer": "Condensation",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which gas is most abundant in Earth's atmosphere?",
+     "options": ["Nitrogen", "Oxygen", "Carbon dioxide"],
+     "answer": "Nitrogen",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the name of the imaginary line dividing Earth into Northern and Southern Hemispheres?",
+     "options": ["Equator", "Prime Meridian", "Tropic of Cancer"],
+     "answer": "Equator",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which cycle is vital for nutrient replenishment in ecosystems?",
+     "options": ["Nitrogen cycle", "Solar cycle", "Lunar cycle"],
+     "answer": "Nitrogen cycle",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What type of energy is harnessed from moving water?",
+     "options": ["Hydroelectric", "Wind", "Nuclear"],
+     "answer": "Hydroelectric",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process describes the movement of Earth's tectonic plates?",
+     "options": ["Plate tectonics", "Erosion", "Photosynthesis"],
+     "answer": "Plate tectonics",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the main component of smog?",
+     "options": ["Ozone", "Carbon monoxide", "Sulfur dioxide"],
+     "answer": "Ozone",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which of these is a fossil fuel?",
+     "options": ["Coal", "Wind", "Solar"],
+     "answer": "Coal",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What do we call a large-scale natural event that causes significant environmental impact?",
+     "options": ["Disaster", "Event", "Cycle"],
+     "answer": "Disaster",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which factor contributes significantly to coastal erosion?",
+     "options": ["Wave action", "Cloud cover", "Solar flares"],
+     "answer": "Wave action",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for water infiltrating into the ground?",
+     "options": ["Percolation", "Precipitation", "Accumulation"],
+     "answer": "Percolation",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which natural resource is used to make paper?",
+     "options": ["Trees", "Coal", "Plastic"],
+     "answer": "Trees",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for an ecosystem's ability to withstand disturbances?",
+     "options": ["Resilience", "Vulnerability", "Sustainability"],
+     "answer": "Resilience",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which type of rock is formed by heat and pressure altering existing rock?",
+     "options": ["Metamorphic", "Igneous", "Sedimentary"],
+     "answer": "Metamorphic",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the most common type of soil found on Earth?",
+     "options": ["Loam", "Clay", "Sand"],
+     "answer": "Loam",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which phenomenon involves the Earth's surface being reshaped by natural forces?",
+     "options": ["Erosion", "Combustion", "Conduction"],
+     "answer": "Erosion",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the process of converting organic waste into nutrient-rich compost called?",
+     "options": ["Composting", "Recycling", "Distillation"],
+     "answer": "Composting",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which renewable resource is derived from organic materials?",
+     "options": ["Biomass", "Coal", "Oil"],
+     "answer": "Biomass",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What term describes the gradual increase in Earth's average temperature?",
+     "options": ["Global warming", "Ice age", "Continental drift"],
+     "answer": "Global warming",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which atmospheric phenomenon produces a colorful display in the polar regions?",
+     "options": ["Aurora", "Rainbow", "Lightning"],
+     "answer": "Aurora",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the process by which water seeps into the ground?",
+     "options": ["Infiltration", "Precipitation", "Radiation"],
+     "answer": "Infiltration",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which energy source is generated by harnessing the wind?",
+     "options": ["Wind energy", "Solar energy", "Biomass"],
+     "answer": "Wind energy",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process helps in the removal of pollutants from the atmosphere?",
+     "options": ["Rainfall washout", "Erosion", "Evaporation"],
+     "answer": "Rainfall washout",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the primary cause of seasonal rainfall patterns?",
+     "options": ["Monsoons", "Tidal forces", "Plate tectonics"],
+     "answer": "Monsoons",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for the study of Earth's weather patterns?",
+     "options": ["Climatology", "Geology", "Astronomy"],
+     "answer": "Climatology",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process involves the transformation of water from a gas directly into a solid?",
+     "options": ["Deposition", "Sublimation", "Condensation"],
+     "answer": "Deposition",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What natural event is responsible for creating many of Earth's mountains?",
+     "options": ["Plate tectonics", "Erosion", "Precipitation"],
+     "answer": "Plate tectonics",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process refers to the breakdown of rocks by chemical reactions?",
+     "options": ["Chemical weathering", "Physical weathering", "Erosion"],
+     "answer": "Chemical weathering",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for a species that plays a critical role in maintaining the structure of an ecosystem?",
+     "options": ["Keystone species", "Invasive species", "Endemic species"],
+     "answer": "Keystone species",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process involves the absorption of sunlight to produce energy in plants?",
+     "options": ["Photosynthesis", "Respiration", "Transpiration"],
+     "answer": "Photosynthesis",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the primary driver behind ocean currents?",
+     "options": ["Wind", "Tides", "Earth's magnetic field"],
+     "answer": "Wind",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which natural disaster is characterized by a sudden and violent shaking of the ground?",
+     "options": ["Earthquake", "Tsunami", "Hurricane"],
+     "answer": "Earthquake",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the process by which water evaporates from plants called?",
+     "options": ["Transpiration", "Evaporation", "Condensation"],
+     "answer": "Transpiration",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which of these is an example of a sedimentary rock?",
+     "options": ["Sandstone", "Basalt", "Marble"],
+     "answer": "Sandstone",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What do we call a large system of interconnected rivers and lakes?",
+     "options": ["Watershed", "Estuary", "Delta"],
+     "answer": "Watershed",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process involves the mixing of different layers in the ocean?",
+     "options": ["Upwelling", "Subduction", "Folding"],
+     "answer": "Upwelling",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the main cause of the urban heat island effect?",
+     "options": ["Human activities", "Volcanic eruptions", "Earthquakes"],
+     "answer": "Human activities",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which phenomenon describes the change in the direction of a moving object caused by Earth's rotation?",
+     "options": ["Coriolis effect", "Gravity", "Friction"],
+     "answer": "Coriolis effect",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the process by which water is absorbed by plant roots?",
+     "options": ["Absorption", "Photosynthesis", "Evaporation"],
+     "answer": "Absorption",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which factor is most influential in determining a region's climate?",
+     "options": ["Latitude", "Altitude", "Proximity to water"],
+     "answer": "Latitude",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What type of pollution is caused by excess nutrients in water bodies?",
+     "options": ["Eutrophication", "Smog", "Acid rain"],
+     "answer": "Eutrophication",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which of the following is a major cause of soil degradation?",
+     "options": ["Overgrazing", "Photosynthesis", "Recycling"],
+     "answer": "Overgrazing",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for the protective layer around Earth that absorbs harmful UV radiation?",
+     "options": ["Ozone layer", "Magnetosphere", "Stratosphere"],
+     "answer": "Ozone layer",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process refers to the conversion of water from solid to gas without becoming liquid?",
+     "options": ["Sublimation", "Deposition", "Condensation"],
+     "answer": "Sublimation",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the name of the supercontinent that existed millions of years ago?",
+     "options": ["Pangaea", "Gondwana", "Laurasia"],
+     "answer": "Pangaea",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process leads to the formation of sedimentary rocks?",
+     "options": ["Lithification", "Erosion", "Melting"],
+     "answer": "Lithification",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the effect called when the ocean absorbs more carbon dioxide?",
+     "options": ["Ocean acidification", "Global warming", "Deforestation"],
+     "answer": "Ocean acidification",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which energy source relies on harnessing heat from Earth's interior?",
+     "options": ["Geothermal energy", "Solar energy", "Wind energy"],
+     "answer": "Geothermal energy",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What natural phenomenon is responsible for the scattering of sunlight, giving the sky its color?",
+     "options": ["Rayleigh scattering", "Diffraction", "Reflection"],
+     "answer": "Rayleigh scattering",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process involves the breakdown of organic matter in the absence of oxygen?",
+     "options": ["Anaerobic decomposition", "Photosynthesis", "Combustion"],
+     "answer": "Anaerobic decomposition",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for water vapor in the air?",
+     "options": ["Humidity", "Pressure", "Temperature"],
+     "answer": "Humidity",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which type of cloud is associated with thunderstorms?",
+     "options": ["Cumulonimbus", "Cirrus", "Stratus"],
+     "answer": "Cumulonimbus",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which of the following best describes an ecosystem?",
+     "options": ["A community of living organisms interacting with their environment", "A group of similar species living in isolation", "A random collection of plants"],
+     "answer": "A community of living organisms interacting with their environment",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for the energy stored in an object due to its position?",
+     "options": ["Potential energy", "Kinetic energy", "Thermal energy"],
+     "answer": "Potential energy",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process in the water cycle involves water droplets falling from clouds?",
+     "options": ["Precipitation", "Evaporation", "Transpiration"],
+     "answer": "Precipitation",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the natural process by which landscapes are shaped over time?",
+     "options": ["Erosion", "Condensation", "Fusion"],
+     "answer": "Erosion",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which layer of the Earth is composed mostly of solid iron and nickel?",
+     "options": ["Inner core", "Outer core", "Crust"],
+     "answer": "Inner core",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the process by which plants release water vapor called?",
+     "options": ["Transpiration", "Respiration", "Photosynthesis"],
+     "answer": "Transpiration",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which type of energy is generated by harnessing Earth's gravitational pull on water?",
+     "options": ["Hydroelectric energy", "Solar energy", "Biomass"],
+     "answer": "Hydroelectric energy",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for a boundary where two tectonic plates meet?",
+     "options": ["Fault line", "Magma chamber", "Volcano"],
+     "answer": "Fault line",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process describes the gradual wearing away of Earth's surface by natural forces?",
+     "options": ["Weathering", "Sublimation", "Tectonics"],
+     "answer": "Weathering",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the primary cause of the formation of desert landscapes?",
+     "options": ["Lack of precipitation", "Excessive rainfall", "Erosion"],
+     "answer": "Lack of precipitation",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process describes the cooling and solidification of magma?",
+     "options": ["Crystallization", "Erosion", "Condensation"],
+     "answer": "Crystallization",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for the constant movement of Earth's surface plates?",
+     "options": ["Plate tectonics", "Subduction", "Convection"],
+     "answer": "Plate tectonics",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which of these is a natural method for water purification?",
+     "options": ["Filtration through soil", "Industrial processing", "Chemical treatment"],
+     "answer": "Filtration through soil",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the process by which mountains are gradually worn down by weathering called?",
+     "options": ["Erosion", "Condensation", "Transpiration"],
+     "answer": "Erosion",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which phenomenon is primarily responsible for the distribution of Earth's heat?",
+     "options": ["Ocean currents", "Continental drift", "Earthquakes"],
+     "answer": "Ocean currents",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the process of water moving through plant tissues called?",
+     "options": ["Transpiration", "Absorption", "Diffusion"],
+     "answer": "Transpiration",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which energy source harnesses power from sunlight?",
+     "options": ["Solar energy", "Fossil fuels", "Geothermal energy"],
+     "answer": "Solar energy",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for a naturally occurring, solid aggregate of minerals?",
+     "options": ["Rock", "Soil", "Fossil"],
+     "answer": "Rock",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which type of rock is formed by sediment deposition and compaction?",
+     "options": ["Sedimentary", "Igneous", "Metamorphic"],
+     "answer": "Sedimentary",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What process describes the release of water from Earth's surface into the atmosphere?",
+     "options": ["Evaporation", "Infiltration", "Condensation"],
+     "answer": "Evaporation",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which gas is most responsible for trapping heat in Earth's atmosphere?",
+     "options": ["Carbon dioxide", "Oxygen", "Nitrogen"],
+     "answer": "Carbon dioxide",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which of the following best describes a watershed?",
+     "options": ["An area of land where all the water drains to a common outlet", "A river's source", "A type of water pollution"],
+     "answer": "An area of land where all the water drains to a common outlet",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for the accumulation of greenhouse gases in the atmosphere?",
+     "options": ["Greenhouse effect", "Ozone depletion", "Acid rain"],
+     "answer": "Greenhouse effect",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which phenomenon refers to a significant increase in Earth's surface temperature?",
+     "options": ["Global warming", "Local cooling", "Geothermal heating"],
+     "answer": "Global warming",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the process by which water from the surface soaks into the ground?",
+     "options": ["Infiltration", "Precipitation", "Transpiration"],
+     "answer": "Infiltration",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which natural resource is essential for photosynthesis?",
+     "options": ["Sunlight", "Fossil fuels", "Minerals"],
+     "answer": "Sunlight",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What term describes a large-scale, long-term shift in weather patterns?",
+     "options": ["Climate change", "Weather variation", "Seasonal shift"],
+     "answer": "Climate change",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which of these is a major component of acid rain?",
+     "options": ["Sulfur dioxide", "Oxygen", "Argon"],
+     "answer": "Sulfur dioxide",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the study of soil called?",
+     "options": ["Pedology", "Botany", "Zoology"],
+     "answer": "Pedology",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process is responsible for the natural recycling of nutrients in ecosystems?",
+     "options": ["Decomposition", "Combustion", "Crystallization"],
+     "answer": "Decomposition",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the main cause of water pollution in rivers?",
+     "options": ["Industrial waste", "Solar radiation", "Wind erosion"],
+     "answer": "Industrial waste",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which type of energy does wind turbines generate?",
+     "options": ["Wind energy", "Thermal energy", "Nuclear energy"],
+     "answer": "Wind energy",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the primary source of energy for the water cycle?",
+     "options": ["The Sun", "The Moon", "Earth's core"],
+     "answer": "The Sun",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process describes the conversion of solid directly to gas?",
+     "options": ["Sublimation", "Condensation", "Deposition"],
+     "answer": "Sublimation",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What term is used to describe the variety of species in an ecosystem?",
+     "options": ["Biodiversity", "Monoculture", "Biome"],
+     "answer": "Biodiversity",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which environmental issue is associated with excessive use of fertilizers?",
+     "options": ["Eutrophication", "Desertification", "Deforestation"],
+     "answer": "Eutrophication",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the primary cause of deforestation?",
+     "options": ["Logging and agriculture", "Volcanic eruptions", "Urbanization"],
+     "answer": "Logging and agriculture",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process helps restore degraded soil by adding organic matter?",
+     "options": ["Composting", "Mining", "Urbanization"],
+     "answer": "Composting",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What phenomenon results in the loss of fertile topsoil?",
+     "options": ["Soil erosion", "Photosynthesis", "Precipitation"],
+     "answer": "Soil erosion",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which natural phenomenon can cause both floods and droughts?",
+     "options": ["El Niño", "Tectonic uplift", "Volcanic eruption"],
+     "answer": "El Niño",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for a long period of abnormally low rainfall?",
+     "options": ["Drought", "Flood", "Tsunami"],
+     "answer": "Drought",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which natural event is characterized by a sudden release of energy in the Earth's crust?",
+     "options": ["Earthquake", "Volcano", "Tornado"],
+     "answer": "Earthquake",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the process of removing salt from seawater called?",
+     "options": ["Desalination", "Distillation", "Sublimation"],
+     "answer": "Desalination",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which atmospheric phenomenon is most associated with high altitudes?",
+     "options": ["Thin air", "High pressure", "High humidity"],
+     "answer": "Thin air",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the main reason for seasonal changes in daylight?",
+     "options": ["Earth's tilt", "Earth's distance from the sun", "Cloud cover"],
+     "answer": "Earth's tilt",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process converts organic waste into energy in anaerobic conditions?",
+     "options": ["Anaerobic digestion", "Combustion", "Photosynthesis"],
+     "answer": "Anaerobic digestion",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for the layer of water with a rapid temperature change?",
+     "options": ["Thermocline", "Halocline", "Pycnocline"],
+     "answer": "Thermocline",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which of the following is an effect of rising sea levels?",
+     "options": ["Coastal flooding", "Increased mountain formation", "Reduced rainfall"],
+     "answer": "Coastal flooding",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What term describes the conversion of atmospheric nitrogen into usable forms by bacteria?",
+     "options": ["Nitrogen fixation", "Denitrification", "Nitrification"],
+     "answer": "Nitrogen fixation",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which energy resource is considered the cleanest form of fossil fuel?",
+     "options": ["Natural gas", "Coal", "Oil"],
+     "answer": "Natural gas",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the process called when water changes from liquid to solid?",
+     "options": ["Freezing", "Melting", "Evaporation"],
+     "answer": "Freezing",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which gas is a significant component of acid rain formation?",
+     "options": ["Nitrogen oxides", "Helium", "Neon"],
+     "answer": "Nitrogen oxides",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What phenomenon is described by a rapid change in weather conditions?",
+     "options": ["Weather front", "Microclimate", "Atmospheric pressure"],
+     "answer": "Weather front",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which natural process is responsible for replenishing groundwater supplies?",
+     "options": ["Infiltration", "Runoff", "Evaporation"],
+     "answer": "Infiltration",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for the study of the interactions between organisms and their environment?",
+     "options": ["Ecology", "Geology", "Astronomy"],
+     "answer": "Ecology",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process describes the gradual breakdown of rocks into soil?",
+     "options": ["Weathering", "Erosion", "Deposition"],
+     "answer": "Weathering",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the phenomenon called when the Earth's surface absorbs and re-radiates heat?",
+     "options": ["Greenhouse effect", "Albedo effect", "Convection"],
+     "answer": "Greenhouse effect",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which layer of the atmosphere protects us from most ultraviolet radiation?",
+     "options": ["Ozone layer", "Troposphere", "Mesosphere"],
+     "answer": "Ozone layer",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for harmful bacteria and chemicals entering water supplies?",
+     "options": ["Water contamination", "Water clarity", "Water recycling"],
+     "answer": "Water contamination",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which natural process involves the movement of sediment by wind?",
+     "options": ["Aeolian transport", "Fluvial transport", "Glacial movement"],
+     "answer": "Aeolian transport",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What do we call a large-scale weather pattern that can alter global climate?",
+     "options": ["Climate oscillation", "Local weather", "Seasonal shift"],
+     "answer": "Climate oscillation",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which of the following best describes renewable energy?",
+     "options": ["Energy from sources that are naturally replenished", "Energy from fossil fuels", "Energy from nuclear reactions"],
+     "answer": "Energy from sources that are naturally replenished",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the process by which water vapor becomes liquid water?",
+     "options": ["Condensation", "Precipitation", "Sublimation"],
+     "answer": "Condensation",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which natural event is known for triggering wildfires in forests?",
+     "options": ["Lightning", "Rain", "Fog"],
+     "answer": "Lightning",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for the chemical process by which plants convert light energy into chemical energy?",
+     "options": ["Photosynthesis", "Respiration", "Transpiration"],
+     "answer": "Photosynthesis",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which gas is released by plants during photosynthesis?",
+     "options": ["Oxygen", "Carbon dioxide", "Nitrogen"],
+     "answer": "Oxygen",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What phenomenon describes the movement of water from areas of high concentration to low concentration?",
+     "options": ["Diffusion", "Conduction", "Radiation"],
+     "answer": "Diffusion",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process occurs when water vapor directly becomes ice?",
+     "options": ["Deposition", "Sublimation", "Condensation"],
+     "answer": "Deposition",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What term describes an extreme increase in the salinity of ocean water?",
+     "options": ["Salinization", "Desalination", "Eutrophication"],
+     "answer": "Salinization",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process is crucial for forming sedimentary rock layers?",
+     "options": ["Lithification", "Melting", "Crystallization"],
+     "answer": "Lithification",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the primary cause of soil salinization?",
+     "options": ["Irrigation practices", "Deforestation", "Urbanization"],
+     "answer": "Irrigation practices",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which atmospheric phenomenon occurs when dust is lifted high into the air?",
+     "options": ["Dust storm", "Rain shower", "Snow flurry"],
+     "answer": "Dust storm",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for a region with little precipitation?",
+     "options": ["Desert", "Rainforest", "Tundra"],
+     "answer": "Desert",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which renewable resource is harnessed from plant materials?",
+     "options": ["Biomass", "Natural gas", "Coal"],
+     "answer": "Biomass",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What process describes the breakdown of rocks by physical forces?",
+     "options": ["Mechanical weathering", "Chemical weathering", "Biological weathering"],
+     "answer": "Mechanical weathering",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which phenomenon causes the Earth's magnetic field?",
+     "options": ["Movements in the outer core", "Solar flares", "Atmospheric pressure"],
+     "answer": "Movements in the outer core",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for water found underground?",
+     "options": ["Groundwater", "Surface water", "Vapor"],
+     "answer": "Groundwater",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process describes the movement of water from the soil to the atmosphere?",
+     "options": ["Evapotranspiration", "Precipitation", "Condensation"],
+     "answer": "Evapotranspiration",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the study of Earth's physical history and materials called?",
+     "options": ["Geology", "Biology", "Meteorology"],
+     "answer": "Geology",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which layer of the Earth contains most of its mass?",
+     "options": ["Mantle", "Crust", "Outer core"],
+     "answer": "Mantle",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What phenomenon is responsible for the scattering of light in the sky?",
+     "options": ["Rayleigh scattering", "Mie scattering", "Tyndall effect"],
+     "answer": "Rayleigh scattering",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process describes the release of energy from Earth's interior as heat?",
+     "options": ["Geothermal activity", "Solar radiation", "Atmospheric circulation"],
+     "answer": "Geothermal activity",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the main cause of the urban heat island effect?",
+     "options": ["Heat absorption by buildings", "Volcanic activity", "Ocean currents"],
+     "answer": "Heat absorption by buildings",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which renewable energy resource harnesses heat from the sun?",
+     "options": ["Solar energy", "Nuclear energy", "Fossil fuels"],
+     "answer": "Solar energy",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What term describes the movement of tectonic plates?",
+     "options": ["Plate tectonics", "Erosion", "Conduction"],
+     "answer": "Plate tectonics",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process involves the release of water vapor from leaves?",
+     "options": ["Transpiration", "Photosynthesis", "Condensation"],
+     "answer": "Transpiration",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What phenomenon is characterized by a rotating column of air?",
+     "options": ["Tornado", "Hurricane", "Earthquake"],
+     "answer": "Tornado",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process involves the deposition of sediments carried by water?",
+     "options": ["Alluvial deposition", "Evaporation", "Sublimation"],
+     "answer": "Alluvial deposition",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the process called when rainwater filters through the soil?",
+     "options": ["Percolation", "Runoff", "Condensation"],
+     "answer": "Percolation",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which environmental process recycles nutrients in ecosystems?",
+     "options": ["Decomposition", "Photosynthesis", "Erosion"],
+     "answer": "Decomposition",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for the chemical weathering of rocks due to acid rain?",
+     "options": ["Carbonation", "Oxidation", "Hydrolysis"],
+     "answer": "Carbonation",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process describes the slow movement of glaciers?",
+     "options": ["Glacial flow", "Sublimation", "Deposition"],
+     "answer": "Glacial flow",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the process called when water vapor bypasses the liquid phase and becomes ice?",
+     "options": ["Deposition", "Freezing", "Condensation"],
+     "answer": "Deposition",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which phenomenon describes the large-scale movement of air masses?",
+     "options": ["Atmospheric circulation", "Ocean currents", "Plate tectonics"],
+     "answer": "Atmospheric circulation",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for a period of unusually high temperatures?",
+     "options": ["Heatwave", "Cold snap", "Drought"],
+     "answer": "Heatwave",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process is the main driver of the rock cycle?",
+     "options": ["Weathering and erosion", "Photosynthesis", "Combustion"],
+     "answer": "Weathering and erosion",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What term describes a sudden increase in water flow in a river?",
+     "options": ["Flood", "Drought", "Tsunami"],
+     "answer": "Flood",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which gas is released during volcanic eruptions and contributes to climate change?",
+     "options": ["Sulfur dioxide", "Nitrogen", "Helium"],
+     "answer": "Sulfur dioxide",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the process by which water evaporates from the surface of a plant?",
+     "options": ["Transpiration", "Infiltration", "Precipitation"],
+     "answer": "Transpiration",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which environmental issue is caused by the accumulation of pollutants in water bodies?",
+     "options": ["Eutrophication", "Acid rain", "Deforestation"],
+     "answer": "Eutrophication",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for the natural process of converting waste into organic fertilizer?",
+     "options": ["Composting", "Recycling", "Distillation"],
+     "answer": "Composting",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which phenomenon describes the reflection and scattering of sunlight by the atmosphere?",
+     "options": ["Albedo effect", "Photosynthesis", "Transpiration"],
+     "answer": "Albedo effect",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the process by which sediments settle out of water called?",
+     "options": ["Sedimentation", "Erosion", "Combustion"],
+     "answer": "Sedimentation",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which natural event occurs when there is a sudden and rapid shift in the Earth's surface?",
+     "options": ["Earthquake", "Volcanic eruption", "Hurricane"],
+     "answer": "Earthquake",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for the gradual wearing away of land by water?",
+     "options": ["Erosion", "Deposition", "Sublimation"],
+     "answer": "Erosion",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which phenomenon causes the differential heating of Earth's surface?",
+     "options": ["Albedo", "Greenhouse effect", "Solar radiation"],
+     "answer": "Albedo",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What process describes the conversion of rock into soil?",
+     "options": ["Weathering", "Melting", "Condensation"],
+     "answer": "Weathering",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which renewable energy technology converts sunlight directly into electricity?",
+     "options": ["Solar panels", "Wind turbines", "Geothermal plants"],
+     "answer": "Solar panels",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for a natural satellite orbiting a planet?",
+     "options": ["Moon", "Comet", "Asteroid"],
+     "answer": "Moon",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process involves the breakdown of organic matter under oxygen-free conditions?",
+     "options": ["Anaerobic digestion", "Photosynthesis", "Combustion"],
+     "answer": "Anaerobic digestion",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the primary factor in the formation of coastal landforms?",
+     "options": ["Wave action", "Wind erosion", "Tectonic uplift"],
+     "answer": "Wave action",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which phenomenon describes a long-term trend in Earth's climate?",
+     "options": ["Climate change", "Weather", "Microclimate"],
+     "answer": "Climate change",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for the amount of light reflected by a surface?",
+     "options": ["Albedo", "Humidity", "Precipitation"],
+     "answer": "Albedo",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process describes the natural breakdown of organic material?",
+     "options": ["Decomposition", "Photosynthesis", "Erosion"],
+     "answer": "Decomposition",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for the thin layer of gases surrounding Earth?",
+     "options": ["Atmosphere", "Lithosphere", "Biosphere"],
+     "answer": "Atmosphere",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which phenomenon describes the cyclic movement of water within the Earth?",
+     "options": ["Water cycle", "Carbon cycle", "Nitrogen cycle"],
+     "answer": "Water cycle",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the process called when water from precipitation infiltrates into the ground?",
+     "options": ["Recharge", "Runoff", "Transpiration"],
+     "answer": "Recharge",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which environmental issue is associated with the excessive use of water resources?",
+     "options": ["Water scarcity", "Air pollution", "Deforestation"],
+     "answer": "Water scarcity",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for the melting of glaciers due to rising temperatures?",
+     "options": ["Glacial retreat", "Ice formation", "Sedimentation"],
+     "answer": "Glacial retreat",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process converts solar energy into chemical energy in plants?",
+     "options": ["Photosynthesis", "Respiration", "Fermentation"],
+     "answer": "Photosynthesis",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for a large, naturally occurring community of flora and fauna?",
+     "options": ["Ecosystem", "Biodiversity", "Habitat"],
+     "answer": "Ecosystem",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process describes the removal of minerals from rocks by water?",
+     "options": ["Leaching", "Sublimation", "Fusion"],
+     "answer": "Leaching",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the primary factor in soil formation?",
+     "options": ["Weathering of rocks", "Combustion", "Photosynthesis"],
+     "answer": "Weathering of rocks",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process in the water cycle involves water vapor turning into liquid?",
+     "options": ["Condensation", "Precipitation", "Transpiration"],
+     "answer": "Condensation",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for an unusually high concentration of salt in soil?",
+     "options": ["Salinization", "Desalination", "Eutrophication"],
+     "answer": "Salinization",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which phenomenon involves the natural conversion of solid water directly into vapor?",
+     "options": ["Sublimation", "Evaporation", "Condensation"],
+     "answer": "Sublimation",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the primary cause of acid rain?",
+     "options": ["Emissions of sulfur dioxide and nitrogen oxides", "Carbon dioxide emissions", "Methane emissions"],
+     "answer": "Emissions of sulfur dioxide and nitrogen oxides",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process describes the formation of rocks through heat and pressure?",
+     "options": ["Metamorphism", "Weathering", "Erosion"],
+     "answer": "Metamorphism",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for the study of Earth's atmosphere?",
+     "options": ["Meteorology", "Geology", "Biology"],
+     "answer": "Meteorology",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which phenomenon is known for a significant drop in air pressure leading to storm formation?",
+     "options": ["Cyclone", "Tornado", "Earthquake"],
+     "answer": "Cyclone",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What process describes the absorption of water by soil particles?",
+     "options": ["Adsorption", "Evaporation", "Transpiration"],
+     "answer": "Adsorption",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process in the water cycle refers to water flowing over the land's surface?",
+     "options": ["Runoff", "Infiltration", "Percolation"],
+     "answer": "Runoff",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for the conversion of atmospheric nitrogen into ammonia?",
+     "options": ["Nitrogen fixation", "Nitrification", "Denitrification"],
+     "answer": "Nitrogen fixation",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which natural process is responsible for the formation of coastal landforms like barrier islands?",
+     "options": ["Longshore drift", "Plate tectonics", "Erosion"],
+     "answer": "Longshore drift",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for the measure of the amount of water in the air?",
+     "options": ["Humidity", "Temperature", "Pressure"],
+     "answer": "Humidity",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which phenomenon is responsible for the scattering of shorter wavelengths of light, making the sky appear blue?",
+     "options": ["Rayleigh scattering", "Mie scattering", "Diffraction"],
+     "answer": "Rayleigh scattering",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What process converts waste organic material into fertilizer?",
+     "options": ["Composting", "Sublimation", "Precipitation"],
+     "answer": "Composting",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which environmental issue is characterized by the excessive accumulation of greenhouse gases?",
+     "options": ["Climate change", "Ozone depletion", "Acid rain"],
+     "answer": "Climate change",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the process of converting solid water directly into water vapor called?",
+     "options": ["Sublimation", "Melting", "Evaporation"],
+     "answer": "Sublimation",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which renewable energy resource harnesses the power of moving water?",
+     "options": ["Hydroelectric energy", "Fossil fuels", "Nuclear energy"],
+     "answer": "Hydroelectric energy",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for the study of interactions between living organisms and their environment?",
+     "options": ["Ecology", "Meteorology", "Geology"],
+     "answer": "Ecology",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process in nature breaks down organic matter into simpler compounds?",
+     "options": ["Decomposition", "Fusion", "Sublimation"],
+     "answer": "Decomposition",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for the region of the Earth that is not permanently covered by ice?",
+     "options": ["Temperate zone", "Polar zone", "Arctic zone"],
+     "answer": "Temperate zone",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process describes the mixing of different water masses in the ocean?",
+     "options": ["Upwelling", "Eutrophication", "Sublimation"],
+     "answer": "Upwelling",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the phenomenon called when the Earth's temperature rises due to trapped heat?",
+     "options": ["Greenhouse effect", "Global cooling", "Ozone depletion"],
+     "answer": "Greenhouse effect",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process describes the movement of water from the Earth's surface into the atmosphere?",
+     "options": ["Evaporation", "Transpiration", "Condensation"],
+     "answer": "Evaporation",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for a period of abnormally high or low temperature in a region?",
+     "options": ["Temperature anomaly", "Climate change", "Microclimate"],
+     "answer": "Temperature anomaly",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process describes the breaking down of rocks into smaller particles by wind?",
+     "options": ["Abrasion", "Condensation", "Sublimation"],
+     "answer": "Abrasion",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "What is the term for a natural event that causes significant environmental change, such as a volcanic eruption?",
+     "options": ["Catastrophe", "Phenomenon", "Occurrence"],
+     "answer": "Catastrophe",
+     "category": "Earth & Environmental Science"
+   },
+   {
+     "question": "Which process describes the deposition of sediment at the mouth of a river?",
+     "options": ["Delta formation", "Erosion", "Sublimation"],
+     "answer": "Delta formation",
+     "category": "Earth & Environmental Science"
+   }
+ ]

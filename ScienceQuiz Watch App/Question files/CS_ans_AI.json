@@ -1,0 +1,1004 @@
+[
+  {
+    "question": "Who is considered the father of computer science?",
+    "options": ["Charles Babbage", "Alan Turing", "Ada Lovelace"],
+    "answer": "Alan Turing",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the name of the theoretical machine proposed by Alan Turing that laid the foundation for modern computing?",
+    "options": ["Finite Automaton", "Turing Machine", "Von Neumann Machine"],
+    "answer": "Turing Machine",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which programming language is known for its readability and is popular in artificial intelligence research?",
+    "options": ["Java", "Python", "C++"],
+    "answer": "Python",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'AI' stand for in computer science?",
+    "options": ["Artificial Intelligence", "Artificial Integration", "Automated Instruction"],
+    "answer": "Artificial Intelligence",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does CPU stand for?",
+    "options": ["Computer Personal Unit", "Central Processing Unit", "Central Programming Unit"],
+    "answer": "Central Processing Unit",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which algorithm is used to find the shortest path between nodes in a graph?",
+    "options": ["Merge Sort", "Dijkstra's Algorithm", "Bubble Sort"],
+    "answer": "Dijkstra's Algorithm",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the term for a program that can replicate itself across computers without user intervention?",
+    "options": ["Trojan", "Spyware", "Worm"],
+    "answer": "Worm",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which company developed the deep learning framework TensorFlow?",
+    "options": ["Google", "Microsoft", "Facebook"],
+    "answer": "Google",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does GPU stand for?",
+    "options": ["General Processing Unit", "Graphical Performance Utility", "Graphics Processing Unit"],
+    "answer": "Graphics Processing Unit",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the primary function of an operating system?",
+    "options": ["Program applications", "Manage computer hardware and software resources", "Design computer hardware"],
+    "answer": "Manage computer hardware and software resources",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which data structure uses the First In, First Out (FIFO) principle?",
+    "options": ["Stack", "Queue", "Tree"],
+    "answer": "Queue",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which data structure is best described as a Last In, First Out (LIFO) structure?",
+    "options": ["Queue", "Graph", "Stack"],
+    "answer": "Stack",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does HTML stand for?",
+    "options": ["HyperText Markup Language", "HighText Machine Language", "Hyperlink and Text Markup Language"],
+    "answer": "HyperText Markup Language",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which sorting algorithm has an average time complexity of O(n log n) and is widely used?",
+    "options": ["Quick Sort", "Bubble Sort", "Selection Sort"],
+    "answer": "Quick Sort",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which programming paradigm is centered around objects and data rather than functions?",
+    "options": ["Procedural Programming", "Object-Oriented Programming", "Functional Programming"],
+    "answer": "Object-Oriented Programming",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Who invented the World Wide Web?",
+    "options": ["Tim Berners-Lee", "Bill Gates", "Steve Jobs"],
+    "answer": "Tim Berners-Lee",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which language is primarily used for statistical computing and graphics?",
+    "options": ["R", "Java", "C#"],
+    "answer": "R",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does SQL stand for?",
+    "options": ["Structured Query Language", "Simple Query Language", "Sequential Query Language"],
+    "answer": "Structured Query Language",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which algorithm is used for searching a sorted array by repeatedly dividing the search interval in half?",
+    "options": ["Linear Search", "Binary Search", "Hash Search"],
+    "answer": "Binary Search",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does API stand for?",
+    "options": ["Application Programming Interface", "Advanced Programming Internet", "Application Protocol Interface"],
+    "answer": "Application Programming Interface",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which computer scientist developed the concept of recursion?",
+    "options": ["Alonzo Church", "John McCarthy", "Alan Turing"],
+    "answer": "Alonzo Church",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the main concept behind neural networks in AI?",
+    "options": ["Decision trees", "Layers of interconnected nodes", "Genetic algorithms"],
+    "answer": "Layers of interconnected nodes",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which language is known as the backbone of web development?",
+    "options": ["CSS", "HTML", "JavaScript"],
+    "answer": "HTML",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept in computer science involves breaking a problem into smaller subproblems?",
+    "options": ["Recursion", "Abstraction", "Modularity"],
+    "answer": "Recursion",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the name of the process by which a computer system finds and corrects errors in its own code?",
+    "options": ["Compiling", "Debugging", "Interpreting"],
+    "answer": "Debugging",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is NOT a programming language?",
+    "options": ["Ruby", "Python", "Silicon"],
+    "answer": "Silicon",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does IDE stand for in software development?",
+    "options": ["Integrated Development Environment", "Internal Development Engine", "Interactive Development Extension"],
+    "answer": "Integrated Development Environment",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept describes a mistake or flaw in a computer program?",
+    "options": ["Feature", "Bug", "Patch"],
+    "answer": "Bug",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which protocol is used to securely browse the internet?",
+    "options": ["HTTP", "FTP", "HTTPS"],
+    "answer": "HTTPS",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is an example of an interpreted language?",
+    "options": ["C++", "Python", "Java"],
+    "answer": "Python",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the name given to a malicious software designed to harm or exploit any programmable device?",
+    "options": ["Antivirus", "Malware", "Firmware"],
+    "answer": "Malware",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which computer scientist is known for developing the LISP programming language?",
+    "options": ["Donald Knuth", "John McCarthy", "Edsger Dijkstra"],
+    "answer": "John McCarthy",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which data structure organizes data in a hierarchical tree format?",
+    "options": ["Linked List", "Graph", "Tree"],
+    "answer": "Tree",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does the term 'big data' refer to?",
+    "options": ["A type of computer hardware", "Extremely large data sets that can be analyzed computationally", "A programming paradigm"],
+    "answer": "Extremely large data sets that can be analyzed computationally",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the primary purpose of a compiler?",
+    "options": ["To execute programs directly", "To translate source code into machine code", "To design computer hardware"],
+    "answer": "To translate source code into machine code",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which algorithm is famous for its use in recommendation systems and search ranking?",
+    "options": ["PageRank", "Depth-first search", "Breadth-first search"],
+    "answer": "PageRank",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the primary benefit of parallel computing?",
+    "options": ["Increased energy consumption", "Faster processing by dividing tasks", "Simplified coding"],
+    "answer": "Faster processing by dividing tasks",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does the term 'open source' mean?",
+    "options": ["Software that is freely available to use, modify, and distribute", "Software that is only available for academic purposes", "Software with source code hidden from the public"],
+    "answer": "Software that is freely available to use, modify, and distribute",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is a common use case for machine learning?",
+    "options": ["Manual data entry", "Image recognition", "Static webpage design"],
+    "answer": "Image recognition",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does the term 'cloud computing' refer to?",
+    "options": ["Storing data on a local hard drive", "Delivering computing services over the internet", "Programming without a computer"],
+    "answer": "Delivering computing services over the internet",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is an example of a NoSQL database?",
+    "options": ["MySQL", "MongoDB", "PostgreSQL"],
+    "answer": "MongoDB",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is a characteristic of functional programming?",
+    "options": ["Mutable state", "First-class functions", "Imperative commands"],
+    "answer": "First-class functions",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'HTTP' stand for?",
+    "options": ["HyperText Transfer Protocol", "HyperText Transmission Process", "HighText Transfer Protocol"],
+    "answer": "HyperText Transfer Protocol",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept in AI involves learning from data without being explicitly programmed?",
+    "options": ["Machine Learning", "Hard Coding", "Rule-Based Systems"],
+    "answer": "Machine Learning",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the main idea behind reinforcement learning?",
+    "options": ["Learning from labeled data", "Learning by trial and error with rewards", "Learning from structured databases"],
+    "answer": "Learning by trial and error with rewards",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which programming language is traditionally associated with statistical analysis and data visualization?",
+    "options": ["R", "C++", "JavaScript"],
+    "answer": "R",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is a 'bug bounty' program?",
+    "options": ["A software testing technique", "A reward system for finding security vulnerabilities", "A type of computer virus"],
+    "answer": "A reward system for finding security vulnerabilities",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which term refers to the practice of simulating intelligent behavior in machines?",
+    "options": ["Artificial Intelligence", "Virtual Reality", "Augmented Reality"],
+    "answer": "Artificial Intelligence",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the name of the algorithm used in decision tree learning to split data based on feature importance?",
+    "options": ["K-means", "ID3", "Apriori"],
+    "answer": "ID3",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is NOT a type of machine learning?",
+    "options": ["Supervised learning", "Unsupervised learning", "Compiled learning"],
+    "answer": "Compiled learning",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'IDE' stand for in programming?",
+    "options": ["Integrated Development Environment", "Internet Development Engine", "Internal Debugging Entity"],
+    "answer": "Integrated Development Environment",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which sorting algorithm repeatedly swaps adjacent elements that are in the wrong order?",
+    "options": ["Merge Sort", "Bubble Sort", "Quick Sort"],
+    "answer": "Bubble Sort",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is a 'neural network' in the context of AI?",
+    "options": ["A network of computers", "A series of algorithms that mimic the human brain", "A hardware component"],
+    "answer": "A series of algorithms that mimic the human brain",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which term describes a set of instructions written in a programming language to perform a specific task?",
+    "options": ["Algorithm", "Code", "Protocol"],
+    "answer": "Code",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which protocol is commonly used for sending emails?",
+    "options": ["SMTP", "FTP", "HTTP"],
+    "answer": "SMTP",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the main purpose of version control systems like Git?",
+    "options": ["To manage changes to source code over time", "To compile code faster", "To monitor computer performance"],
+    "answer": "To manage changes to source code over time",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which programming language is known for its use in embedded systems and real-time applications?",
+    "options": ["C", "Python", "Ruby"],
+    "answer": "C",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'OOP' stand for in programming?",
+    "options": ["Object-Oriented Programming", "Operational Object Process", "Ordered Object Procedure"],
+    "answer": "Object-Oriented Programming",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept is used to hide the internal details of an object in OOP?",
+    "options": ["Encapsulation", "Polymorphism", "Inheritance"],
+    "answer": "Encapsulation",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which process transforms human-readable code into machine-readable code?",
+    "options": ["Compilation", "Interpretation", "Encryption"],
+    "answer": "Compilation",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'DRY' stand for in programming best practices?",
+    "options": ["Don't Repeat Yourself", "Debug, Run, Yield", "Do Repeat Yourself"],
+    "answer": "Don't Repeat Yourself",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which computer scientist is known for his work on algorithms and authored 'The Art of Computer Programming'?",
+    "options": ["Donald Knuth", "Edsger Dijkstra", "Alan Turing"],
+    "answer": "Donald Knuth",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is an example of a declarative programming language?",
+    "options": ["SQL", "C", "Java"],
+    "answer": "SQL",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the primary purpose of a database management system (DBMS)?",
+    "options": ["To create computer networks", "To store and retrieve data efficiently", "To compile programs"],
+    "answer": "To store and retrieve data efficiently",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is a widely used library for data manipulation in Python?",
+    "options": ["NumPy", "React", "Laravel"],
+    "answer": "NumPy",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the purpose of a 'firewall' in computer networks?",
+    "options": ["To cool down the CPU", "To monitor and control incoming and outgoing network traffic", "To store user data"],
+    "answer": "To monitor and control incoming and outgoing network traffic",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept involves hiding the complexity of the system behind a simple interface?",
+    "options": ["Abstraction", "Encapsulation", "Polymorphism"],
+    "answer": "Abstraction",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which machine learning technique is primarily used for clustering data?",
+    "options": ["K-means clustering", "Linear regression", "Decision trees"],
+    "answer": "K-means clustering",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the main goal of supervised learning in machine learning?",
+    "options": ["To find hidden patterns without labels", "To predict outcomes based on labeled data", "To generate random data"],
+    "answer": "To predict outcomes based on labeled data",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following best describes deep learning?",
+    "options": ["A subset of machine learning using neural networks with many layers", "A type of data encryption", "A database management technique"],
+    "answer": "A subset of machine learning using neural networks with many layers",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which computer scientist is credited with the invention of the first compiler?",
+    "options": ["Grace Hopper", "Ada Lovelace", "Alan Turing"],
+    "answer": "Grace Hopper",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is a benefit of using open-source software?",
+    "options": ["It is always free of bugs", "It can be modified and improved by anyone", "It requires no technical knowledge"],
+    "answer": "It can be modified and improved by anyone",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'REST' stand for in web services?",
+    "options": ["Representational State Transfer", "Rapid Execution of State Transactions", "Remote Execution Standard Technique"],
+    "answer": "Representational State Transfer",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is a key characteristic of a blockchain?",
+    "options": ["Centralized control", "Immutable ledger", "Single point of failure"],
+    "answer": "Immutable ledger",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which language is primarily used for developing iOS applications?",
+    "options": ["Swift", "Kotlin", "Java"],
+    "answer": "Swift",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the process of finding and fixing errors in a program called?",
+    "options": ["Debugging", "Compiling", "Linking"],
+    "answer": "Debugging",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is a high-level programming language?",
+    "options": ["Assembly", "Python", "Machine Code"],
+    "answer": "Python",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the term for the rules that govern the syntax of a programming language?",
+    "options": ["Semantics", "Syntax", "Grammar"],
+    "answer": "Grammar",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept allows different objects to be treated as instances of the same class in OOP?",
+    "options": ["Inheritance", "Polymorphism", "Encapsulation"],
+    "answer": "Polymorphism",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is a primary key in a relational database?",
+    "options": ["A unique identifier for table records", "A type of encryption", "A method to sort data"],
+    "answer": "A unique identifier for table records",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which technology is used to create decentralized applications?",
+    "options": ["Blockchain", "Cloud Computing", "Virtual Reality"],
+    "answer": "Blockchain",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the term for a pre-trained model used to jumpstart a machine learning task?",
+    "options": ["Transfer learning", "Reinforcement learning", "Deep learning"],
+    "answer": "Transfer learning",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is used for containerization in software development?",
+    "options": ["Docker", "Kubernetes", "VirtualBox"],
+    "answer": "Docker",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which cybersecurity concept refers to the practice of disguising communication to conceal its true meaning?",
+    "options": ["Encryption", "Obfuscation", "Decryption"],
+    "answer": "Obfuscation",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which protocol is used for secure remote login?",
+    "options": ["SSH", "Telnet", "HTTP"],
+    "answer": "SSH",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does the term 'latency' refer to in networking?",
+    "options": ["The speed of data transfer", "The delay before a transfer of data begins", "The total data capacity"],
+    "answer": "The delay before a transfer of data begins",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is an example of a high-level programming concept that reduces complexity by modeling data?",
+    "options": ["Abstraction", "Recursion", "Iteration"],
+    "answer": "Abstraction",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'MVC' stand for in software architecture?",
+    "options": ["Model View Controller", "Module Variable Component", "Main Variable Class"],
+    "answer": "Model View Controller",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is a common characteristic of agile software development?",
+    "options": ["Fixed scope", "Iterative progress", "Waterfall approach"],
+    "answer": "Iterative progress",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the primary function of a load balancer in computer networks?",
+    "options": ["To store data backups", "To distribute network traffic across multiple servers", "To encrypt data"],
+    "answer": "To distribute network traffic across multiple servers",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which technology is often used to create interactive visualizations on the web?",
+    "options": ["D3.js", "TensorFlow", "Bootstrap"],
+    "answer": "D3.js",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept in computer science involves designing systems to be easily scaled and maintained?",
+    "options": ["Scalability", "Portability", "Robustness"],
+    "answer": "Scalability",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which method is commonly used to prevent overfitting in machine learning models?",
+    "options": ["Cross-validation", "Data augmentation", "Early stopping"],
+    "answer": "Cross-validation",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the purpose of a software framework?",
+    "options": ["To provide a foundation and set of tools for building applications", "To compile code faster", "To manage hardware resources"],
+    "answer": "To provide a foundation and set of tools for building applications",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is NOT a common data structure?",
+    "options": ["Array", "Stack", "Algorithm"],
+    "answer": "Algorithm",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the primary role of a linker in the software build process?",
+    "options": ["To compile source code", "To connect various compiled code modules", "To interpret scripts"],
+    "answer": "To connect various compiled code modules",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these best describes the concept of 'big O notation'?",
+    "options": ["A measure of an algorithm's efficiency", "A programming language", "A type of database"],
+    "answer": "A measure of an algorithm's efficiency",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which protocol is used to transfer files over the internet securely?",
+    "options": ["SFTP", "HTTP", "SMTP"],
+    "answer": "SFTP",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the significance of the 'Turing Test'?",
+    "options": ["It measures the speed of a computer", "It determines whether a machine can exhibit human-like intelligence", "It evaluates network security"],
+    "answer": "It determines whether a machine can exhibit human-like intelligence",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is a popular library for machine learning in Python?",
+    "options": ["Scikit-learn", "Laravel", "Angular"],
+    "answer": "Scikit-learn",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept in cybersecurity involves converting data into a coded format to prevent unauthorized access?",
+    "options": ["Decryption", "Encryption", "Compression"],
+    "answer": "Encryption",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which type of neural network is most commonly used for processing sequential data?",
+    "options": ["Convolutional Neural Network", "Recurrent Neural Network", "Feedforward Neural Network"],
+    "answer": "Recurrent Neural Network",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'SDK' stand for in software development?",
+    "options": ["Software Development Kit", "System Development Kernel", "Standard Development Key"],
+    "answer": "Software Development Kit",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept allows a system to continue operating in the event of a partial failure?",
+    "options": ["Redundancy", "Latency", "Throughput"],
+    "answer": "Redundancy",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which programming paradigm emphasizes the use of functions and avoids changing-state and mutable data?",
+    "options": ["Functional Programming", "Procedural Programming", "Object-Oriented Programming"],
+    "answer": "Functional Programming",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is a characteristic of a strongly typed programming language?",
+    "options": ["Variables can change type at runtime", "Type errors are caught at compile time", "No data type checking exists"],
+    "answer": "Type errors are caught at compile time",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the main advantage of using recursion in programming?",
+    "options": ["Simpler code for repetitive tasks", "Increased memory usage", "Faster execution than loops"],
+    "answer": "Simpler code for repetitive tasks",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which sorting algorithm is known for its efficiency on nearly sorted data?",
+    "options": ["Insertion Sort", "Selection Sort", "Heap Sort"],
+    "answer": "Insertion Sort",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'IoT' stand for?",
+    "options": ["Internet of Things", "Internal of Technology", "Interface of Tools"],
+    "answer": "Internet of Things",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which term describes software that can change its behavior based on past interactions?",
+    "options": ["Adaptive software", "Static software", "Rigid software"],
+    "answer": "Adaptive software",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which method is used in statistics to measure the correlation between two variables?",
+    "options": ["Regression analysis", "Clustering", "Classification"],
+    "answer": "Regression analysis",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept in software engineering focuses on separating concerns to improve modularity?",
+    "options": ["Separation of Concerns", "Monolithic design", "Centralization"],
+    "answer": "Separation of Concerns",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is a primary benefit of using cloud computing?",
+    "options": ["Local data storage", "Scalability and resource flexibility", "Increased hardware costs"],
+    "answer": "Scalability and resource flexibility",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is a benefit of using a NoSQL database over a traditional SQL database?",
+    "options": ["Fixed schema", "Scalability and flexibility", "Stricter data integrity"],
+    "answer": "Scalability and flexibility",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which technology underpins cryptocurrencies like Bitcoin?",
+    "options": ["Blockchain", "Cloud computing", "Big Data"],
+    "answer": "Blockchain",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'SaaS' stand for?",
+    "options": ["Software as a Service", "System as a Software", "Solution and Service"],
+    "answer": "Software as a Service",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which programming language was developed by Sun Microsystems and is widely used for enterprise applications?",
+    "options": ["Java", "C#", "Swift"],
+    "answer": "Java",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is an example of a markup language?",
+    "options": ["CSS", "HTML", "SQL"],
+    "answer": "HTML",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the main function of a web browser?",
+    "options": ["To compile web applications", "To retrieve and display web pages", "To host websites"],
+    "answer": "To retrieve and display web pages",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which term describes a network security system that monitors and controls incoming and outgoing network traffic?",
+    "options": ["Firewall", "Router", "Switch"],
+    "answer": "Firewall",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is a version control system?",
+    "options": ["Git", "Jira", "Slack"],
+    "answer": "Git",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'JSON' stand for?",
+    "options": ["JavaScript Object Notation", "Java Standard Output Network", "JQuery Open Source Object"],
+    "answer": "JavaScript Object Notation",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept in AI refers to a system that improves its performance based on experience?",
+    "options": ["Learning algorithms", "Static programming", "Manual updates"],
+    "answer": "Learning algorithms",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is a popular integrated development environment (IDE) for Java development?",
+    "options": ["Visual Studio Code", "Eclipse", "Sublime Text"],
+    "answer": "Eclipse",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the primary purpose of unit testing in software development?",
+    "options": ["To test individual units of source code for correctness", "To deploy code to production", "To design the software architecture"],
+    "answer": "To test individual units of source code for correctness",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which technology is commonly used to create responsive web designs?",
+    "options": ["Bootstrap", "TensorFlow", "Django"],
+    "answer": "Bootstrap",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the principle of 'separation of concerns' in software engineering?",
+    "options": ["Dividing a program into distinct features that overlap", "Dividing a program into distinct features with minimal overlap", "Combining similar features into one module"],
+    "answer": "Dividing a program into distinct features with minimal overlap",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following best describes an 'algorithm'?",
+    "options": ["A step-by-step procedure for calculations", "A programming language", "A computer hardware component"],
+    "answer": "A step-by-step procedure for calculations",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which area of computer science deals with the design and analysis of algorithms?",
+    "options": ["Computational complexity theory", "User interface design", "Network administration"],
+    "answer": "Computational complexity theory",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'OOP' emphasize in software design?",
+    "options": ["Reusability through objects", "Direct hardware manipulation", "Linear execution"],
+    "answer": "Reusability through objects",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept in machine learning involves dividing data into a training set and a test set?",
+    "options": ["Data partitioning", "Cross-validation", "Ensemble learning"],
+    "answer": "Data partitioning",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is a benefit of using continuous integration (CI) in software development?",
+    "options": ["Delayed feedback on code issues", "Frequent code integration and testing", "Manual deployment processes"],
+    "answer": "Frequent code integration and testing",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is a common language used for scripting on web pages?",
+    "options": ["JavaScript", "C++", "Rust"],
+    "answer": "JavaScript",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is an example of a backend programming language?",
+    "options": ["PHP", "HTML", "CSS"],
+    "answer": "PHP",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the primary purpose of caching in computer systems?",
+    "options": ["To permanently store data", "To speed up data retrieval by storing copies of data in temporary storage", "To compress data"],
+    "answer": "To speed up data retrieval by storing copies of data in temporary storage",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which computer scientist is known for his contributions to algorithms and data structures and is the author of a multi-volume work on the subject?",
+    "options": ["Donald Knuth", "Alan Turing", "John von Neumann"],
+    "answer": "Donald Knuth",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is a common practice for managing project tasks in software development?",
+    "options": ["Scrum", "Waterfall", "Monolithic"],
+    "answer": "Scrum",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following best describes an 'open API'?",
+    "options": ["An API that is publicly available for developers to use", "An API that is only available within a company", "An API that requires proprietary software"],
+    "answer": "An API that is publicly available for developers to use",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is a key aspect of ethical AI development?",
+    "options": ["Maximizing profit regardless of consequences", "Ensuring transparency and fairness in decision-making", "Prioritizing speed over accuracy"],
+    "answer": "Ensuring transparency and fairness in decision-making",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the role of a 'data scientist' in an organization?",
+    "options": ["To design hardware components", "To extract insights and knowledge from data", "To manage network security exclusively"],
+    "answer": "To extract insights and knowledge from data",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is a tool used for container orchestration?",
+    "options": ["Kubernetes", "Docker", "Git"],
+    "answer": "Kubernetes",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which paradigm emphasizes the use of events and asynchronous programming?",
+    "options": ["Event-driven programming", "Procedural programming", "Object-oriented programming"],
+    "answer": "Event-driven programming",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these is an example of a cloud service model that provides virtualized computing resources over the internet?",
+    "options": ["IaaS", "PaaS", "SaaS"],
+    "answer": "IaaS",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the purpose of a 'sandbox' in software development?",
+    "options": ["To permanently store code", "To isolate code execution for testing and security", "To compile source code"],
+    "answer": "To isolate code execution for testing and security",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is NOT a common characteristic of agile development?",
+    "options": ["Flexibility in responding to change", "Extensive upfront planning", "Iterative development"],
+    "answer": "Extensive upfront planning",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What does 'CI/CD' stand for in modern software development practices?",
+    "options": ["Continuous Integration/Continuous Deployment", "Code Inspection/Code Debugging", "Compilation Integration/Compilation Deployment"],
+    "answer": "Continuous Integration/Continuous Deployment",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which technique is used in natural language processing to convert text into numerical features?",
+    "options": ["Tokenization", "Compilation", "Encryption"],
+    "answer": "Tokenization",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the purpose of the 'git commit' command?",
+    "options": ["To create a new branch", "To save changes to the local repository", "To merge two branches"],
+    "answer": "To save changes to the local repository",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following best describes a 'stack overflow' error?",
+    "options": ["An error caused by too many nested function calls", "An error caused by running out of disk space", "An error caused by a syntax mistake"],
+    "answer": "An error caused by too many nested function calls",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept involves a program's ability to manage increasing workloads gracefully?",
+    "options": ["Scalability", "Latency", "Throughput"],
+    "answer": "Scalability",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the primary function of a DNS (Domain Name System) server?",
+    "options": ["To translate domain names into IP addresses", "To secure network traffic", "To host websites"],
+    "answer": "To translate domain names into IP addresses",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which method is commonly used to combine multiple models in machine learning to improve performance?",
+    "options": ["Ensemble learning", "Overfitting", "Underfitting"],
+    "answer": "Ensemble learning",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following best describes the concept of 'data mining'?",
+    "options": ["Extracting useful patterns from large datasets", "Storing data in a database", "Creating data backups"],
+    "answer": "Extracting useful patterns from large datasets",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which programming concept involves the ability of different objects to respond uniquely to the same function call?",
+    "options": ["Inheritance", "Polymorphism", "Encapsulation"],
+    "answer": "Polymorphism",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is an example of a distributed computing framework?",
+    "options": ["Apache Hadoop", "MySQL", "SQLite"],
+    "answer": "Apache Hadoop",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which cybersecurity practice involves verifying the identity of users or systems?",
+    "options": ["Authentication", "Encryption", "Compression"],
+    "answer": "Authentication",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the purpose of a 'load testing' tool in software engineering?",
+    "options": ["To measure the performance of a system under heavy loads", "To test code syntax", "To manage version control"],
+    "answer": "To measure the performance of a system under heavy loads",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which algorithm is used in AI for decision-making by simulating multiple future scenarios?",
+    "options": ["Minimax", "Gradient Descent", "Genetic Algorithm"],
+    "answer": "Minimax",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept in computer science refers to the continuous process of improving and updating software?",
+    "options": ["Maintenance", "Compilation", "Prototyping"],
+    "answer": "Maintenance",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the primary goal of computer vision in AI?",
+    "options": ["To enable machines to understand and interpret visual information", "To compile code faster", "To secure networks"],
+    "answer": "To enable machines to understand and interpret visual information",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is a common framework for building web applications in Python?",
+    "options": ["Django", "Laravel", "Spring"],
+    "answer": "Django",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of these best describes the concept of 'virtualization'?",
+    "options": ["Creating a virtual version of something, such as hardware or an operating system", "Increasing the physical size of hardware", "Encrypting data"],
+    "answer": "Creating a virtual version of something, such as hardware or an operating system",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following is used to manage dependencies in many programming projects?",
+    "options": ["Package managers", "Compilers", "Linkers"],
+    "answer": "Package managers",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which tool is widely used for automating software builds and testing?",
+    "options": ["Jenkins", "Photoshop", "Excel"],
+    "answer": "Jenkins",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "What is the primary purpose of a content management system (CMS)?",
+    "options": ["To manage digital content on websites", "To compile source code", "To secure networks"],
+    "answer": "To manage digital content on websites",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which of the following best describes the concept of 'serverless computing'?",
+    "options": ["Running applications without managing underlying server infrastructure", "Not using any servers at all", "Using only local servers"],
+    "answer": "Running applications without managing underlying server infrastructure",
+    "category": "Computer Science & Artificial Intelligence"
+  },
+  {
+    "question": "Which concept refers to a program's ability to run on multiple operating systems without modification?",
+    "options": ["Portability", "Scalability", "Maintainability"],
+    "answer": "Portability",
+    "category": "Computer Science & Artificial Intelligence"
+  }
+]

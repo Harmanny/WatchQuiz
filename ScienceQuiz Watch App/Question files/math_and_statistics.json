@@ -1,0 +1,1310 @@
+[
+  {
+    "question": "What is the approximate value of π?",
+    "options": ["3.14", "2.72", "1.62"],
+    "answer": "3.14",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is Euler's number (e) approximately equal to?",
+    "options": ["3.14", "2.72", "1.62"],
+    "answer": "2.72",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the square root of 16?",
+    "options": ["4", "3", "5"],
+    "answer": "4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 7 factorial (7!) equal to?",
+    "options": ["5040", "40320", "720"],
+    "answer": "5040",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "Which number is prime: 29, 35, or 49?",
+    "options": ["35", "29", "49"],
+    "answer": "29",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the next number in the Fibonacci sequence: 0, 1, 1, 2, 3, ... ?",
+    "options": ["6", "5", "4"],
+    "answer": "5",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the angles in a triangle?",
+    "options": ["180°", "90°", "360°"],
+    "answer": "180°",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "Which shape has the fewest number of sides?",
+    "options": ["Square", "Triangle", "Pentagon"],
+    "answer": "Triangle",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 2^5?",
+    "options": ["16", "32", "64"],
+    "answer": "32",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of x^2 with respect to x?",
+    "options": ["2x", "x", "x^2"],
+    "answer": "2x",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the integral of 1/x dx (ignoring the constant)?",
+    "options": ["1/x", "x", "ln|x|"],
+    "answer": "ln|x|",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 0! (zero factorial)?",
+    "options": ["Undefined", "1", "0"],
+    "answer": "1",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "Which of these numbers is irrational?",
+    "options": ["5", "√2", "3/4"],
+    "answer": "√2",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the interior angles of a quadrilateral?",
+    "options": ["360°", "540°", "180°"],
+    "answer": "360°",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the median of the set {3, 7, 9, 15, 21}?",
+    "options": ["7", "9", "15"],
+    "answer": "9",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the mode of the data set: 2, 4, 4, 6, 8?",
+    "options": ["4", "8", "6"],
+    "answer": "4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "In probability, what is the term for an event that cannot occur?",
+    "options": ["Random event", "Impossible event", "Certain event"],
+    "answer": "Impossible event",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 10 choose 2?",
+    "options": ["45", "55", "90"],
+    "answer": "45",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the solution to the equation 2x = 10?",
+    "options": ["10", "5", "2"],
+    "answer": "5",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "Which mathematician is known for the theorem 'a^2 + b^2 = c^2'?",
+    "options": ["Euclid", "Pythagoras", "Archimedes"],
+    "answer": "Pythagoras",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the formula for the area of a circle?",
+    "options": ["2πr", "πr^2", "πd"],
+    "answer": "πr^2",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of sin(x)?",
+    "options": ["-cos(x)", "cos(x)", "sin(x)"],
+    "answer": "cos(x)",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of cos(x)?",
+    "options": ["cos(x)", "-sin(x)", "sin(x)"],
+    "answer": "-sin(x)",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the second smallest prime number?",
+    "options": ["2", "5", "3"],
+    "answer": "3",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the first 5 positive integers?",
+    "options": ["10", "15", "20"],
+    "answer": "15",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 9 squared?",
+    "options": ["81", "90", "72"],
+    "answer": "81",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the cube of 3?",
+    "options": ["27", "18", "9"],
+    "answer": "27",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the probability of getting heads in a fair coin toss?",
+    "options": ["1/3", "1/2", "1/4"],
+    "answer": "1/2",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What does the variance measure in a data set?",
+    "options": ["Data spread", "Skewness", "Central tendency"],
+    "answer": "Data spread",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the median of the set {1, 3, 3, 6, 7, 8, 9}?",
+    "options": ["7", "6", "3"],
+    "answer": "6",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 15% of 200?",
+    "options": ["25", "35", "30"],
+    "answer": "30",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the perimeter of a square with side length 4?",
+    "options": ["12", "16", "8"],
+    "answer": "16",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the common ratio in a geometric sequence where each term is multiplied by 3?",
+    "options": ["2", "3", "1/3"],
+    "answer": "3",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What does the symbol '∑' represent in mathematics?",
+    "options": ["Integration", "Summation", "Multiplication"],
+    "answer": "Summation",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What does the standard deviation measure in a data set?",
+    "options": ["Probability of data", "Spread of data", "Mean of data"],
+    "answer": "Spread of data",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 3 + 4 × 2?",
+    "options": ["11", "14", "10"],
+    "answer": "11",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the slope-intercept form of a line?",
+    "options": ["ax^2 + bx + c", "y = mx + b", "x = my + b"],
+    "answer": "y = mx + b",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of log10(1000)?",
+    "options": ["4", "3", "2"],
+    "answer": "3",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the binomial coefficient C(5,2) equal to?",
+    "options": ["10", "12", "8"],
+    "answer": "10",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the factorial of 3?",
+    "options": ["3", "6", "9"],
+    "answer": "6",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the term for a polygon with 8 sides?",
+    "options": ["Nonagon", "Octagon", "Heptagon"],
+    "answer": "Octagon",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 12 divided by 3?",
+    "options": ["6", "4", "3"],
+    "answer": "4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the interior angles of a pentagon?",
+    "options": ["360°", "540°", "720°"],
+    "answer": "540°",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "Which branch of mathematics deals with rates of change?",
+    "options": ["Algebra", "Calculus", "Geometry"],
+    "answer": "Calculus",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "Which mathematician is known for work on non-Euclidean geometry?",
+    "options": ["Pythagoras", "Gauss", "Newton"],
+    "answer": "Gauss",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the solution to the equation x + 5 = 12?",
+    "options": ["7", "17", "5"],
+    "answer": "7",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the probability of drawing an ace from a standard deck of cards?",
+    "options": ["1/4", "1/52", "1/13"],
+    "answer": "1/13",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the result of 0 multiplied by any number?",
+    "options": ["1", "The number itself", "0"],
+    "answer": "0",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the first 10 positive integers?",
+    "options": ["45", "55", "50"],
+    "answer": "55",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the least common multiple of 4 and 6?",
+    "options": ["24", "12", "18"],
+    "answer": "12",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of ln(x)?",
+    "options": ["x", "1/x", "ln(x)"],
+    "answer": "1/x",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 5 squared?",
+    "options": ["15", "25", "10"],
+    "answer": "25",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the cube root of 27?",
+    "options": ["27", "3", "9"],
+    "answer": "3",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "Which number is a multiple of both 3 and 4?",
+    "options": ["9", "12", "7"],
+    "answer": "12",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the term for a graph that shows frequency distribution?",
+    "options": ["Bar graph", "Histogram", "Pie chart"],
+    "answer": "Histogram",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the arithmetic mean of 2, 4, and 6?",
+    "options": ["4", "5", "6"],
+    "answer": "4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the perimeter of a rectangle with length 8 and width 3?",
+    "options": ["24", "22", "26"],
+    "answer": "22",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the area of a triangle with base 10 and height 5?",
+    "options": ["50", "25", "15"],
+    "answer": "25",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 2 + 2 × 2?",
+    "options": ["8", "4", "6"],
+    "answer": "6",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the probability of rolling a 3 on a fair six-sided die?",
+    "options": ["1/3", "1/2", "1/6"],
+    "answer": "1/6",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 20% of 50?",
+    "options": ["15", "10", "20"],
+    "answer": "10",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the perimeter of a circle called?",
+    "options": ["Diameter", "Circumference", "Radius"],
+    "answer": "Circumference",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the square root of 81?",
+    "options": ["7", "9", "8"],
+    "answer": "9",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What does the symbol '√' represent?",
+    "options": ["Exponentiation", "Square root", "Summation"],
+    "answer": "Square root",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "Which operation is performed first in PEMDAS?",
+    "options": ["Addition", "Multiplication", "Parentheses"],
+    "answer": "Parentheses",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 100 divided by 4?",
+    "options": ["20", "30", "25"],
+    "answer": "25",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the formula for the area of a rectangle?",
+    "options": ["2(Length + Width)", "Length × Width", "Length + Width"],
+    "answer": "Length × Width",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the angles in a hexagon?",
+    "options": ["540°", "720°", "900°"],
+    "answer": "720°",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the reciprocal of 5?",
+    "options": ["2", "0.2", "5"],
+    "answer": "0.2",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the mean of the numbers 10, 20, 30, 40?",
+    "options": ["30", "25", "20"],
+    "answer": "25",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What does the standard deviation measure?",
+    "options": ["Average", "Variability", "Total sum"],
+    "answer": "Variability",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 7^2?",
+    "options": ["42", "56", "49"],
+    "answer": "49",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the cube of 4?",
+    "options": ["16", "32", "64"],
+    "answer": "64",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What does 'ln' represent in mathematics?",
+    "options": ["Common logarithm", "Natural logarithm", "Logistic function"],
+    "answer": "Natural logarithm",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the formula for the circumference of a circle?",
+    "options": ["πr", "2πr", "πr^2"],
+    "answer": "2πr",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the term for a number that can only be divided by 1 and itself?",
+    "options": ["Composite", "Even", "Prime"],
+    "answer": "Prime",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the solution to the equation 3x = 12?",
+    "options": ["6", "4", "3"],
+    "answer": "4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of e^x?",
+    "options": ["xe^(x-1)", "1/e^x", "e^x"],
+    "answer": "e^x",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the first 3 positive prime numbers?",
+    "options": ["12", "10", "8"],
+    "answer": "10",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 7 plus 8?",
+    "options": ["14", "16", "15"],
+    "answer": "15",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the square root of 144?",
+    "options": ["14", "12", "16"],
+    "answer": "12",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the next number in the sequence: 2, 4, 8, 16, ... ?",
+    "options": ["20", "32", "10"],
+    "answer": "32",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the result of 81 divided by 9?",
+    "options": ["10", "9", "8"],
+    "answer": "9",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of the expression 3^3 - 3?",
+    "options": ["18", "24", "27"],
+    "answer": "24",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the product of 11 and 11?",
+    "options": ["121", "131", "111"],
+    "answer": "121",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of a constant?",
+    "options": ["Constant", "0", "1"],
+    "answer": "0",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What does '≈' signify in mathematics?",
+    "options": ["Exactly equal to", "Approximately equal to", "Not equal to"],
+    "answer": "Approximately equal to",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the first three prime numbers?",
+    "options": ["12", "10", "8"],
+    "answer": "10",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 9 - 4?",
+    "options": ["7", "6", "5"],
+    "answer": "5",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the term for a set with no elements?",
+    "options": ["Null set", "Empty set", "Universal set"],
+    "answer": "Empty set",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the solution to the equation 5x = 20?",
+    "options": ["5", "3", "4"],
+    "answer": "4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the mean of the numbers 2, 4, 6, 8?",
+    "options": ["6", "5", "7"],
+    "answer": "5",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the common denominator of fractions 1/2 and 1/3?",
+    "options": ["5", "6", "4"],
+    "answer": "6",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the probability of drawing a king from a deck of cards?",
+    "options": ["1/4", "1/13", "1/12"],
+    "answer": "1/13",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 2 to the power of 4?",
+    "options": ["12", "16", "8"],
+    "answer": "16",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the formula for the area of a parallelogram?",
+    "options": ["1/2 × Base × Height", "Length × Width", "Base × Height"],
+    "answer": "Base × Height",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the next number in the Fibonacci sequence: 1, 1, 2, 3, 5, ... ?",
+    "options": ["7", "8", "9"],
+    "answer": "8",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of 3x with respect to x?",
+    "options": ["x", "3", "1"],
+    "answer": "3",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 25% of 80?",
+    "options": ["25", "20", "15"],
+    "answer": "20",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the product of 9 and 9?",
+    "options": ["90", "81", "72"],
+    "answer": "81",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the area of a circle with radius 3 (approx.)?",
+    "options": ["18.85", "30.00", "28.27"],
+    "answer": "28.27",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the formula for the volume of a cube?",
+    "options": ["Side^2", "4/3πr^3", "Side^3"],
+    "answer": "Side^3",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the standard form of a quadratic equation?",
+    "options": ["y = mx + b", "ax^2 + bx + c = 0", "x^2 + y^2 = r^2"],
+    "answer": "ax^2 + bx + c = 0",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the slope of a horizontal line?",
+    "options": ["Undefined", "1", "0"],
+    "answer": "0",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the integral of 0 dx?",
+    "options": ["x", "Constant", "0"],
+    "answer": "0",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 100 minus 45?",
+    "options": ["65", "45", "55"],
+    "answer": "55",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the probability of picking an even number from the set {1,2,3,4,5}?",
+    "options": ["1/2", "3/5", "2/5"],
+    "answer": "2/5",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 0.25 as a fraction?",
+    "options": ["1/2", "1/4", "1/3"],
+    "answer": "1/4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of 45 and 55?",
+    "options": ["90", "110", "100"],
+    "answer": "100",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the term for a function that has a highest power of 1?",
+    "options": ["Cubic", "Linear", "Quadratic"],
+    "answer": "Linear",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 6! ?",
+    "options": ["120", "5040", "720"],
+    "answer": "720",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the percentage form of 0.85?",
+    "options": ["0.85%", "85%", "8.5%"],
+    "answer": "85%",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the formula for the surface area of a sphere?",
+    "options": ["πr^2", "2πr", "4πr^2"],
+    "answer": "4πr^2",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of the expression 2(3+4)?",
+    "options": ["10", "12", "14"],
+    "answer": "14",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the probability of drawing a heart from a deck of cards?",
+    "options": ["1/3", "1/2", "1/4"],
+    "answer": "1/4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of 4x?",
+    "options": ["x", "0", "4"],
+    "answer": "4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the first 4 even numbers?",
+    "options": ["18", "22", "20"],
+    "answer": "20",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of the square root of 49?",
+    "options": ["8", "7", "6"],
+    "answer": "7",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the formula for the volume of a cylinder?",
+    "options": ["2πrh", "πr^2h", "πrh^2"],
+    "answer": "πr^2h",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the term for a sequence where each term is the sum of the two preceding terms?",
+    "options": ["Arithmetic sequence", "Geometric sequence", "Fibonacci sequence"],
+    "answer": "Fibonacci sequence",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of 3, 6, and 9?",
+    "options": ["15", "21", "18"],
+    "answer": "18",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of 5?",
+    "options": ["1", "5", "0"],
+    "answer": "0",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the mean of the set {8, 12, 16, 20}?",
+    "options": ["15", "14", "16"],
+    "answer": "14",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the result of 3/4 + 1/4?",
+    "options": ["1/2", "5/4", "1"],
+    "answer": "1",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the perimeter of a regular hexagon with side length 3?",
+    "options": ["15", "18", "12"],
+    "answer": "18",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the probability of rolling a number greater than 4 on a six-sided die?",
+    "options": ["1/2", "1/4", "1/3"],
+    "answer": "1/3",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the area of a rectangle with length 7 and width 2?",
+    "options": ["9", "14", "10"],
+    "answer": "14",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 0.1 expressed as a percentage?",
+    "options": ["1%", "10%", "5%"],
+    "answer": "10%",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the result of 50% of 60?",
+    "options": ["20", "30", "40"],
+    "answer": "30",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of x with respect to x?",
+    "options": ["x", "1", "0"],
+    "answer": "1",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the common term for an angle less than 90°?",
+    "options": ["Obtuse", "Acute", "Right"],
+    "answer": "Acute",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the interior angles of a heptagon (7-sided polygon)?",
+    "options": ["720°", "900°", "1080°"],
+    "answer": "900°",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the next number in the series: 10, 20, 30, ... ?",
+    "options": ["50", "40", "60"],
+    "answer": "40",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 1/5 as a decimal?",
+    "options": ["0.5", "0.25", "0.2"],
+    "answer": "0.2",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the factorial of 0?",
+    "options": ["Undefined", "1", "0"],
+    "answer": "1",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of 2 and 3?",
+    "options": ["6", "4", "5"],
+    "answer": "5",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the result of 10 × 10?",
+    "options": ["110", "100", "90"],
+    "answer": "100",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of 6x^2?",
+    "options": ["6x", "3x^2", "12x"],
+    "answer": "12x",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the area of a triangle with base 8 and height 6?",
+    "options": ["48", "28", "24"],
+    "answer": "24",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the mean of the set {2, 4, 6}?",
+    "options": ["5", "4", "3"],
+    "answer": "4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the square of 10?",
+    "options": ["110", "100", "90"],
+    "answer": "100",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the result of 25% of 200?",
+    "options": ["40", "50", "60"],
+    "answer": "50",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the term for a solution that cannot be expressed as a finite or repeating decimal?",
+    "options": ["Real", "Rational", "Irrational"],
+    "answer": "Irrational",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the formula for the perimeter of a triangle?",
+    "options": ["2(Length + Width)", "Sum of all sides", "Base × Height"],
+    "answer": "Sum of all sides",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the next number in the sequence: 5, 10, 15, ... ?",
+    "options": ["25", "20", "30"],
+    "answer": "20",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 3/5 expressed as a decimal?",
+    "options": ["0.5", "0.7", "0.6"],
+    "answer": "0.6",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the first 4 odd numbers?",
+    "options": ["15", "18", "16"],
+    "answer": "16",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of 7x?",
+    "options": ["x", "7", "1"],
+    "answer": "7",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 2^6?",
+    "options": ["32", "128", "64"],
+    "answer": "64",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the volume of a cube with side length 2?",
+    "options": ["6", "4", "8"],
+    "answer": "8",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the area of a square with perimeter 16?",
+    "options": ["18", "16", "8"],
+    "answer": "16",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of 7 and 9?",
+    "options": ["17", "16", "15"],
+    "answer": "16",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of 2x^3?",
+    "options": ["3x^2", "2x^2", "6x^2"],
+    "answer": "6x^2",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 40% of 150?",
+    "options": ["50", "70", "60"],
+    "answer": "60",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the square root of 64?",
+    "options": ["6", "7", "8"],
+    "answer": "8",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the interior angles of a decagon (10-sided polygon)?",
+    "options": ["1260°", "1080°", "1440°"],
+    "answer": "1440°",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of cos(2x)?",
+    "options": ["2cos(2x)", "-sin(2x)", "-2sin(2x)"],
+    "answer": "-2sin(2x)",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the result of 9 × 9?",
+    "options": ["72", "90", "81"],
+    "answer": "81",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the term for a statistical measure that indicates the middle value?",
+    "options": ["Mode", "Mean", "Median"],
+    "answer": "Median",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 0.75 as a percentage?",
+    "options": ["7.5%", "50%", "75%"],
+    "answer": "75%",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the formula for the sum of an arithmetic series?",
+    "options": ["n(first - last)", "n/2 (first + last)", "n(first + last)"],
+    "answer": "n/2 (first + last)",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the probability of flipping two coins and getting two heads?",
+    "options": ["1/2", "1/8", "1/4"],
+    "answer": "1/4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of ln(2x)?",
+    "options": ["2/x", "1/(2x)", "1/x"],
+    "answer": "1/x",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the area of a rectangle with length 10 and width 5?",
+    "options": ["60", "50", "55"],
+    "answer": "50",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the factorial of 4?",
+    "options": ["16", "24", "12"],
+    "answer": "24",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 100% as a decimal?",
+    "options": ["10", "0.1", "1"],
+    "answer": "1",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of sin^2(x)?",
+    "options": ["cos(2x)", "2sin(x)cos(x)", "sin(2x)"],
+    "answer": "2sin(x)cos(x)",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the next number in the sequence: 1, 4, 9, 16, ... ?",
+    "options": ["20", "25", "30"],
+    "answer": "25",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of 3 and 7?",
+    "options": ["9", "11", "10"],
+    "answer": "10",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the product of 4 and 5?",
+    "options": ["25", "15", "20"],
+    "answer": "20",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the cube of 2?",
+    "options": ["4", "8", "6"],
+    "answer": "8",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 6 squared?",
+    "options": ["30", "42", "36"],
+    "answer": "36",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the median of the set {10, 20, 30}?",
+    "options": ["10", "20", "30"],
+    "answer": "20",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the arithmetic mean of 5, 10, and 15?",
+    "options": ["15", "10", "12"],
+    "answer": "10",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 2 plus 3 times 4?",
+    "options": ["20", "14", "12"],
+    "answer": "14",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 11 minus 3?",
+    "options": ["7", "9", "8"],
+    "answer": "8",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 7 multiplied by 3?",
+    "options": ["18", "24", "21"],
+    "answer": "21",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the square root of 100?",
+    "options": ["9", "10", "11"],
+    "answer": "10",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the area of a triangle with base 12 and height 4?",
+    "options": ["28", "20", "24"],
+    "answer": "24",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the probability of drawing a spade from a deck of cards?",
+    "options": ["1/2", "1/3", "1/4"],
+    "answer": "1/4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 9 plus 6?",
+    "options": ["16", "14", "15"],
+    "answer": "15",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of 9x?",
+    "options": ["x", "1", "9"],
+    "answer": "9",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 0.5 multiplied by 8?",
+    "options": ["6", "8", "4"],
+    "answer": "4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of 12 and 13?",
+    "options": ["26", "24", "25"],
+    "answer": "25",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 3 times 5?",
+    "options": ["10", "20", "15"],
+    "answer": "15",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the difference between 20 and 5?",
+    "options": ["10", "20", "15"],
+    "answer": "15",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of the digits in 456?",
+    "options": ["16", "15", "14"],
+    "answer": "15",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the result of 2 × 3 + 4?",
+    "options": ["12", "8", "10"],
+    "answer": "10",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the common ratio in the sequence 2, 6, 18, ... ?",
+    "options": ["3", "4", "2"],
+    "answer": "3",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the perimeter of a square with side 9?",
+    "options": ["27", "36", "18"],
+    "answer": "36",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 8 divided by 2?",
+    "options": ["6", "4", "8"],
+    "answer": "4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of 2x^2?",
+    "options": ["2x", "x", "4x"],
+    "answer": "4x",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of π rounded to two decimal places?",
+    "options": ["3.15", "3.13", "3.14"],
+    "answer": "3.14",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the solution to the equation 10 - x = 4?",
+    "options": ["4", "10", "6"],
+    "answer": "6",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 50 plus 25?",
+    "options": ["70", "65", "75"],
+    "answer": "75",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the mean of the numbers 3, 5, and 7?",
+    "options": ["7", "6", "5"],
+    "answer": "5",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the product of 4 and 6?",
+    "options": ["20", "28", "24"],
+    "answer": "24",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the result of 12 divided by 4?",
+    "options": ["4", "6", "3"],
+    "answer": "3",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the square root of 25?",
+    "options": ["4", "6", "5"],
+    "answer": "5",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the next number in the sequence: 2, 4, 6, ... ?",
+    "options": ["10", "12", "8"],
+    "answer": "8",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of 50 and 50?",
+    "options": ["90", "110", "100"],
+    "answer": "100",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 7 minus 2?",
+    "options": ["4", "6", "5"],
+    "answer": "5",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the product of 3 and 7?",
+    "options": ["24", "18", "21"],
+    "answer": "21",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 10 divided by 2?",
+    "options": ["4", "6", "5"],
+    "answer": "5",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of 9 and 1?",
+    "options": ["11", "10", "9"],
+    "answer": "10",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the square of 8?",
+    "options": ["72", "56", "64"],
+    "answer": "64",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of 10x?",
+    "options": ["1", "x", "10"],
+    "answer": "10",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the value of 5^2?",
+    "options": ["20", "30", "25"],
+    "answer": "25",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 100 minus 50?",
+    "options": ["40", "60", "50"],
+    "answer": "50",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the perimeter of a rectangle with length 5 and width 3?",
+    "options": ["15", "18", "16"],
+    "answer": "16",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the area of a square with side length 6?",
+    "options": ["30", "42", "36"],
+    "answer": "36",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the mean of the set {1, 2, 3, 4, 5}?",
+    "options": ["2", "4", "3"],
+    "answer": "3",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the result of 8 + 8?",
+    "options": ["14", "18", "16"],
+    "answer": "16",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the product of 5 and 7?",
+    "options": ["30", "40", "35"],
+    "answer": "35",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the square root of 36?",
+    "options": ["7", "8", "6"],
+    "answer": "6",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is 2 plus 2?",
+    "options": ["3", "5", "4"],
+    "answer": "4",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the derivative of 12x?",
+    "options": ["x", "1", "12"],
+    "answer": "12",
+    "category": "Mathematics & Statistics"
+  },
+  {
+    "question": "What is the sum of 11 and 11?",
+    "options": ["21", "24", "22"],
+    "answer": "22",
+    "category": "Mathematics & Statistics"
+  }
+]

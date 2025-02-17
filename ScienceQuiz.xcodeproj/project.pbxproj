@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		EAC049A72D5E0A6B008608CC /* WatchQuiz Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = EAC049A62D5E0A6B008608CC /* WatchQuiz Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		EAC049A72D5E0A6B008608CC /* ScienceQuiz Watch App.app in Embed Watch Content */ = {isa = PBXBuildFile; fileRef = EAC049A62D5E0A6B008608CC /* ScienceQuiz Watch App.app */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,7 +27,7 @@
 			dstPath = "$(CONTENTS_FOLDER_PATH)/Watch";
 			dstSubfolderSpec = 16;
 			files = (
-				EAC049A72D5E0A6B008608CC /* WatchQuiz Watch App.app in Embed Watch Content */,
+				EAC049A72D5E0A6B008608CC /* ScienceQuiz Watch App.app in Embed Watch Content */,
 			);
 			name = "Embed Watch Content";
 			runOnlyForDeploymentPostprocessing = 0;
@@ -35,14 +35,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		EAC049A02D5E0A6B008608CC /* WatchQuiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WatchQuiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		EAC049A62D5E0A6B008608CC /* WatchQuiz Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "WatchQuiz Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EAC049A02D5E0A6B008608CC /* ScienceQuiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ScienceQuiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EAC049A62D5E0A6B008608CC /* ScienceQuiz Watch App.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ScienceQuiz Watch App.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		EAC049AA2D5E0A6B008608CC /* WatchQuiz Watch App */ = {
+		EAC049AA2D5E0A6B008608CC /* ScienceQuiz Watch App */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "WatchQuiz Watch App";
+			path = "ScienceQuiz Watch App";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -61,7 +61,7 @@
 		EAC049992D5E0A6A008608CC = {
 			isa = PBXGroup;
 			children = (
-				EAC049AA2D5E0A6B008608CC /* WatchQuiz Watch App */,
+				EAC049AA2D5E0A6B008608CC /* ScienceQuiz Watch App */,
 				EAC049A12D5E0A6B008608CC /* Products */,
 			);
 			sourceTree = "<group>";
@@ -69,8 +69,8 @@
 		EAC049A12D5E0A6B008608CC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EAC049A02D5E0A6B008608CC /* WatchQuiz.app */,
-				EAC049A62D5E0A6B008608CC /* WatchQuiz Watch App.app */,
+				EAC049A02D5E0A6B008608CC /* ScienceQuiz.app */,
+				EAC049A62D5E0A6B008608CC /* ScienceQuiz Watch App.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -78,9 +78,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EAC0499F2D5E0A6B008608CC /* WatchQuiz */ = {
+		EAC0499F2D5E0A6B008608CC /* ScienceQuiz */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EAC049BA2D5E0A6B008608CC /* Build configuration list for PBXNativeTarget "WatchQuiz" */;
+			buildConfigurationList = EAC049BA2D5E0A6B008608CC /* Build configuration list for PBXNativeTarget "ScienceQuiz" */;
 			buildPhases = (
 				EAC0499E2D5E0A6B008608CC /* Resources */,
 				EAC049B92D5E0A6B008608CC /* Embed Watch Content */,
@@ -90,16 +90,16 @@
 			dependencies = (
 				EAC049A92D5E0A6B008608CC /* PBXTargetDependency */,
 			);
-			name = WatchQuiz;
+			name = ScienceQuiz;
 			packageProductDependencies = (
 			);
 			productName = WatchQuiz;
-			productReference = EAC049A02D5E0A6B008608CC /* WatchQuiz.app */;
+			productReference = EAC049A02D5E0A6B008608CC /* ScienceQuiz.app */;
 			productType = "com.apple.product-type.application.watchapp2-container";
 		};
-		EAC049A52D5E0A6B008608CC /* WatchQuiz Watch App */ = {
+		EAC049A52D5E0A6B008608CC /* ScienceQuiz Watch App */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EAC049B62D5E0A6B008608CC /* Build configuration list for PBXNativeTarget "WatchQuiz Watch App" */;
+			buildConfigurationList = EAC049B62D5E0A6B008608CC /* Build configuration list for PBXNativeTarget "ScienceQuiz Watch App" */;
 			buildPhases = (
 				EAC049A22D5E0A6B008608CC /* Sources */,
 				EAC049A32D5E0A6B008608CC /* Frameworks */,
@@ -110,13 +110,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				EAC049AA2D5E0A6B008608CC /* WatchQuiz Watch App */,
+				EAC049AA2D5E0A6B008608CC /* ScienceQuiz Watch App */,
 			);
-			name = "WatchQuiz Watch App";
+			name = "ScienceQuiz Watch App";
 			packageProductDependencies = (
 			);
 			productName = "WatchQuiz Watch App";
-			productReference = EAC049A62D5E0A6B008608CC /* WatchQuiz Watch App.app */;
+			productReference = EAC049A62D5E0A6B008608CC /* ScienceQuiz Watch App.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -137,7 +137,7 @@
 					};
 				};
 			};
-			buildConfigurationList = EAC0499D2D5E0A6A008608CC /* Build configuration list for PBXProject "WatchQuiz" */;
+			buildConfigurationList = EAC0499D2D5E0A6A008608CC /* Build configuration list for PBXProject "ScienceQuiz" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -151,8 +151,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EAC0499F2D5E0A6B008608CC /* WatchQuiz */,
-				EAC049A52D5E0A6B008608CC /* WatchQuiz Watch App */,
+				EAC0499F2D5E0A6B008608CC /* ScienceQuiz */,
+				EAC049A52D5E0A6B008608CC /* ScienceQuiz Watch App */,
 			);
 		};
 /* End PBXProject section */
@@ -187,7 +187,7 @@
 /* Begin PBXTargetDependency section */
 		EAC049A92D5E0A6B008608CC /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = EAC049A52D5E0A6B008608CC /* WatchQuiz Watch App */;
+			target = EAC049A52D5E0A6B008608CC /* ScienceQuiz Watch App */;
 			targetProxy = EAC049A82D5E0A6B008608CC /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -315,11 +315,11 @@
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"WatchQuiz Watch App/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"ScienceQuiz Watch App/Preview Content\"";
 				DEVELOPMENT_TEAM = 347MX5UNQG;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = WatchQuiz;
+				INFOPLIST_KEY_CFBundleDisplayName = ScienceQuiz;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKWatchOnly = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -346,11 +346,11 @@
 				ASSETCATALOG_COMPILER_INCLUDE_ALL_APPICON_ASSETS = NO;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"WatchQuiz Watch App/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"ScienceQuiz Watch App/Preview Content\"";
 				DEVELOPMENT_TEAM = 347MX5UNQG;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = WatchQuiz;
+				INFOPLIST_KEY_CFBundleDisplayName = ScienceQuiz;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
 				INFOPLIST_KEY_WKWatchOnly = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -404,7 +404,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EAC0499D2D5E0A6A008608CC /* Build configuration list for PBXProject "WatchQuiz" */ = {
+		EAC0499D2D5E0A6A008608CC /* Build configuration list for PBXProject "ScienceQuiz" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EAC049B42D5E0A6B008608CC /* Debug */,
@@ -413,7 +413,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EAC049B62D5E0A6B008608CC /* Build configuration list for PBXNativeTarget "WatchQuiz Watch App" */ = {
+		EAC049B62D5E0A6B008608CC /* Build configuration list for PBXNativeTarget "ScienceQuiz Watch App" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EAC049B72D5E0A6B008608CC /* Debug */,
@@ -422,7 +422,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EAC049BA2D5E0A6B008608CC /* Build configuration list for PBXNativeTarget "WatchQuiz" */ = {
+		EAC049BA2D5E0A6B008608CC /* Build configuration list for PBXNativeTarget "ScienceQuiz" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EAC049BB2D5E0A6B008608CC /* Debug */,
