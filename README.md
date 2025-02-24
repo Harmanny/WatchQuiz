@@ -1,7 +1,7 @@
 # ScienceQuiz Watch App Landing Page
 
 ## Overview
-This repository hosts the landing page for the ScienceQuiz Watch App. It provides basic information about the app and its features. Please note that the source code for the app is not available here.
+This repository hosts the landing page for the ScienceQuiz Watch App. It provides basic information about the app and its features. 
 
 ## Landing Page Details
 - **Purpose:** To inform visitors about the ScienceQuiz Watch App.
